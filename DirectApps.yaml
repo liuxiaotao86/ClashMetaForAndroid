@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 13:23:55
+payload: # CreatedTime：2026-07-23 13:27:16
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.android.wallpapers	 #安卓壁纸
