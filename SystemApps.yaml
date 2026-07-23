@@ -1,0 +1,481 @@
+payload: # CreatedTime：2026-07-23 11:07:00
+  - PROCESS-NAME,android	 #Android 系统
+  - PROCESS-NAME,android.ext.services	 #Android Services Library
+  - PROCESS-NAME,android.ext.shared	 #Android Shared Library
+  - PROCESS-NAME,android.overlay.common	 #android.overlay.common
+  - PROCESS-NAME,android.overlay.marble	 #android.overlay.marble
+  - PROCESS-NAME,android.overlay.target	 #android.overlay.target
+  - PROCESS-NAME,android.overlay.xiaomi	 #android.overlay.xiaomi
+  - PROCESS-NAME,co.aospa.sense	 #Face Unlock
+  - PROCESS-NAME,co.aospa.sense.settings.overlay	 #co.aospa.sense.settings.overlay
+  - PROCESS-NAME,com.android.adservices.api	 #广告隐私权
+  - PROCESS-NAME,com.android.angle	 #Android System Angle
+  - PROCESS-NAME,com.android.backupconfirm	 #com.android.backupconfirm
+  - PROCESS-NAME,com.android.bips	 #默认打印服务
+  - PROCESS-NAME,com.android.bluetooth	 #蓝牙
+  - PROCESS-NAME,com.android.bluetoothmidiservice	 #Bluetooth MIDI Service
+  - PROCESS-NAME,com.android.calculator2	 #计算器
+  - PROCESS-NAME,com.android.calllogbackup	 #Call Log Backup/Restore
+  - PROCESS-NAME,com.android.camera	 #相机
+  - PROCESS-NAME,com.android.cameraextensions	 #CameraExtensionsProxy
+  - PROCESS-NAME,com.android.captiveportallogin	 #强制门户登录
+  - PROCESS-NAME,com.android.carrierconfig	 #com.android.carrierconfig
+  - PROCESS-NAME,com.android.carrierconfig.overlay.common	 #com.android.carrierconfig.overlay.common
+  - PROCESS-NAME,com.android.carrierdefaultapp	 #运营商通知
+  - PROCESS-NAME,com.android.cellbroadcastreceiver	 #com.android.cellbroadcastreceiver
+  - PROCESS-NAME,com.android.cellbroadcastreceiver.module	 #无线紧急警报
+  - PROCESS-NAME,com.android.cellbroadcastservice	 #Cell Broadcast Service
+  - PROCESS-NAME,com.android.certinstaller	 #证书安装程序
+  - PROCESS-NAME,com.android.chrome	 #Chrome
+  - PROCESS-NAME,com.android.companiondevicemanager	 #配套设备管理器
+  - PROCESS-NAME,com.android.connectivity.resources	 #系统网络连接资源
+  - PROCESS-NAME,com.android.credentialmanager	 #Credential Manager
+  - PROCESS-NAME,com.android.cts.ctsshim	 #com.android.cts.ctsshim
+  - PROCESS-NAME,com.android.cts.priv.ctsshim	 #com.android.cts.priv.ctsshim
+  - PROCESS-NAME,com.android.customization.themes	 #Themes
+  - PROCESS-NAME,com.android.deskclock	 #时钟
+  - PROCESS-NAME,com.android.devicelockcontroller	 #DeviceLockController
+  - PROCESS-NAME,com.android.dialer.overlay.xiaomi	 #com.android.dialer.overlay.xiaomi
+  - PROCESS-NAME,com.android.documentsui	 #文件
+  - PROCESS-NAME,com.android.documentsui.overlay	 #com.android.documentsui.overlay
+  - PROCESS-NAME,com.android.dreams.basic	 #基本互动屏保
+  - PROCESS-NAME,com.android.dreams.phototable	 #照片屏幕保护程序
+  - PROCESS-NAME,com.android.dynsystem	 #Dynamic System Updates
+  - PROCESS-NAME,com.android.egg	 #Android Easter Egg
+  - PROCESS-NAME,com.android.emergency	 #急救信息
+  - PROCESS-NAME,com.android.externalstorage	 #外部存储设备
+  - PROCESS-NAME,com.android.federatedcompute.services	 #com.android.federatedcompute.services
+  - PROCESS-NAME,com.android.frameworks.core.batterystatsviewer	 #Battery Stats Viewer
+  - PROCESS-NAME,com.android.gallery3d	 #图库
+  - PROCESS-NAME,com.android.health.connect.backuprestore	 #com.android.health.connect.backuprestore
+  - PROCESS-NAME,com.android.healthconnect.controller	 #健康数据共享
+  - PROCESS-NAME,com.android.hotspot2.osulogin	 #OsuLogin
+  - PROCESS-NAME,com.android.htmlviewer	 #HTML 查看程序
+  - PROCESS-NAME,com.android.imsserviceentitlement	 #com.android.imsserviceentitlement
+  - PROCESS-NAME,com.android.inputdevices	 #输入设备
+  - PROCESS-NAME,com.android.intentresolver	 #IntentResolver
+  - PROCESS-NAME,com.android.internal.display.cutout.emulation.corner	 #边角刘海屏
+  - PROCESS-NAME,com.android.internal.display.cutout.emulation.double	 #双刘海屏
+  - PROCESS-NAME,com.android.internal.display.cutout.emulation.hole	 #打孔屏
+  - PROCESS-NAME,com.android.internal.display.cutout.emulation.tall	 #长型刘海屏
+  - PROCESS-NAME,com.android.internal.display.cutout.emulation.waterfall	 #瀑布刘海屏
+  - PROCESS-NAME,com.android.internal.systemui.navbar.gestural	 #Gestural Navigation Bar
+  - PROCESS-NAME,com.android.internal.systemui.navbar.gestural_extra_wide_back	 #Gestural Navigation Bar
+  - PROCESS-NAME,com.android.internal.systemui.navbar.gestural_narrow_back	 #Gestural Navigation Bar
+  - PROCESS-NAME,com.android.internal.systemui.navbar.gestural_wide_back	 #Gestural Navigation Bar
+  - PROCESS-NAME,com.android.internal.systemui.navbar.threebutton	 #3 Button Navigation Bar
+  - PROCESS-NAME,com.android.internal.systemui.navbar.transparent	 #Transparent navigation bar
+  - PROCESS-NAME,com.android.internal.systemui.navbar.twobutton	 #2 Button Navigation Bar
+  - PROCESS-NAME,com.android.keychain	 #密钥链
+  - PROCESS-NAME,com.android.launcher3	 #crDroid Home
+  - PROCESS-NAME,com.android.localtransport	 #com.android.localtransport
+  - PROCESS-NAME,com.android.location.fused	 #一体化位置信息
+  - PROCESS-NAME,com.android.managedprovisioning	 #工作设置
+  - PROCESS-NAME,com.android.mms.service	 #信息服务
+  - PROCESS-NAME,com.android.modulemetadata	 #Module Metadata
+  - PROCESS-NAME,com.android.mtp	 #MTP 主机
+  - PROCESS-NAME,com.android.networkstack	 #网络管理器
+  - PROCESS-NAME,com.android.networkstack.overlay	 #com.android.networkstack.overlay
+  - PROCESS-NAME,com.android.networkstack.tethering	 #Tethering
+  - PROCESS-NAME,com.android.nfc	 #NFC 服务
+  - PROCESS-NAME,com.android.nfc.overlay.marble	 #com.android.nfc.overlay.marble
+  - PROCESS-NAME,com.android.ondevicepersonalization.services	 #com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication
+  - PROCESS-NAME,com.android.ons	 #com.android.ons
+  - PROCESS-NAME,com.android.packageinstaller	 #软件包安装程序
+  - PROCESS-NAME,com.android.pacprocessor	 #PacProcessor
+  - PROCESS-NAME,com.android.permissioncontroller	 #权限控制器
+  - PROCESS-NAME,com.android.phone	 #电话服务
+  - PROCESS-NAME,com.android.phone.overlay.common	 #com.android.phone.overlay.common
+  - PROCESS-NAME,com.android.printservice.recommendation	 #Print Service Recommendation Service
+  - PROCESS-NAME,com.android.printspooler	 #打印处理服务
+  - PROCESS-NAME,com.android.providers.blockednumber	 #存储已屏蔽的号码
+  - PROCESS-NAME,com.android.providers.calendar	 #日历存储
+  - PROCESS-NAME,com.android.providers.contactkeys	 #ContactsKeys Storage
+  - PROCESS-NAME,com.android.providers.contacts	 #联系人存储
+  - PROCESS-NAME,com.android.providers.downloads	 #内容下载管理器
+  - PROCESS-NAME,com.android.providers.downloads.ui	 #下载
+  - PROCESS-NAME,com.android.providers.media	 #com.android.providers.media
+  - PROCESS-NAME,com.android.providers.media.module	 #媒体选择工具
+  - PROCESS-NAME,com.android.providers.settings	 #设置存储
+  - PROCESS-NAME,com.android.providers.settings.overlay.marble	 #com.android.providers.settings.overlay.marble
+  - PROCESS-NAME,com.android.providers.settings.overlay.marblecn	 #com.android.providers.settings.overlay.marblecn
+  - PROCESS-NAME,com.android.providers.settings.overlay.xiaomi	 #com.android.providers.settings.overlay.xiaomi
+  - PROCESS-NAME,com.android.providers.telephony	 #电话和短信存储
+  - PROCESS-NAME,com.android.providers.userdictionary	 #用户字典
+  - PROCESS-NAME,com.android.proxyhandler	 #ProxyHandler
+  - PROCESS-NAME,com.android.rkpdapp	 #RemoteProvisioner
+  - PROCESS-NAME,com.android.role.notes.enabled	 #Notes Role enabled
+  - PROCESS-NAME,com.android.safetycenter.resources	 #安全中心资源
+  - PROCESS-NAME,com.android.sdksandbox	 #com.android.sdksandbox
+  - PROCESS-NAME,com.android.se	 #SecureElementApplication
+  - PROCESS-NAME,com.android.server.deviceconfig.resources	 #com.android.server.deviceconfig.resources
+  - PROCESS-NAME,com.android.server.telecom	 #电话
+  - PROCESS-NAME,com.android.server.telecom.overlay.common	 #com.android.server.telecom.overlay.common
+  - PROCESS-NAME,com.android.settings	 #设置
+  - PROCESS-NAME,com.android.settings.intelligence	 #设置建议
+  - PROCESS-NAME,com.android.settings.overlay.common	 #com.android.settings.overlay.common
+  - PROCESS-NAME,com.android.settings.overlay.marble	 #com.android.settings.overlay.marble
+  - PROCESS-NAME,com.android.settings.overlay.xiaomi	 #com.android.settings.overlay.xiaomi
+  - PROCESS-NAME,com.android.sharedstoragebackup	 #com.android.sharedstoragebackup
+  - PROCESS-NAME,com.android.shell	 #Shell
+  - PROCESS-NAME,com.android.simappdialog	 #Sim App Dialog
+  - PROCESS-NAME,com.android.smspush	 #com.android.smspush
+  - PROCESS-NAME,com.android.soundpicker	 #声音
+  - PROCESS-NAME,com.android.statementservice	 #Intent Filter Verification Service
+  - PROCESS-NAME,com.android.stk	 #SIM 卡工具包
+  - PROCESS-NAME,com.android.storagemanager	 #存储空间管理器
+  - PROCESS-NAME,com.android.system.navbar.android	 #Android
+  - PROCESS-NAME,com.android.system.navbar.asus	 #Asus
+  - PROCESS-NAME,com.android.system.navbar.dora	 #Dora
+  - PROCESS-NAME,com.android.system.navbar.moto	 #Moto
+  - PROCESS-NAME,com.android.system.navbar.nexus	 #Nexus
+  - PROCESS-NAME,com.android.system.navbar.old	 #Old
+  - PROCESS-NAME,com.android.system.navbar.oneplus	 #OnePlus
+  - PROCESS-NAME,com.android.system.navbar.oneui	 #OneUi
+  - PROCESS-NAME,com.android.system.navbar.sammy	 #Sammy
+  - PROCESS-NAME,com.android.system.navbar.tecno	 #TecnoCamon
+  - PROCESS-NAME,com.android.system.qs.cyberpunk	 #CyberPunk QS-Panel
+  - PROCESS-NAME,com.android.system.qs.neumorph	 #Neumorph QS-Panel
+  - PROCESS-NAME,com.android.system.qs.outline	 #Outline QS-Panel
+  - PROCESS-NAME,com.android.system.qs.reflected	 #Reflected QS-Panel
+  - PROCESS-NAME,com.android.system.qs.shaded	 #Shaded QS-Panel
+  - PROCESS-NAME,com.android.system.qs.surround	 #Surround QS-Panel
+  - PROCESS-NAME,com.android.system.qs.thin	 #Thin QS-Panel
+  - PROCESS-NAME,com.android.system.qs.twotoneaccent	 #Two-Tone Accent QS-Panel
+  - PROCESS-NAME,com.android.system.qs.twotoneaccenttrans	 #Two-Tone Accent Translucent QS-Panel
+  - PROCESS-NAME,com.android.system.qs.ui.A11	 #A11 QS-UI
+  - PROCESS-NAME,com.android.system.theme.black	 #Black Theme
+  - PROCESS-NAME,com.android.systemui	 #系统界面
+  - PROCESS-NAME,com.android.systemui.accessibility.accessibilitymenu	 #com.android.systemui.accessibility.accessibilitymenu
+  - PROCESS-NAME,com.android.systemui.clocks.bignum	 #com.android.systemui.clocks.bignum
+  - PROCESS-NAME,com.android.systemui.clocks.calligraphy	 #com.android.systemui.clocks.calligraphy
+  - PROCESS-NAME,com.android.systemui.clocks.flex	 #com.android.systemui.clocks.flex
+  - PROCESS-NAME,com.android.systemui.clocks.growth	 #com.android.systemui.clocks.growth
+  - PROCESS-NAME,com.android.systemui.clocks.inflate	 #com.android.systemui.clocks.inflate
+  - PROCESS-NAME,com.android.systemui.clocks.metro	 #com.android.systemui.clocks.metro
+  - PROCESS-NAME,com.android.systemui.clocks.numoverlap	 #com.android.systemui.clocks.numoverlap
+  - PROCESS-NAME,com.android.systemui.clocks.weather	 #com.android.systemui.clocks.weather
+  - PROCESS-NAME,com.android.systemui.overlay.common	 #com.android.systemui.overlay.common
+  - PROCESS-NAME,com.android.systemui.overlay.marble	 #com.android.systemui.overlay.marble
+  - PROCESS-NAME,com.android.systemui.plugin.globalactions.wallet	 #com.android.systemui.plugin.globalactions.wallet
+  - PROCESS-NAME,com.android.systemui.signalGradicon	 #Gradicon
+  - PROCESS-NAME,com.android.systemui.signalNothingDot	 #NothingDoT
+  - PROCESS-NAME,com.android.systemui.signalbar_a	 #Stroke
+  - PROCESS-NAME,com.android.systemui.signalbar_aa	 #Aquarium
+  - PROCESS-NAME,com.android.systemui.signalbar_ab	 #Butterfly
+  - PROCESS-NAME,com.android.systemui.signalbar_ac	 #Dani
+  - PROCESS-NAME,com.android.systemui.signalbar_ad	 #Deec
+  - PROCESS-NAME,com.android.systemui.signalbar_ae	 #Deep
+  - PROCESS-NAME,com.android.systemui.signalbar_af	 #Equal
+  - PROCESS-NAME,com.android.systemui.signalbar_ag	 #Fan
+  - PROCESS-NAME,com.android.systemui.signalbar_ah	 #Huaweii
+  - PROCESS-NAME,com.android.systemui.signalbar_ai	 #Reel
+  - PROCESS-NAME,com.android.systemui.signalbar_aj	 #Scroll
+  - PROCESS-NAME,com.android.systemui.signalbar_ak	 #Sea
+  - PROCESS-NAME,com.android.systemui.signalbar_al	 #Stack
+  - PROCESS-NAME,com.android.systemui.signalbar_am	 #Wanna
+  - PROCESS-NAME,com.android.systemui.signalbar_an	 #Windows
+  - PROCESS-NAME,com.android.systemui.signalbar_ao	 #Wing
+  - PROCESS-NAME,com.android.systemui.signalbar_ap	 #Odinee
+  - PROCESS-NAME,com.android.systemui.signalbar_aq	 #Circle
+  - PROCESS-NAME,com.android.systemui.signalbar_ar	 #Ios
+  - PROCESS-NAME,com.android.systemui.signalbar_as	 #Mini
+  - PROCESS-NAME,com.android.systemui.signalbar_at	 #Pills
+  - PROCESS-NAME,com.android.systemui.signalbar_au	 #Roman
+  - PROCESS-NAME,com.android.systemui.signalbar_b	 #Sneaky
+  - PROCESS-NAME,com.android.systemui.signalbar_c	 #Xperia
+  - PROCESS-NAME,com.android.systemui.signalbar_d	 #Zig-Zag
+  - PROCESS-NAME,com.android.systemui.signalbar_f	 #Round
+  - PROCESS-NAME,com.android.systemui.signalbar_g	 #Inside
+  - PROCESS-NAME,com.android.systemui.signalbar_h	 #Bars
+  - PROCESS-NAME,com.android.systemui.signalbar_j	 #Dora
+  - PROCESS-NAME,com.android.systemui.wifiGradicon	 #Gradicon
+  - PROCESS-NAME,com.android.systemui.wifiNothingDot	 #NothingDoT
+  - PROCESS-NAME,com.android.systemui.wifibar_a	 #Stroke
+  - PROCESS-NAME,com.android.systemui.wifibar_b	 #Sneaky
+  - PROCESS-NAME,com.android.systemui.wifibar_c	 #Xperia
+  - PROCESS-NAME,com.android.systemui.wifibar_d	 #Zig-Zag
+  - PROCESS-NAME,com.android.systemui.wifibar_e	 #Wavy
+  - PROCESS-NAME,com.android.systemui.wifibar_f	 #Round
+  - PROCESS-NAME,com.android.systemui.wifibar_g	 #Inside
+  - PROCESS-NAME,com.android.systemui.wifibar_h	 #Bars
+  - PROCESS-NAME,com.android.systemui.wifibar_i	 #Weed
+  - PROCESS-NAME,com.android.systemui.wifibar_j	 #Dora
+  - PROCESS-NAME,com.android.theme.font.accuratist	 #Accuratist
+  - PROCESS-NAME,com.android.theme.font.aclonica	 #Aclonica
+  - PROCESS-NAME,com.android.theme.font.amarante	 #Amarante
+  - PROCESS-NAME,com.android.theme.font.bariol	 #Bariol
+  - PROCESS-NAME,com.android.theme.font.cagliostro	 #Cagliostro
+  - PROCESS-NAME,com.android.theme.font.cocon	 #Cocon
+  - PROCESS-NAME,com.android.theme.font.comfortaa	 #Comfortaa
+  - PROCESS-NAME,com.android.theme.font.comicsans	 #Comic Sans
+  - PROCESS-NAME,com.android.theme.font.cookierun	 #CookieRun
+  - PROCESS-NAME,com.android.theme.font.coolstory	 #Coolstory
+  - PROCESS-NAME,com.android.theme.font.exotwo	 #ExoTwo
+  - PROCESS-NAME,com.android.theme.font.fifa2018	 #Fifa 2018
+  - PROCESS-NAME,com.android.theme.font.grandhotel	 #grandhotel
+  - PROCESS-NAME,com.android.theme.font.harmonysans	 #HarmonyOS Sans
+  - PROCESS-NAME,com.android.theme.font.lato	 #Lato
+  - PROCESS-NAME,com.android.theme.font.linotte	 #Linotte
+  - PROCESS-NAME,com.android.theme.font.nokiapure	 #Nokia Pure
+  - PROCESS-NAME,com.android.theme.font.nothingdot	 #NothingDot
+  - PROCESS-NAME,com.android.theme.font.nothingdotheadline	 #NothingDot57
+  - PROCESS-NAME,com.android.theme.font.notoserifsource	 #Noto Serif / Source Sans Pro
+  - PROCESS-NAME,com.android.theme.font.nunito	 #Nunito
+  - PROCESS-NAME,com.android.theme.font.oneplussans	 #OnePlus Sans
+  - PROCESS-NAME,com.android.theme.font.oneplusslate	 #OnePlus Slate
+  - PROCESS-NAME,com.android.theme.font.oswald	 #Oswald
+  - PROCESS-NAME,com.android.theme.font.play	 #Play
+  - PROCESS-NAME,com.android.theme.font.quando	 #Quando
+  - PROCESS-NAME,com.android.theme.font.redressed	 #redressed
+  - PROCESS-NAME,com.android.theme.font.reemkufi	 #ReemKufi
+  - PROCESS-NAME,com.android.theme.font.robotocondensed	 #Roboto Condensed
+  - PROCESS-NAME,com.android.theme.font.rubik	 #Rubik
+  - PROCESS-NAME,com.android.theme.font.samsungone	 #SamsungOne
+  - PROCESS-NAME,com.android.theme.font.sanfrancisco	 #San Francisco Display Pro
+  - PROCESS-NAME,com.android.theme.font.sansserif	 #Sans-Serif
+  - PROCESS-NAME,com.android.theme.font.sonysketch	 #SonySketch
+  - PROCESS-NAME,com.android.theme.font.storopia	 #Storopia
+  - PROCESS-NAME,com.android.theme.font.surfer	 #Surfer
+  - PROCESS-NAME,com.android.theme.font.ubuntu	 #Ubuntu
+  - PROCESS-NAME,com.android.theme.icon.cloudy	 #Cloudy
+  - PROCESS-NAME,com.android.theme.icon.cylinder	 #Cylinder
+  - PROCESS-NAME,com.android.theme.icon.flower	 #Flower
+  - PROCESS-NAME,com.android.theme.icon.heart	 #Heart
+  - PROCESS-NAME,com.android.theme.icon.hexagon	 #Hexagon
+  - PROCESS-NAME,com.android.theme.icon.ios	 #Ios
+  - PROCESS-NAME,com.android.theme.icon.leaf	 #Leaf
+  - PROCESS-NAME,com.android.theme.icon.meow	 #Meow
+  - PROCESS-NAME,com.android.theme.icon.pebble	 #Pebble
+  - PROCESS-NAME,com.android.theme.icon.roundedhexagon	 #Rounded Hexagon
+  - PROCESS-NAME,com.android.theme.icon.roundedrect	 #Rounded Rectangle
+  - PROCESS-NAME,com.android.theme.icon.samsung	 #Samsung
+  - PROCESS-NAME,com.android.theme.icon.scroll	 #Scroll
+  - PROCESS-NAME,com.android.theme.icon.square	 #Square
+  - PROCESS-NAME,com.android.theme.icon.squircle	 #Squircle
+  - PROCESS-NAME,com.android.theme.icon.stretched	 #Stretched
+  - PROCESS-NAME,com.android.theme.icon.taperedrect	 #Tapered Rect
+  - PROCESS-NAME,com.android.theme.icon.teardrop	 #Teardrop
+  - PROCESS-NAME,com.android.theme.icon.vessel	 #Vessel
+  - PROCESS-NAME,com.android.theme.icon_pack.acherus.android	 #Acherus
+  - PROCESS-NAME,com.android.theme.icon_pack.acherus.launcher	 #Acherus
+  - PROCESS-NAME,com.android.theme.icon_pack.acherus.settings	 #Acherus
+  - PROCESS-NAME,com.android.theme.icon_pack.acherus.systemui	 #Acherus
+  - PROCESS-NAME,com.android.theme.icon_pack.aurora.android	 #Aurora
+  - PROCESS-NAME,com.android.theme.icon_pack.aurora.systemui	 #Aurora
+  - PROCESS-NAME,com.android.theme.icon_pack.circular.android	 #Circular
+  - PROCESS-NAME,com.android.theme.icon_pack.circular.launcher	 #Circular
+  - PROCESS-NAME,com.android.theme.icon_pack.circular.settings	 #Circular
+  - PROCESS-NAME,com.android.theme.icon_pack.circular.systemui	 #Circular
+  - PROCESS-NAME,com.android.theme.icon_pack.circular.themepicker	 #Circular
+  - PROCESS-NAME,com.android.theme.icon_pack.filled.android	 #Filled
+  - PROCESS-NAME,com.android.theme.icon_pack.filled.launcher	 #Filled
+  - PROCESS-NAME,com.android.theme.icon_pack.filled.settings	 #Filled
+  - PROCESS-NAME,com.android.theme.icon_pack.filled.systemui	 #Filled
+  - PROCESS-NAME,com.android.theme.icon_pack.filled.themepicker	 #Filled
+  - PROCESS-NAME,com.android.theme.icon_pack.gradicon.android	 #Gradicon
+  - PROCESS-NAME,com.android.theme.icon_pack.gradicon.systemui	 #Gradicon
+  - PROCESS-NAME,com.android.theme.icon_pack.kai.android	 #Kai
+  - PROCESS-NAME,com.android.theme.icon_pack.kai.launcher	 #Kai
+  - PROCESS-NAME,com.android.theme.icon_pack.kai.settings	 #Kai
+  - PROCESS-NAME,com.android.theme.icon_pack.kai.systemui	 #Kai
+  - PROCESS-NAME,com.android.theme.icon_pack.kai.themepicker	 #Kai
+  - PROCESS-NAME,com.android.theme.icon_pack.lorn.android	 #Lorn
+  - PROCESS-NAME,com.android.theme.icon_pack.lorn.systemui	 #Lorn
+  - PROCESS-NAME,com.android.theme.icon_pack.oos.android	 #OxygenOS
+  - PROCESS-NAME,com.android.theme.icon_pack.oos.launcher	 #OxygenOS
+  - PROCESS-NAME,com.android.theme.icon_pack.oos.settings	 #OxygenOS
+  - PROCESS-NAME,com.android.theme.icon_pack.oos.systemui	 #OxygenOS
+  - PROCESS-NAME,com.android.theme.icon_pack.oos.themepicker	 #OxygenOS
+  - PROCESS-NAME,com.android.theme.icon_pack.outline.android	 #Outline
+  - PROCESS-NAME,com.android.theme.icon_pack.outline.launcher	 #Outline
+  - PROCESS-NAME,com.android.theme.icon_pack.outline.settings	 #Outline
+  - PROCESS-NAME,com.android.theme.icon_pack.outline.systemui	 #Outline
+  - PROCESS-NAME,com.android.theme.icon_pack.plumpy.android	 #Plumpy
+  - PROCESS-NAME,com.android.theme.icon_pack.plumpy.systemui	 #Plumpy
+  - PROCESS-NAME,com.android.theme.icon_pack.pui.android	 #Pavlova UI
+  - PROCESS-NAME,com.android.theme.icon_pack.pui.launcher	 #Pavlova UI
+  - PROCESS-NAME,com.android.theme.icon_pack.pui.settings	 #Pavlova UI
+  - PROCESS-NAME,com.android.theme.icon_pack.pui.systemui	 #Pavlova UI
+  - PROCESS-NAME,com.android.theme.icon_pack.pui.themepicker	 #Pavlova UI
+  - PROCESS-NAME,com.android.theme.icon_pack.rounded.android	 #Rounded
+  - PROCESS-NAME,com.android.theme.icon_pack.rounded.launcher	 #Rounded
+  - PROCESS-NAME,com.android.theme.icon_pack.rounded.settings	 #Rounded
+  - PROCESS-NAME,com.android.theme.icon_pack.rounded.systemui	 #Rounded
+  - PROCESS-NAME,com.android.theme.icon_pack.rounded.themepicker	 #Rounded
+  - PROCESS-NAME,com.android.theme.icon_pack.sam.android	 #Sam
+  - PROCESS-NAME,com.android.theme.icon_pack.sam.launcher	 #Sam
+  - PROCESS-NAME,com.android.theme.icon_pack.sam.settings	 #Sam
+  - PROCESS-NAME,com.android.theme.icon_pack.sam.systemui	 #Sam
+  - PROCESS-NAME,com.android.theme.icon_pack.sam.themepicker	 #Sam
+  - PROCESS-NAME,com.android.theme.icon_pack.victor.android	 #Victor
+  - PROCESS-NAME,com.android.theme.icon_pack.victor.launcher	 #Victor
+  - PROCESS-NAME,com.android.theme.icon_pack.victor.settings	 #Victor
+  - PROCESS-NAME,com.android.theme.icon_pack.victor.systemui	 #Victor
+  - PROCESS-NAME,com.android.theme.icon_pack.victor.themepicker	 #Victor
+  - PROCESS-NAME,com.android.theme.icon_pack.xperia.android	 #Xperia
+  - PROCESS-NAME,com.android.theme.icon_pack.xperia.settings	 #Xperia
+  - PROCESS-NAME,com.android.theme.icon_pack.xperia.systemui	 #Xperia
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.accuratist	 #Accuratist
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.acfilmstrip	 #ACFilmstrip
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.aclonica	 #Aclonica
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.almontesnow	 #AlmonteSnow
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.alphaclouds	 #AlphaClouds
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.alphaflowers	 #AlphaFlowers
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.alphawood	 #AlphaWood
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.amarante	 #Amarante
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.ampad3d2	 #Ampad3D2
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.bariol	 #Bariol
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.betsyflanagan	 #BetsyFlanagan
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.bigcheese	 #BigCheese
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.brandayolq	 #Brandayolq
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.budmojiggler	 #BudmoJiggler
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.bunnyrabbits	 #BunnyRabbits
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.cagliostro	 #Cagliostro
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.cat	 #Cat
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.cfbadnews	 #CFBadNews
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.cfonetwotrees	 #CFOneTwoTrees
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.cocon	 #Cocon
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.comfortaa	 #Comfortaa
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.comicsans	 #Comic Sans
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.concentrate	 #Concentrate
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.cookierun	 #CookieRun
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.coolstory	 #Coolstory
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.crackman	 #CRACKMAN
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.discomidnight	 #DiscoMidnight
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.easterbunny	 #EasterBunny
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.editpoints	 #EditPoints
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.editpointsfilled	 #EditPointsFilled
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.elriott2	 #ELRIOTT2
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.exotwo	 #ExoTwo
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.fibography	 #Fibography
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.fifa2018	 #Fifa 2018
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.floorlight	 #Floorlight
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.gautsmotelupperright	 #GautsMotelUpperRight
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.grandhotel	 #grandhotel
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.hanged	 #Hanged
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.harmonysans	 #HarmonyOS Sans
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.hotsweat	 #HotSweat
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.karamuruh	 #Karamuruh
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.kgonlyhope	 #KGOnlyHope
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.kingthings	 #Kingthings
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.lato	 #Lato
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.linotte	 #Linotte
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.littlebunny	 #LittleBunny
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.lmsclifford	 #LMSClifford
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.loweratmosphere	 #LowerAtmosphere
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.messinglettern	 #MessingLettern
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.monbijouxclownpiece	 #MonbijouxClownpiece
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.neondisco	 #NeonDisco
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.ninjas	 #NINJAS
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.nokiapure	 #Nokia Pure
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.nothingdotheadline	 #NothingDot
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.nunito	 #Nunito
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.oneplussans	 #OnePlus Sans
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.oneplusslate	 #OnePlus Slate
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.oswald	 #Oswald
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.pinewood	 #Pinewood
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.plaidevent	 #PlaidEvent
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.plantsletters	 #PlantsLetters
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.play	 #Play
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.quando	 #Quando
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.quicksouth	 #QuickSouth
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.redressed	 #redressed
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.reemkufi	 #ReemKufi
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.remponk	 #REMPONK
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.robotocondensed	 #Roboto Condensed
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.romantiques	 #Romantiques
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.roundheads	 #Roundheads
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.rubik	 #Rubik
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.samsungone	 #SamsungOne
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.sansserif	 #Sans-Serif (monospace)
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.scrapitup	 #ScrapItUp
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.sonysketch	 #SonySketch
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.spacegame	 #SpaceGame
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.standardheader	 #StandardHeader
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.storopia	 #Storopia
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.surfer	 #Surfer
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.th3machine	 #TH3MACHINE
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.ubuntu	 #Ubuntu
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.vtksdura3d	 #VTKSDURA3d
+  - PROCESS-NAME,com.android.theme.lockscreen_clock_font.znikomitno24	 #ZnikomitNo24
+  - PROCESS-NAME,com.android.uwb.resources	 #System UWB Resources
+  - PROCESS-NAME,com.android.vending	 #Google Play 商店
+  - PROCESS-NAME,com.android.virtualmachine.res	 #com.android.virtualmachine.res
+  - PROCESS-NAME,com.android.vpndialogs	 #VpnDialogs
+  - PROCESS-NAME,com.android.wallpaper	 #壁纸与个性化
+  - PROCESS-NAME,com.android.wallpaper.livepicker	 #Live Wallpaper Picker
+  - PROCESS-NAME,com.android.wallpaperbackup	 #com.android.wallpaperbackup
+  - PROCESS-NAME,com.android.wifi.dialog	 #com.android.wifi.dialog
+  - PROCESS-NAME,com.android.wifi.resources	 #系统 WLAN 资源
+  - PROCESS-NAME,com.android.wifi.resources.overlay.common	 #com.android.wifi.resources.overlay.common
+  - PROCESS-NAME,com.android.wifi.resources.overlay.marble	 #com.android.wifi.resources.overlay.marble
+  - PROCESS-NAME,com.android.wifi.resources.overlay.marblecn	 #com.android.wifi.resources.overlay.marblecn
+  - PROCESS-NAME,com.android.wifi.resources.overlay.taro	 #com.android.wifi.resources.overlay.taro
+  - PROCESS-NAME,com.crdroid.colorstub	 #Pixel Colors
+  - PROCESS-NAME,com.crdroid.systemui.signalbar_e	 #Wavy
+  - PROCESS-NAME,com.custom.overlay.systemui.gestural.hidden	 #Hidden
+  - PROCESS-NAME,com.custom.overlay.systemui.gestural.hidden_narrow_back	 #Hidden (narrow back)
+  - PROCESS-NAME,com.custom.overlay.systemui.gestural.long	 #Long
+  - PROCESS-NAME,com.custom.overlay.systemui.gestural.medium	 #Medium
+  - PROCESS-NAME,com.custom.overlay.systemui.signalAurora	 #Aurora
+  - PROCESS-NAME,com.custom.overlay.systemui.signalFaintUI	 #FaintUI
+  - PROCESS-NAME,com.custom.overlay.systemui.signalForlorn	 #Forlorn
+  - PROCESS-NAME,com.custom.overlay.systemui.signalPlumpy	 #Plumpy
+  - PROCESS-NAME,com.custom.overlay.systemui.wifiAurora	 #Aurora
+  - PROCESS-NAME,com.custom.overlay.systemui.wifiFaintUI	 #FaintUI
+  - PROCESS-NAME,com.custom.overlay.systemui.wifiForlorn	 #Forlorn
+  - PROCESS-NAME,com.custom.overlay.systemui.wifiPlumpy	 #Plumpy
+  - PROCESS-NAME,com.google.android.apps.messaging	 #信息
+  - PROCESS-NAME,com.google.android.contacts	 #通讯录
+  - PROCESS-NAME,com.google.android.dialer	 #电话
+  - PROCESS-NAME,com.google.android.gm	 #Gmail
+  - PROCESS-NAME,com.google.android.gms	 #Google Play 服务
+  - PROCESS-NAME,com.google.android.gsf	 #Google 服务框架
+  - PROCESS-NAME,com.google.android.inputmethod.latin	 #Gboard
+  - PROCESS-NAME,com.google.android.syncadapters.calendar	 #Google 日历同步
+  - PROCESS-NAME,com.google.android.syncadapters.contacts	 #Google通讯录同步
+  - PROCESS-NAME,com.google.android.tts	 #Google 语音识别和语音合成
+  - PROCESS-NAME,com.google.android.webview	 #Android System WebView
+  - PROCESS-NAME,com.nikgapps.overlay.contacts	 #com.nikgapps.overlay.contacts
+  - PROCESS-NAME,com.nikgapps.overlay.dialer	 #com.nikgapps.overlay.dialer
+  - PROCESS-NAME,com.nikgapps.overlay.gmscore	 #com.nikgapps.overlay.gmscore
+  - PROCESS-NAME,com.nikgapps.overlay.googletts	 #com.nikgapps.overlay.googletts
+  - PROCESS-NAME,com.nikgapps.overlay.messages	 #com.nikgapps.overlay.messages
+  - PROCESS-NAME,com.qti.dpmserviceapp	 #com.qti.dpmserviceapp
+  - PROCESS-NAME,com.qti.phone	 #com.qti.phone
+  - PROCESS-NAME,com.qti.qcc	 #QCC
+  - PROCESS-NAME,com.qualcomm.qcrilmsgtunnel	 #com.qualcomm.qcrilmsgtunnel
+  - PROCESS-NAME,com.qualcomm.qti.cne	 #CneApp
+  - PROCESS-NAME,com.qualcomm.qti.gpudrivers.taro.api31	 #Adreno Graphics Drivers
+  - PROCESS-NAME,com.qualcomm.qti.poweroffalarm	 #关机闹钟
+  - PROCESS-NAME,com.qualcomm.qti.telephonyservice	 #com.qualcomm.qti.telephonyservice
+  - PROCESS-NAME,com.qualcomm.qti.uimGbaApp	 #com.qualcomm.qti.uimGbaApp
+  - PROCESS-NAME,com.qualcomm.timeservice	 #com.qualcomm.timeservice
+  - PROCESS-NAME,com.qualcomm.wfd.service	 #Wfd Service
+  - PROCESS-NAME,com.stevesoltys.seedvault	 #Seedvault
+  - PROCESS-NAME,com.tencent.soter.soterserver	 #SoterService
+  - PROCESS-NAME,lineageos.platform	 #crDroid 系统
+  - PROCESS-NAME,lineageos.platform.overlay.xiaomi	 #lineageos.platform.overlay.xiaomi
+  - PROCESS-NAME,org.calyxos.backup.contacts	 #本地联系人备份
+  - PROCESS-NAME,org.codeaurora.ims	 #org.codeaurora.ims
+  - PROCESS-NAME,org.lineageos.aperture.overlay.marble	 #org.lineageos.aperture.overlay.marble
+  - PROCESS-NAME,org.lineageos.backgrounds	 #壁纸
+  - PROCESS-NAME,org.lineageos.eleven	 #音乐
+  - PROCESS-NAME,org.lineageos.etar	 #日历
+  - PROCESS-NAME,org.lineageos.glimpse	 #图库
+  - PROCESS-NAME,org.lineageos.glimpse.frameworksbaseoverlay	 #org.lineageos.glimpse.frameworksbaseoverlay
+  - PROCESS-NAME,org.lineageos.lineageparts	 #crDroid 设置
+  - PROCESS-NAME,org.lineageos.lineagesettings	 #Lineage 设置储存
+  - PROCESS-NAME,org.lineageos.profiles	 #情景模式信任提供器
+  - PROCESS-NAME,org.lineageos.recorder	 #录音机
+  - PROCESS-NAME,org.lineageos.settings	 #高级设置
+  - PROCESS-NAME,org.lineageos.settingsconfig	 #Simple Settings Configuration
+  - PROCESS-NAME,org.lineageos.setupwizard	 #设置向导
+  - PROCESS-NAME,org.omnirom.logcat	 #MatLog
+  - PROCESS-NAME,org.omnirom.omnijaws	 #OmniJaws
+  - PROCESS-NAME,org.omnirom.omnistyle	 #OmniStyle
+  - PROCESS-NAME,org.protonaosp.deviceconfig	 #Simple Device Configuration
+  - PROCESS-NAME,vendor.qti.hardware.cacert.server	 #CACertApp
+  - PROCESS-NAME,vendor.qti.imsrcs	 #vendor.qti.imsrcs
+  - PROCESS-NAME,vendor.qti.iwlan	 #vendor.qti.iwlan

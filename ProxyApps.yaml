@@ -1,0 +1,77 @@
+payload: # CreatedTime：2026-07-23 11:07:00
+  - PROCESS-NAME,ai.x.grok	 #Grok
+  - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
+  - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
+  - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
+  - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
+  - PROCESS-NAME,com.alibaba.aliexpresshd	 #AliExpress
+  - PROCESS-NAME,com.amazon.mShop.android.shopping	 #亚马逊购物
+  - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
+  - PROCESS-NAME,com.crazygames.crazygamesapp	 #CrazyGames
+  - PROCESS-NAME,com.discord	 #Discord
+  - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
+  - PROCESS-NAME,com.facebook.katana	 #Facebook
+  - PROCESS-NAME,com.facebook.orca	 #Messenger
+  - PROCESS-NAME,com.github.android	 #GitHub
+  - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
+  - PROCESS-NAME,com.github.metacubex.clash.meta	 #Clash Meta for Android
+  - PROCESS-NAME,com.github.nrfr	 #Nrfr
+  - PROCESS-NAME,com.google.android.apps.adm	 #查找中心
+  - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
+  - PROCESS-NAME,com.google.android.apps.bard	 #Gemini
+  - PROCESS-NAME,com.google.android.apps.books	 #Google Play 图书
+  - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
+  - PROCESS-NAME,com.google.android.apps.docs	 #云端硬盘
+  - PROCESS-NAME,com.google.android.apps.docs.editors.docs	 #文档
+  - PROCESS-NAME,com.google.android.apps.docs.editors.sheets	 #表格
+  - PROCESS-NAME,com.google.android.apps.maps	 #地图
+  - PROCESS-NAME,com.google.android.apps.translate	 #翻译
+  - PROCESS-NAME,com.google.android.apps.walletnfcrel	 #Google 钱包
+  - PROCESS-NAME,com.google.android.contactkeys	 #Android System Key Verifier
+  - PROCESS-NAME,com.google.android.googlequicksearchbox	 #Google
+  - PROCESS-NAME,com.google.android.keep	 #Keep 记事
+  - PROCESS-NAME,com.google.android.play.games	 #Google Play 游戏
+  - PROCESS-NAME,com.google.android.safetycore	 #Android System SafetyCore
+  - PROCESS-NAME,com.google.android.youtube	 #YouTube
+  - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
+  - PROCESS-NAME,com.google.ar.lens	 #智能镜头
+  - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
+  - PROCESS-NAME,com.instagram.android	 #Instagram
+  - PROCESS-NAME,com.instagram.barcelona	 #Threads
+  - PROCESS-NAME,com.larus.wolf	 #Dola
+  - PROCESS-NAME,com.lockscreen.round	 #锁屏
+  - PROCESS-NAME,com.machipopo.media17	 #17LIVE
+  - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
+  - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
+  - PROCESS-NAME,com.one.vpnapp	 #1VPN
+  - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
+  - PROCESS-NAME,com.patreon.android	 #Patreon
+  - PROCESS-NAME,com.paypal.android.p2pmobile	 #PayPal
+  - PROCESS-NAME,com.poki.playground	 #Poki
+  - PROCESS-NAME,com.quora.android	 #Quora
+  - PROCESS-NAME,com.reddit.frontpage	 #Reddit
+  - PROCESS-NAME,com.spotify.music	 #Spotify
+  - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
+  - PROCESS-NAME,com.termux	 #Termux
+  - PROCESS-NAME,com.twitter.android	 #X
+  - PROCESS-NAME,com.whatsapp	 #WhatsApp
+  - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
+  - PROCESS-NAME,flar2.devcheck	 #DevCheck
+  - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
+  - PROCESS-NAME,oms.mmc.app.almanac.copy.gm.wnl	 #万年历
+  - PROCESS-NAME,oms.mmc.fortunetelling.gmpay.almanac2	 #顺历
+  - PROCESS-NAME,org.chromium.webapk.a026efccf7a7108c1_v2	 #APKPure
+  - PROCESS-NAME,org.chromium.webapk.a1afc061f9e41fba0_v2	 #GitHub
+  - PROCESS-NAME,org.chromium.webapk.a2498a9ff5e11f569_v2	 #Gists
+  - PROCESS-NAME,org.chromium.webapk.a30eaa000fe2e7989_v2	 #ipleak.net
+  - PROCESS-NAME,org.chromium.webapk.a4462ff9675772b76_v2	 #Stripchat
+  - PROCESS-NAME,org.chromium.webapk.a718dc32c68e98029_v2	 #好猫GoodCat
+  - PROCESS-NAME,org.chromium.webapk.a7235bc922c3e4805_v2	 #XVideos
+  - PROCESS-NAME,org.chromium.webapk.aab88d8f363c4401e_v2	 #音速
+  - PROCESS-NAME,org.chromium.webapk.ab47a49396fd293e6_v2	 #IPInfo
+  - PROCESS-NAME,org.chromium.webapk.af14002c5f7ca8d33_v2	 #好猫
+  - PROCESS-NAME,org.chromium.webapk.afcb5766245ffb50e_v2	 #DNS Leak Test - BrowserLeaks
+  - PROCESS-NAME,org.videolan.vlc	 #VLC
+  - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
+  - PROCESS-NAME,tv.twitch.android.app	 #Twitch
+  - PROCESS-NAME,us.zoom.videomeetings	 #Zoom
