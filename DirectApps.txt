@@ -1,3 +1,4 @@
+bin.mt.termex
 bin.mt.plus
 com.android.wallpapers
 com.autonavi.minimap
