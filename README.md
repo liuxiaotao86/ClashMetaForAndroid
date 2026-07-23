@@ -1,6 +1,6 @@
-Please upload the latest file "app-list.csv" here\n
-Then edit file "DirectApps.txt",add new app package to it\n
-That is all\n
+Please upload the latest file "app-list.csv" here
+Then edit file "DirectApps.txt",add new app package to it
+That is all
 You can get latest:
   DirectApps.yaml
   ProxyApps.yaml
