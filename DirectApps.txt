@@ -1,4 +1,3 @@
-com.lockscreen.round
 bin.mt.plus
 bin.mt.termex
 com.android.wallpapers
@@ -20,6 +19,7 @@ com.huya.kiwi
 com.jingdong.app.mall
 com.kugou.android
 com.larus.nova
+com.lockscreen.round
 com.luna.music
 com.miHoYo.Nap
 com.miHoYo.Yuanshen

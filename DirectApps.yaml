@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 13:03:31
+payload: # CreatedTime：2026-07-23 13:23:55
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.android.wallpapers	 #安卓壁纸
@@ -20,6 +20,7 @@ payload: # CreatedTime：2026-07-23 13:03:31
   - PROCESS-NAME,com.jingdong.app.mall	 #京东
   - PROCESS-NAME,com.kugou.android	 #酷狗音乐
   - PROCESS-NAME,com.larus.nova	 #豆包
+  - PROCESS-NAME,com.lockscreen.round	 #锁屏
   - PROCESS-NAME,com.luna.music	 #汽水音乐
   - PROCESS-NAME,com.miHoYo.Nap	 #绝区零
   - PROCESS-NAME,com.miHoYo.Yuanshen	 #原神

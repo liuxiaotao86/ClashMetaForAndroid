@@ -37,7 +37,6 @@ com.ilivedata.viitor
 com.instagram.android
 com.instagram.barcelona
 com.larus.wolf
-com.lockscreen.round
 com.machipopo.media17
 com.mihoyo.hoyolab
 com.moonshot.kimichat

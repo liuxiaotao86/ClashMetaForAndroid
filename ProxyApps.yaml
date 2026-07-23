@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 13:03:31
+payload: # CreatedTime：2026-07-23 13:23:55
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
@@ -38,7 +38,6 @@ payload: # CreatedTime：2026-07-23 13:03:31
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
   - PROCESS-NAME,com.larus.wolf	 #Dola
-  - PROCESS-NAME,com.lockscreen.round	 #锁屏
   - PROCESS-NAME,com.machipopo.media17	 #17LIVE
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
