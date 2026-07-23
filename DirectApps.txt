@@ -9,6 +9,7 @@ com.bilibili.app.in
 com.chinamworld.main
 com.colorfulclouds.lite
 com.coolapk.market
+com.ImageStitch.lxt
 com.ct.client
 com.duokan.phone.remotecontroller
 com.duolingo
