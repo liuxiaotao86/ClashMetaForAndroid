@@ -478,4 +478,3 @@ org.protonaosp.deviceconfig
 vendor.qti.hardware.cacert.server
 vendor.qti.imsrcs
 vendor.qti.iwlan
-这是一个测试
