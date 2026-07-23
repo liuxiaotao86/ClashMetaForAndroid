@@ -1,6 +1,7 @@
 App Name,Package Name,APK_SIZE,ARCHIVED,ENABLED,EXISTS_IN_APP_STORE,FIRST_INSTALLED,GRANTED_PERMISSIONS,LAST_UPDATED,MIN_SDK,PACKAGE_MANAGER,REQUESTED_PERMISSIONS,STORE_URL,TARGET_SDK,VERSION
 "亚马逊购物","com.amazon.mShop.android.shopping","108427123","false","true","true","2026年7月7日 00:15:38","38","2026年7月17日 09:32:07","31","Google Play","69","https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping","36","32.13.0.100"
 "San Francisco Display Pro","com.android.theme.font.sanfrancisco","8542","false","true","","2009年1月1日 08:00:00","0","2009年1月1日 08:00:00","34","Unknown","0","","34","1.0"
+和风天气,com.heweather.weatherapp
 "微博轻享版","com.weico.international","98826311","false","true","true","2026年7月19日 15:20:55","17","2026年7月19日 15:20:55","21","Google Play","35","https://play.google.com/store/apps/details?id=com.weico.international","35","6.9.4"
 "OmniJaws","org.omnirom.omnijaws","86383189","false","true","","2009年1月1日 08:00:00","9","2009年1月1日 08:00:00","34","Unknown","9","","34","1.1"
 "com.android.systemui.clocks.metro","com.android.systemui.clocks.metro","1955814","false","true","","2009年1月1日 08:00:00","2","2009年1月1日 08:00:00","34","Unknown","2","","33","14"
