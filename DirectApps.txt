@@ -1,5 +1,5 @@
-bin.mt.termex
 bin.mt.plus
+bin.mt.termex
 com.android.wallpapers
 com.autonavi.minimap
 com.baidu.drive.app

@@ -1,6 +1,5 @@
-payload: # CreatedTime：2026-07-23 11:07:00
+payload: # CreatedTime：2026-07-23 13:03:31
   - PROCESS-NAME,ai.x.grok	 #Grok
-  - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker

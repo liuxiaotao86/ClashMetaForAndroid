@@ -1,5 +1,4 @@
 ai.x.grok
-bin.mt.termex
 com.ImageStitch.lxt
 com.abs.cpu_z_advance
 com.absinthe.libchecker
