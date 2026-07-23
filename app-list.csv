@@ -567,6 +567,7 @@ App Name,Package Name,APK_SIZE,ARCHIVED,ENABLED,EXISTS_IN_APP_STORE,FIRST_INSTAL
 "查找中心","com.google.android.apps.adm","17202551","false","true","true","2026年6月27日 08:50:26","17","2026年6月27日 08:50:26","32","Google Play","24","https://play.google.com/store/apps/details?id=com.google.android.apps.adm","36","3.1.636-1"
 "com.android.documentsui.overlay","com.android.documentsui.overlay","8542","false","true","","2009年1月1日 08:00:00","0","2009年1月1日 08:00:00","34","Unknown","0","","34","14"
 "蓝牙","com.android.bluetooth","5790727","false","true","","","65","","33","Unknown","65","","34","14"
+ColorfulClouds Weather,com.colorfulclouds.lite
 "org.lineageos.aperture.overlay.marble","org.lineageos.aperture.overlay.marble","8542","false","true","","2009年1月1日 08:00:00","0","2009年1月1日 08:00:00","34","Unknown","0","","34","14"
 "com.qualcomm.timeservice","com.qualcomm.timeservice","16798","false","true","","2009年1月1日 08:00:00","1","2009年1月1日 08:00:00","31","Unknown","1","","33","12"
 "Cloudy","com.android.theme.icon.cloudy","8542","false","true","","2009年1月1日 08:00:00","0","2009年1月1日 08:00:00","34","Unknown","0","","34","1.0"
