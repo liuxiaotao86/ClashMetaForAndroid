@@ -1,6 +1,7 @@
-payload: # CreatedTime：2026-07-23 13:27:16
+payload: # CreatedTime：2026-07-23 14:01:08
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
+  - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.android.wallpapers	 #安卓壁纸
   - PROCESS-NAME,com.autonavi.minimap	 #高德地图
   - PROCESS-NAME,com.baidu.drive.app	 #百度网盘

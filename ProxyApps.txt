@@ -1,5 +1,4 @@
 ai.x.grok
-com.ImageStitch.lxt
 com.abs.cpu_z_advance
 com.absinthe.libchecker
 com.alibaba.aliexpresshd

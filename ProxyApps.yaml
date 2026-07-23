@@ -1,6 +1,5 @@
-payload: # CreatedTime：2026-07-23 13:27:16
+payload: # CreatedTime：2026-07-23 14:01:08
   - PROCESS-NAME,ai.x.grok	 #Grok
-  - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.alibaba.aliexpresshd	 #AliExpress
