@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 14:04:32
+payload: # CreatedTime：2026-07-23 14:14:12
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
