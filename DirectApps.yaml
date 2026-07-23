@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 14:46:57
+payload: # CreatedTime：2026-07-23 14:49:18
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
@@ -7,7 +7,7 @@ payload: # CreatedTime：2026-07-23 14:46:57
   - PROCESS-NAME,com.baidu.drive.app	 #百度网盘
   - PROCESS-NAME,com.baidu.netdisk	 #百度网盘
   - PROCESS-NAME,com.bbk.appstore	 #应用商店
-  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,com.bilibili.app.in	 #哔哩哔哩国际版
   - PROCESS-NAME,com.chinamworld.main	 #中国建设银行
   - PROCESS-NAME,com.colorfulclouds.lite	 #ColorfulClouds Weather
   - PROCESS-NAME,com.coolapk.market	 #酷安
@@ -29,7 +29,7 @@ payload: # CreatedTime：2026-07-23 14:46:57
   - PROCESS-NAME,com.miHoYo.cloudgames.ys	 #云·原神
   - PROCESS-NAME,com.mihoyo.hyperion	 #米游社
   - PROCESS-NAME,com.mubu.app	 #幕布
-  - PROCESS-NAME,com.nebula.karing
+  - PROCESS-NAME,com.nebula.karing	 #Karing
   - PROCESS-NAME,com.netease.dwrgminicg	 #第五人格
   - PROCESS-NAME,com.netease.micro.yysls	 #云·燕云十六声
   - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
