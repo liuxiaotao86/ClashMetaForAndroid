@@ -82,33 +82,49 @@ def update_package_names_db():
     with open(DB_JSON, "w", encoding="utf-8") as f:
         json.dump(sorted_db, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ [1/4] {DB_JSON} 更新成功，当前映射库总量: {len(sorted_db)} 条")
+    print(f"✅ [1/4] {DB_JSON} 处理完成，当前映射库总量: {len(sorted_db)} 条")
     return sorted_db, csv_app_names
 
 def generate_yaml(txt_file, yaml_file, app_db, time_str):
-    """根据 txt 包名清单和包名映射生成对应的 Clash YAML 规则文件"""
+    """根据 txt 生成 Clash YAML，仅在【规则内容有变动】时才更新写入 (含时间戳)"""
     if not os.path.exists(txt_file):
         print(f"⚠️ 未找到 {txt_file}，跳过生成 {yaml_file}")
         return
 
+    # 1. 读取并排序 txt 中的包名
     with open(txt_file, "r", encoding="utf-8") as f:
         pkgs = [line.strip() for line in f if line.strip()]
-
-    # 确保生成 YAML 时的规则也是有序的
     sorted_pkgs = sorted(list(dict.fromkeys(pkgs)))
 
-    yaml_lines = [f"payload: # CreatedTime：{time_str}\n"]
+    # 2. 构建新的规则行（暂不包含带有时间戳的首行）
+    new_rule_lines = []
     for pkg in sorted_pkgs:
         app_name = app_db.get(pkg, "")
         if app_name:
-            yaml_lines.append(f"{PREFIX}{pkg}\t #{app_name}\n")
+            new_rule_lines.append(f"{PREFIX}{pkg}\t #{app_name}\n")
         else:
-            yaml_lines.append(f"{PREFIX}{pkg}\n")
+            new_rule_lines.append(f"{PREFIX}{pkg}\n")
+
+    # 3. 检查原有 yaml 文件是否存在，并比对规则内容（忽略首行的时间戳）
+    if os.path.exists(yaml_file):
+        with open(yaml_file, "r", encoding="utf-8") as f:
+            old_lines = f.readlines()
+        
+        # 提取原有 yaml 中除去首行以外的规则内容
+        old_rule_lines = old_lines[1:] if len(old_lines) > 1 else []
+
+        # 如果核心规则内容完全一致，则跳过更新！
+        if old_rule_lines == new_rule_lines:
+            print(f"ℹ️ {yaml_file} 内容无变动，跳过更新（保持原时间戳）。")
+            return
+
+    # 4. 内容有变动（或文件不存在），拼接最新时间戳并写入
+    yaml_content = [f"payload: # CreatedTime：{time_str}\n"] + new_rule_lines
 
     with open(yaml_file, "w", encoding="utf-8") as f:
-        f.writelines(yaml_lines)
+        f.writelines(yaml_content)
 
-    print(f"✅ 生成规则文件: {yaml_file} ({len(sorted_pkgs)} 条规则)")
+    print(f"✅ 规则变动，已重新生成: {yaml_file} ({len(sorted_pkgs)} 条规则)")
 
 if __name__ == "__main__":
     time_str = get_bj_time_str()
@@ -139,7 +155,7 @@ if __name__ == "__main__":
     # 生成 ProxyApps.yaml
     generate_yaml(PROXY_TXT, PROXY_YAML, db, time_str)
 
-    # 步骤 4: 生成 SystemApps.yaml
+    # 步骤 4: 生成 SystemApps.yaml (核心逻辑：若 SystemApps.txt 内容及注释映射未变，将直接跳过)
     generate_yaml(SYSTEM_TXT, SYSTEM_YAML, db, time_str)
 
     print("🎉 所有任务均已顺利完成！")
