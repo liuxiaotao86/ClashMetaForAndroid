@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 14:14:12
+payload: # CreatedTime：2026-07-23 14:46:57
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
@@ -16,7 +16,7 @@ payload: # CreatedTime：2026-07-23 14:14:12
   - PROCESS-NAME,com.duolingo	 #多邻国
   - PROCESS-NAME,com.duowan.mobile	 #YY
   - PROCESS-NAME,com.eg.android.AlipayGphone	 #支付宝
-  - PROCESS-NAME,com.heweather.weatherapp
+  - PROCESS-NAME,com.heweather.weatherapp	 #和风天气
   - PROCESS-NAME,com.huya.kiwi	 #虎牙直播
   - PROCESS-NAME,com.jingdong.app.mall	 #京东
   - PROCESS-NAME,com.kugou.android	 #酷狗音乐
