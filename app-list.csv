@@ -364,7 +364,7 @@ App Name,Package Name,APK_SIZE,ARCHIVED,ENABLED,EXISTS_IN_APP_STORE,FIRST_INSTAL
 "运营商通知","com.android.carrierdefaultapp","209890","false","true","","2009年1月1日 08:00:00","10","2009年1月1日 08:00:00","34","Unknown","10","","34","14"
 "Gradicon","com.android.theme.icon_pack.gradicon.systemui","1141778","false","true","","2009年1月1日 08:00:00","0","2009年1月1日 08:00:00","34","Unknown","0","","34","1.0"
 "Oswald","com.android.theme.font.oswald","8542","false","true","","2009年1月1日 08:00:00","0","2009年1月1日 08:00:00","34","Unknown","0","","34","1.0"
-"Grok","ai.x.grok","46552783","false","true","true","2026年6月7日 07:03:00","25","2026年7月23日 07:14:02","28","Google Play","36","https://play.google.com/store/apps/details?id=ai.x.grok","36","1.2.12-release.00"
+"格罗克","ai.x.grok","46552783","false","true","true","2026年6月7日 07:03:00","25","2026年7月23日 07:14:02","28","Google Play","36","https://play.google.com/store/apps/details?id=ai.x.grok","36","1.2.12-release.00"
 "Credential Manager","com.android.credentialmanager","5571738","false","true","","2009年1月1日 08:00:00","5","2009年1月1日 08:00:00","34","Unknown","5","","34","14"
 "Coolstory","com.android.theme.font.coolstory","8542","false","true","","2009年1月1日 08:00:00","0","2009年1月1日 08:00:00","34","Unknown","0","","34","1.0"
 "酷狗音乐","com.kugou.android","171437573","false","true","","2026年6月7日 06:12:21","35","2026年7月15日 15:16:01","22","Unknown (com.android.packageinstaller)","111","","30","20.7.2"
