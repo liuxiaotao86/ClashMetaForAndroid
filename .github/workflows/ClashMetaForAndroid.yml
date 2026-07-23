@@ -1,0 +1,42 @@
+name: ClashMetaForAndroid
+
+on:
+  push:
+    paths:
+      - 'DirectApps.txt'
+      - 'app-list.csv'
+      - 'SystemApps.txt'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  process-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 运行主处理脚本
+        run: python ClashMetaForAndroid.py
+
+      - name: 自动保存并推送产物回仓库
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # 提交维护文件（可能已被排序去重）以及所有新生成的文件
+          git add DirectApps.txt SystemApps.txt ProxyApps.txt PackageNames.json DirectApps.yaml ProxyApps.yaml SystemApps.yaml
+          
+          if git diff --staged --quiet; then
+            echo "没有任何文件发生变动，跳过提交"
+          else
+            git commit -m "Auto: process Clash rules and package mappings"
+            git push
+          fi
