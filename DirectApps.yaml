@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 16:37:28
+payload: # CreatedTime：2026-07-23 16:49:25
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
@@ -52,4 +52,3 @@ payload: # CreatedTime：2026-07-23 16:37:28
   - PROCESS-NAME,com.xiaomi.shop	 #小米商城
   - PROCESS-NAME,com.xingin.xhs	 #小红书
   - PROCESS-NAME,org.mozilla.firefox	 #Firefox
-  - PROCESS-NAME,测试
