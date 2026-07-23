@@ -5,3 +5,4 @@ You can get latest:
   DirectApps.yaml
   ProxyApps.yaml
 Only confirm "app-list.csv" and "DirectApps.txt".
+d
