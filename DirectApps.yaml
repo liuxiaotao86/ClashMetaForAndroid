@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-25 19:23:12
+payload: # CreatedTime：2026-07-25 19:33:09
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
@@ -28,3 +28,27 @@ payload: # CreatedTime：2026-07-25 19:23:12
   - PROCESS-NAME,com.miHoYo.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.miHoYo.cloudgames.ys	 #云·原神
   - PROCESS-NAME,com.mihoyo.hyperion	 #米游社
+  - PROCESS-NAME,com.mubu.app	 #幕布
+  - PROCESS-NAME,com.netease.dwrgminicg	 #第五人格
+  - PROCESS-NAME,com.netease.micro.yysls	 #云·燕云十六声
+  - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
+  - PROCESS-NAME,com.ruivop.realweather	 #天气
+  - PROCESS-NAME,com.ss.android.ugc.aweme	 #抖音
+  - PROCESS-NAME,com.ss.android.yumme.video	 #抖音精选
+  - PROCESS-NAME,com.tencent.androidqqmail	 #QQ邮箱
+  - PROCESS-NAME,com.tencent.gamematrix.pubgmhd	 #和平精英云游戏
+  - PROCESS-NAME,com.tencent.gamematrix.tmgp.sgame	 #云·王者荣耀
+  - PROCESS-NAME,com.tencent.mm	 #微信
+  - PROCESS-NAME,com.tencent.mobileqq	 #QQ
+  - PROCESS-NAME,com.tencent.tim	 #TIM
+  - PROCESS-NAME,com.tencent.tmgp.pubgmhd	 #和平精英
+  - PROCESS-NAME,com.tencent.tmgp.speedmobile	 #QQ飞车
+  - PROCESS-NAME,com.termux	 #Termux
+  - PROCESS-NAME,com.tocoding.neutral	 #极视云
+  - PROCESS-NAME,com.v2cross.proxy	 #Shadowrocket
+  - PROCESS-NAME,com.weather.mjweather	 #MojiWeather
+  - PROCESS-NAME,com.weico.international	 #微博轻享版
+  - PROCESS-NAME,com.xiaomi.router	 #小米WiFi
+  - PROCESS-NAME,com.xiaomi.shop	 #小米商城
+  - PROCESS-NAME,com.xingin.xhs	 #小红书
+  - PROCESS-NAME,org.mozilla.firefox	 #Firefox
