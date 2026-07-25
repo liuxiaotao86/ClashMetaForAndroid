@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-23 14:51:58
+payload: # CreatedTime：2026-07-25 19:23:12
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
@@ -40,6 +40,10 @@ payload: # CreatedTime：2026-07-23 14:51:58
   - PROCESS-NAME,com.machipopo.media17	 #17LIVE
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
+  - PROCESS-NAME,com.mubu.app	 #幕布
+  - PROCESS-NAME,com.netease.dwrgminicg	 #第五人格
+  - PROCESS-NAME,com.netease.micro.yysls	 #云·燕云十六声
+  - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
   - PROCESS-NAME,com.patreon.android	 #Patreon
@@ -47,11 +51,29 @@ payload: # CreatedTime：2026-07-23 14:51:58
   - PROCESS-NAME,com.poki.playground	 #Poki
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
+  - PROCESS-NAME,com.ruivop.realweather	 #天气
   - PROCESS-NAME,com.spotify.music	 #Spotify
+  - PROCESS-NAME,com.ss.android.ugc.aweme	 #抖音
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
+  - PROCESS-NAME,com.ss.android.yumme.video	 #抖音精选
+  - PROCESS-NAME,com.tencent.androidqqmail	 #QQ邮箱
+  - PROCESS-NAME,com.tencent.gamematrix.pubgmhd	 #和平精英云游戏
+  - PROCESS-NAME,com.tencent.gamematrix.tmgp.sgame	 #云·王者荣耀
+  - PROCESS-NAME,com.tencent.mm	 #微信
+  - PROCESS-NAME,com.tencent.mobileqq	 #QQ
+  - PROCESS-NAME,com.tencent.tim	 #TIM
+  - PROCESS-NAME,com.tencent.tmgp.pubgmhd	 #和平精英
+  - PROCESS-NAME,com.tencent.tmgp.speedmobile	 #QQ飞车
   - PROCESS-NAME,com.termux	 #Termux
+  - PROCESS-NAME,com.tocoding.neutral	 #极视云
   - PROCESS-NAME,com.twitter.android	 #X
+  - PROCESS-NAME,com.v2cross.proxy	 #Shadowrocket
+  - PROCESS-NAME,com.weather.mjweather	 #MojiWeather
+  - PROCESS-NAME,com.weico.international	 #微博轻享版
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
+  - PROCESS-NAME,com.xiaomi.router	 #小米WiFi
+  - PROCESS-NAME,com.xiaomi.shop	 #小米商城
+  - PROCESS-NAME,com.xingin.xhs	 #小红书
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
   - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
@@ -68,6 +90,7 @@ payload: # CreatedTime：2026-07-23 14:51:58
   - PROCESS-NAME,org.chromium.webapk.ab47a49396fd293e6_v2	 #IPInfo
   - PROCESS-NAME,org.chromium.webapk.af14002c5f7ca8d33_v2	 #好猫
   - PROCESS-NAME,org.chromium.webapk.afcb5766245ffb50e_v2	 #DNS Leak Test - BrowserLeaks
+  - PROCESS-NAME,org.mozilla.firefox	 #Firefox
   - PROCESS-NAME,org.videolan.vlc	 #VLC
   - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch
