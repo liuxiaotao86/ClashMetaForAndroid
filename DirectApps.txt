@@ -52,6 +52,3 @@ com.xiaomi.shop
 com.xingin.xhs
 org.mozilla.firefox
 测试
-com.xiaomi.shop
-com.xingin.xhs
-org.mozilla.firefox
