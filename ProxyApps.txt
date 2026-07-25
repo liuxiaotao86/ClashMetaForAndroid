@@ -48,7 +48,6 @@ com.quora.android
 com.reddit.frontpage
 com.spotify.music
 com.ss.android.ugc.trill
-com.tencent.gamematrix.speedmobile
 com.twitter.android
 com.whatsapp
 dk.riax.droidgist

@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-25 19:33:09
+payload: # CreatedTime：2026-07-26 07:37:42
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
@@ -37,6 +37,7 @@ payload: # CreatedTime：2026-07-25 19:33:09
   - PROCESS-NAME,com.ss.android.yumme.video	 #抖音精选
   - PROCESS-NAME,com.tencent.androidqqmail	 #QQ邮箱
   - PROCESS-NAME,com.tencent.gamematrix.pubgmhd	 #和平精英云游戏
+  - PROCESS-NAME,com.tencent.gamematrix.speedmobile	 #云·QQ飞车
   - PROCESS-NAME,com.tencent.gamematrix.tmgp.sgame	 #云·王者荣耀
   - PROCESS-NAME,com.tencent.mm	 #微信
   - PROCESS-NAME,com.tencent.mobileqq	 #QQ

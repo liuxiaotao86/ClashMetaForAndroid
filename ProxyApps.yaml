@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-26 07:35:25
+payload: # CreatedTime：2026-07-26 07:37:42
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
@@ -49,7 +49,6 @@ payload: # CreatedTime：2026-07-26 07:35:25
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
   - PROCESS-NAME,com.spotify.music	 #Spotify
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
-  - PROCESS-NAME,com.tencent.gamematrix.speedmobile	 #云·QQ飞车
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
