@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-25 19:33:09
+payload: # CreatedTime：2026-07-26 07:35:25
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
@@ -10,7 +10,7 @@ payload: # CreatedTime：2026-07-25 19:33:09
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
   - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.facebook.orca	 #Messenger
-  - PROCESS-NAME,com.github.android	 #GitHub
+  - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
   - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
   - PROCESS-NAME,com.github.metacubex.clash.meta	 #Clash Meta for Android
   - PROCESS-NAME,com.github.nrfr	 #Nrfr
@@ -49,6 +49,7 @@ payload: # CreatedTime：2026-07-25 19:33:09
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
   - PROCESS-NAME,com.spotify.music	 #Spotify
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
+  - PROCESS-NAME,com.tencent.gamematrix.speedmobile	 #云·QQ飞车
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist

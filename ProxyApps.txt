@@ -9,7 +9,7 @@ com.discord
 com.droidcity.cpuzprox
 com.facebook.katana
 com.facebook.orca
-com.github.android
+com.farmerbb.notepad
 com.github.keeganwitt.applist
 com.github.metacubex.clash.meta
 com.github.nrfr
@@ -48,6 +48,7 @@ com.quora.android
 com.reddit.frontpage
 com.spotify.music
 com.ss.android.ugc.trill
+com.tencent.gamematrix.speedmobile
 com.twitter.android
 com.whatsapp
 dk.riax.droidgist
