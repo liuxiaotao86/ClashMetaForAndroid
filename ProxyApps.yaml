@@ -1,10 +1,9 @@
-payload: # CreatedTime：2026-07-28 00:23:45
+payload: # CreatedTime：2026-07-28 00:25:46
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.alibaba.aliexpresshd	 #AliExpress
   - PROCESS-NAME,com.amazon.mShop.android.shopping	 #亚马逊购物
-  - PROCESS-NAME,com.baidu.youavideo	 #一刻相册
   - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
   - PROCESS-NAME,com.crazygames.crazygamesapp	 #CrazyGames
   - PROCESS-NAME,com.discord	 #Discord
@@ -52,7 +51,6 @@ payload: # CreatedTime：2026-07-28 00:23:45
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
-  - PROCESS-NAME,com.yokia.app.doudownloader	 #抖下载
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
   - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
@@ -71,6 +69,5 @@ payload: # CreatedTime：2026-07-28 00:23:45
   - PROCESS-NAME,org.chromium.webapk.afcb5766245ffb50e_v2	 #DNS Leak Test - BrowserLeaks
   - PROCESS-NAME,org.videolan.vlc	 #VLC
   - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
-  - PROCESS-NAME,tv.parsec.client	 #Parsec
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch
   - PROCESS-NAME,us.zoom.videomeetings	 #Zoom

@@ -3,7 +3,6 @@ com.abs.cpu_z_advance
 com.absinthe.libchecker
 com.alibaba.aliexpresshd
 com.amazon.mShop.android.shopping
-com.baidu.youavideo
 com.chartcross.gpstest
 com.crazygames.crazygamesapp
 com.discord
@@ -51,7 +50,6 @@ com.spotify.music
 com.ss.android.ugc.trill
 com.twitter.android
 com.whatsapp
-com.yokia.app.doudownloader
 dk.riax.droidgist
 flar2.devcheck
 moe.shizuku.privileged.api
@@ -70,6 +68,5 @@ org.chromium.webapk.af14002c5f7ca8d33_v2
 org.chromium.webapk.afcb5766245ffb50e_v2
 org.videolan.vlc
 sg.bigo.live
-tv.parsec.client
 tv.twitch.android.app
 us.zoom.videomeetings

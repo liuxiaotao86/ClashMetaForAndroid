@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-26 07:37:42
+payload: # CreatedTime：2026-07-28 00:25:46
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
@@ -6,6 +6,7 @@ payload: # CreatedTime：2026-07-26 07:37:42
   - PROCESS-NAME,com.autonavi.minimap	 #高德地图
   - PROCESS-NAME,com.baidu.drive.app	 #百度网盘
   - PROCESS-NAME,com.baidu.netdisk	 #百度网盘
+  - PROCESS-NAME,com.baidu.youavideo	 #一刻相册
   - PROCESS-NAME,com.bbk.appstore	 #应用商店
   - PROCESS-NAME,com.bilibili.app.in	 #哔哩哔哩国际版
   - PROCESS-NAME,com.chinamworld.main	 #中国建设银行
@@ -52,4 +53,6 @@ payload: # CreatedTime：2026-07-26 07:37:42
   - PROCESS-NAME,com.xiaomi.router	 #小米WiFi
   - PROCESS-NAME,com.xiaomi.shop	 #小米商城
   - PROCESS-NAME,com.xingin.xhs	 #小红书
+  - PROCESS-NAME,com.yokia.app.doudownloader	 #抖下载
   - PROCESS-NAME,org.mozilla.firefox	 #Firefox
+  - PROCESS-NAME,tv.parsec.client	 #Parsec
