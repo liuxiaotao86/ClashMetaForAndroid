@@ -50,6 +50,11 @@ com.spotify.music
 com.ss.android.ugc.trill
 com.twitter.android
 com.whatsapp
+com.yokia.app.kuaidownloader
+com.yokia.app.pdf
+com.yokia.app.reddownloader
+com.yokia.app.videodownloader
+com.yokia.app.xdownloader
 dk.riax.droidgist
 flar2.devcheck
 moe.shizuku.privileged.api

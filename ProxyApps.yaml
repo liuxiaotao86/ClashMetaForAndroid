@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-28 00:25:46
+payload: # CreatedTime：2026-07-29 15:36:58
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
@@ -51,6 +51,11 @@ payload: # CreatedTime：2026-07-28 00:25:46
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
+  - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载
+  - PROCESS-NAME,com.yokia.app.pdf	 #PDF合成和分离工具
+  - PROCESS-NAME,com.yokia.app.reddownloader	 #红下载
+  - PROCESS-NAME,com.yokia.app.videodownloader	 #VidKeeper
+  - PROCESS-NAME,com.yokia.app.xdownloader	 #X下载
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
   - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
