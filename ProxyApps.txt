@@ -49,7 +49,6 @@ com.poki.playground
 com.quora.android
 com.reddit.frontpage
 com.spotify.music
-com.ss.android.ugc.aweme.hubble
 com.ss.android.ugc.trill
 com.twitter.android
 com.whatsapp

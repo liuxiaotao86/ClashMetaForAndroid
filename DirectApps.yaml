@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-07-28 00:25:46
+payload: # CreatedTime：2026-08-06 01:20:25
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
@@ -35,6 +35,7 @@ payload: # CreatedTime：2026-07-28 00:25:46
   - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
   - PROCESS-NAME,com.ruivop.realweather	 #天气
   - PROCESS-NAME,com.ss.android.ugc.aweme	 #抖音
+  - PROCESS-NAME,com.ss.android.ugc.aweme.hubble	 #AI抖音
   - PROCESS-NAME,com.ss.android.yumme.video	 #抖音精选
   - PROCESS-NAME,com.tencent.androidqqmail	 #QQ邮箱
   - PROCESS-NAME,com.tencent.gamematrix.pubgmhd	 #和平精英云游戏

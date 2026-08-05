@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-08-06 01:16:59
+payload: # CreatedTime：2026-08-06 01:20:25
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
@@ -50,7 +50,6 @@ payload: # CreatedTime：2026-08-06 01:16:59
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
   - PROCESS-NAME,com.spotify.music	 #Spotify
-  - PROCESS-NAME,com.ss.android.ugc.aweme.hubble	 #AI抖音
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
