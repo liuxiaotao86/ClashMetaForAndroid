@@ -1,4 +1,5 @@
 ai.x.grok
+com.HoYoverse.cloudgames.Nap
 com.abs.cpu_z_advance
 com.absinthe.libchecker
 com.alibaba.aliexpresshd
@@ -32,6 +33,7 @@ com.google.android.safetycore
 com.google.android.youtube
 com.google.ar.core
 com.google.ar.lens
+com.hoyoverse.cloudgames.GenshinImpact
 com.ilivedata.viitor
 com.instagram.android
 com.instagram.barcelona
@@ -47,6 +49,7 @@ com.poki.playground
 com.quora.android
 com.reddit.frontpage
 com.spotify.music
+com.ss.android.ugc.aweme.hubble
 com.ss.android.ugc.trill
 com.twitter.android
 com.whatsapp
@@ -65,8 +68,10 @@ org.chromium.webapk.a1afc061f9e41fba0_v2
 org.chromium.webapk.a2498a9ff5e11f569_v2
 org.chromium.webapk.a30eaa000fe2e7989_v2
 org.chromium.webapk.a4462ff9675772b76_v2
+org.chromium.webapk.a6573bd761d233d4f_v2
 org.chromium.webapk.a718dc32c68e98029_v2
 org.chromium.webapk.a7235bc922c3e4805_v2
+org.chromium.webapk.a8bc3468be96b4b48_v2
 org.chromium.webapk.aab88d8f363c4401e_v2
 org.chromium.webapk.ab47a49396fd293e6_v2
 org.chromium.webapk.af14002c5f7ca8d33_v2

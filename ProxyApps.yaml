@@ -1,5 +1,6 @@
-payload: # CreatedTime：2026-07-29 15:36:58
+payload: # CreatedTime：2026-08-06 01:16:59
   - PROCESS-NAME,ai.x.grok	 #Grok
+  - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.alibaba.aliexpresshd	 #AliExpress
@@ -33,6 +34,7 @@ payload: # CreatedTime：2026-07-29 15:36:58
   - PROCESS-NAME,com.google.android.youtube	 #YouTube
   - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
   - PROCESS-NAME,com.google.ar.lens	 #智能镜头
+  - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
   - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
@@ -48,6 +50,7 @@ payload: # CreatedTime：2026-07-29 15:36:58
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
   - PROCESS-NAME,com.spotify.music	 #Spotify
+  - PROCESS-NAME,com.ss.android.ugc.aweme.hubble	 #AI抖音
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
@@ -66,8 +69,10 @@ payload: # CreatedTime：2026-07-29 15:36:58
   - PROCESS-NAME,org.chromium.webapk.a2498a9ff5e11f569_v2	 #Gists
   - PROCESS-NAME,org.chromium.webapk.a30eaa000fe2e7989_v2	 #ipleak.net
   - PROCESS-NAME,org.chromium.webapk.a4462ff9675772b76_v2	 #Stripchat
+  - PROCESS-NAME,org.chromium.webapk.a6573bd761d233d4f_v2	 #Resend
   - PROCESS-NAME,org.chromium.webapk.a718dc32c68e98029_v2	 #好猫GoodCat
   - PROCESS-NAME,org.chromium.webapk.a7235bc922c3e4805_v2	 #XVideos
+  - PROCESS-NAME,org.chromium.webapk.a8bc3468be96b4b48_v2	 #cron-job.org
   - PROCESS-NAME,org.chromium.webapk.aab88d8f363c4401e_v2	 #音速
   - PROCESS-NAME,org.chromium.webapk.ab47a49396fd293e6_v2	 #IPInfo
   - PROCESS-NAME,org.chromium.webapk.af14002c5f7ca8d33_v2	 #好猫
