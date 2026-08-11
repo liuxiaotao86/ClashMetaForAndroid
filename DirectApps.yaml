@@ -1,6 +1,8 @@
-payload: # CreatedTime：2026-08-06 01:20:25
+payload: # CreatedTime：2026-08-11 10:46:24
+  - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
+  - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.android.wallpapers	 #安卓壁纸
   - PROCESS-NAME,com.autonavi.minimap	 #高德地图
@@ -18,6 +20,7 @@ payload: # CreatedTime：2026-08-06 01:20:25
   - PROCESS-NAME,com.duowan.mobile	 #YY
   - PROCESS-NAME,com.eg.android.AlipayGphone	 #支付宝
   - PROCESS-NAME,com.heweather.weatherapp	 #和风天气
+  - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
   - PROCESS-NAME,com.huya.kiwi	 #虎牙直播
   - PROCESS-NAME,com.jingdong.app.mall	 #京东
   - PROCESS-NAME,com.kugou.android	 #酷狗音乐
@@ -55,5 +58,8 @@ payload: # CreatedTime：2026-08-06 01:20:25
   - PROCESS-NAME,com.xiaomi.shop	 #小米商城
   - PROCESS-NAME,com.xingin.xhs	 #小红书
   - PROCESS-NAME,com.yokia.app.doudownloader	 #抖下载
+  - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载
+  - PROCESS-NAME,com.yokia.app.reddownloader	 #红下载
+  - PROCESS-NAME,org.localsend.localsend_app	 #LocalSend
   - PROCESS-NAME,org.mozilla.firefox	 #Firefox
   - PROCESS-NAME,tv.parsec.client	 #Parsec

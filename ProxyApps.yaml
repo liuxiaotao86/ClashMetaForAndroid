@@ -1,7 +1,5 @@
-payload: # CreatedTime：2026-08-11 10:42:25
+payload: # CreatedTime：2026-08-11 10:46:24
   - PROCESS-NAME,ai.x.grok	 #Grok
-  - PROCESS-NAME,app.alextran.immich	 #Immich
-  - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.alibaba.aliexpresshd	 #AliExpress
@@ -35,7 +33,6 @@ payload: # CreatedTime：2026-08-11 10:42:25
   - PROCESS-NAME,com.google.android.youtube	 #YouTube
   - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
   - PROCESS-NAME,com.google.ar.lens	 #智能镜头
-  - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
   - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
@@ -56,9 +53,7 @@ payload: # CreatedTime：2026-08-11 10:42:25
   - PROCESS-NAME,com.stardesk	 #StarDesk
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
-  - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载
   - PROCESS-NAME,com.yokia.app.pdf	 #PDF合成和分离工具
-  - PROCESS-NAME,com.yokia.app.reddownloader	 #红下载
   - PROCESS-NAME,com.yokia.app.videodownloader	 #VidKeeper
   - PROCESS-NAME,com.yokia.app.xdownloader	 #X下载
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
@@ -79,7 +74,6 @@ payload: # CreatedTime：2026-08-11 10:42:25
   - PROCESS-NAME,org.chromium.webapk.ab47a49396fd293e6_v2	 #IPInfo
   - PROCESS-NAME,org.chromium.webapk.af14002c5f7ca8d33_v2	 #好猫
   - PROCESS-NAME,org.chromium.webapk.afcb5766245ffb50e_v2	 #DNS Leak Test - BrowserLeaks
-  - PROCESS-NAME,org.localsend.localsend_app	 #LocalSend
   - PROCESS-NAME,org.videolan.vlc	 #VLC
   - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch

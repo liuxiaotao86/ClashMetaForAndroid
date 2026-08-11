@@ -1,6 +1,4 @@
 ai.x.grok
-app.alextran.immich
-com.HoYoverse.cloudgames.Nap
 com.abs.cpu_z_advance
 com.absinthe.libchecker
 com.alibaba.aliexpresshd
@@ -34,7 +32,6 @@ com.google.android.safetycore
 com.google.android.youtube
 com.google.ar.core
 com.google.ar.lens
-com.hoyoverse.cloudgames.GenshinImpact
 com.ilivedata.viitor
 com.instagram.android
 com.instagram.barcelona
@@ -55,9 +52,7 @@ com.ss.android.ugc.trill
 com.stardesk
 com.twitter.android
 com.whatsapp
-com.yokia.app.kuaidownloader
 com.yokia.app.pdf
-com.yokia.app.reddownloader
 com.yokia.app.videodownloader
 com.yokia.app.xdownloader
 dk.riax.droidgist
@@ -78,7 +73,6 @@ org.chromium.webapk.aab88d8f363c4401e_v2
 org.chromium.webapk.ab47a49396fd293e6_v2
 org.chromium.webapk.af14002c5f7ca8d33_v2
 org.chromium.webapk.afcb5766245ffb50e_v2
-org.localsend.localsend_app
 org.videolan.vlc
 sg.bigo.live
 tv.twitch.android.app
