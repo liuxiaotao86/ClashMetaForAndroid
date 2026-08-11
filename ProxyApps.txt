@@ -1,4 +1,5 @@
 ai.x.grok
+app.alextran.immich
 com.HoYoverse.cloudgames.Nap
 com.abs.cpu_z_advance
 com.absinthe.libchecker
@@ -41,6 +42,7 @@ com.larus.wolf
 com.machipopo.media17
 com.mihoyo.hoyolab
 com.moonshot.kimichat
+com.niksoftware.snapseed
 com.one.vpnapp
 com.openai.chatgpt
 com.patreon.android
@@ -50,6 +52,7 @@ com.quora.android
 com.reddit.frontpage
 com.spotify.music
 com.ss.android.ugc.trill
+com.stardesk
 com.twitter.android
 com.whatsapp
 com.yokia.app.kuaidownloader
@@ -75,6 +78,7 @@ org.chromium.webapk.aab88d8f363c4401e_v2
 org.chromium.webapk.ab47a49396fd293e6_v2
 org.chromium.webapk.af14002c5f7ca8d33_v2
 org.chromium.webapk.afcb5766245ffb50e_v2
+org.localsend.localsend_app
 org.videolan.vlc
 sg.bigo.live
 tv.twitch.android.app

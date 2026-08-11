@@ -1,5 +1,6 @@
-payload: # CreatedTime：2026-08-06 01:20:25
+payload: # CreatedTime：2026-08-11 10:42:25
   - PROCESS-NAME,ai.x.grok	 #Grok
+  - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
@@ -42,6 +43,7 @@ payload: # CreatedTime：2026-08-06 01:20:25
   - PROCESS-NAME,com.machipopo.media17	 #17LIVE
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
+  - PROCESS-NAME,com.niksoftware.snapseed	 #Snapseed
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
   - PROCESS-NAME,com.patreon.android	 #Patreon
@@ -51,6 +53,7 @@ payload: # CreatedTime：2026-08-06 01:20:25
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
   - PROCESS-NAME,com.spotify.music	 #Spotify
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
+  - PROCESS-NAME,com.stardesk	 #StarDesk
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
   - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载
@@ -76,6 +79,7 @@ payload: # CreatedTime：2026-08-06 01:20:25
   - PROCESS-NAME,org.chromium.webapk.ab47a49396fd293e6_v2	 #IPInfo
   - PROCESS-NAME,org.chromium.webapk.af14002c5f7ca8d33_v2	 #好猫
   - PROCESS-NAME,org.chromium.webapk.afcb5766245ffb50e_v2	 #DNS Leak Test - BrowserLeaks
+  - PROCESS-NAME,org.localsend.localsend_app	 #LocalSend
   - PROCESS-NAME,org.videolan.vlc	 #VLC
   - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch
