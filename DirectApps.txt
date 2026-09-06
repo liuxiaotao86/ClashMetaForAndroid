@@ -62,3 +62,4 @@ com.yokia.app.reddownloader
 org.localsend.localsend_app
 org.mozilla.firefox
 tv.parsec.client
+com.ss.android.ugc.aweme.mobile
