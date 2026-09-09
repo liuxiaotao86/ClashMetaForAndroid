@@ -1,3 +1,6 @@
+com.github.metacubex.clash.meta
+mihomo
+com.tencent.tmgp.sgame
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
