@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-09-07 02:34:21
+payload: # CreatedTime：2026-09-10 07:21:09
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -10,7 +10,7 @@ payload: # CreatedTime：2026-09-07 02:34:21
   - PROCESS-NAME,com.baidu.netdisk	 #百度网盘
   - PROCESS-NAME,com.baidu.youavideo	 #一刻相册
   - PROCESS-NAME,com.bbk.appstore	 #应用商店
-  - PROCESS-NAME,com.bilibili.app.in	 #哔哩哔哩国际版
+  - PROCESS-NAME,com.bilibili.app.in	 #bilibili
   - PROCESS-NAME,com.chinamworld.main	 #中国建设银行
   - PROCESS-NAME,com.colorfulclouds.lite	 #ColorfulClouds Weather
   - PROCESS-NAME,com.coolapk.market	 #酷安
