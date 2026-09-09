@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-09-10 07:21:09
+payload: # CreatedTime：2026-09-10 07:23:14
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -19,6 +19,7 @@ payload: # CreatedTime：2026-09-10 07:21:09
   - PROCESS-NAME,com.duolingo	 #多邻国
   - PROCESS-NAME,com.duowan.mobile	 #YY
   - PROCESS-NAME,com.eg.android.AlipayGphone	 #支付宝
+  - PROCESS-NAME,com.github.metacubex.clash.meta	 #Clash Meta for Android
   - PROCESS-NAME,com.heweather.weatherapp	 #和风天气
   - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
   - PROCESS-NAME,com.huya.kiwi	 #虎牙直播
@@ -49,6 +50,7 @@ payload: # CreatedTime：2026-09-10 07:21:09
   - PROCESS-NAME,com.tencent.mobileqq	 #QQ
   - PROCESS-NAME,com.tencent.tim	 #TIM
   - PROCESS-NAME,com.tencent.tmgp.pubgmhd	 #和平精英
+  - PROCESS-NAME,com.tencent.tmgp.sgame	 #王者荣耀
   - PROCESS-NAME,com.tencent.tmgp.speedmobile	 #QQ飞车
   - PROCESS-NAME,com.termux	 #Termux
   - PROCESS-NAME,com.tocoding.neutral	 #极视云
@@ -61,6 +63,7 @@ payload: # CreatedTime：2026-09-10 07:21:09
   - PROCESS-NAME,com.yokia.app.doudownloader	 #抖下载
   - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载
   - PROCESS-NAME,com.yokia.app.reddownloader	 #红下载
+  - PROCESS-NAME,mihomo	 #mihomo内核
   - PROCESS-NAME,org.localsend.localsend_app	 #LocalSend
   - PROCESS-NAME,org.mozilla.firefox	 #Firefox
   - PROCESS-NAME,tv.parsec.client	 #Parsec
