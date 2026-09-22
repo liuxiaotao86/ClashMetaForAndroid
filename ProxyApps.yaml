@@ -1,6 +1,7 @@
-payload: # CreatedTime：2026-09-21 07:42:43
+payload: # CreatedTime：2026-09-23 01:14:38
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
+  - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
   - PROCESS-NAME,cn.wps.moffice_eng	 #WPS Office
   - PROCESS-NAME,com.abjlvcha.main	 #绿茶VPN
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
@@ -8,6 +9,8 @@ payload: # CreatedTime：2026-09-21 07:42:43
   - PROCESS-NAME,com.alibaba.aliexpresshd	 #AliExpress
   - PROCESS-NAME,com.amazon.mShop.android.shopping	 #亚马逊购物
   - PROCESS-NAME,com.anthropic.claude	 #Claude
+  - PROCESS-NAME,com.apkpure.aegon	 #APKPure
+  - PROCESS-NAME,com.apkpure.arya	 #APKPure Lite
   - PROCESS-NAME,com.asus.rog.roggamingcenter3	 #ARMOURY CRATE
   - PROCESS-NAME,com.athena.athena	 #一元加速.com
   - PROCESS-NAME,com.binary.hyperdroid	 #超级机器人
@@ -20,12 +23,14 @@ payload: # CreatedTime：2026-09-21 07:42:43
   - PROCESS-NAME,com.dewmobile.kuaiya.play	 #快牙
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.doggygo.vpn	 #狗狗加速
+  - PROCESS-NAME,com.dogygo.sfa	 #狗狗加速
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
   - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.facebook.orca	 #Messenger
   - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
   - PROCESS-NAME,com.giffgaffmobile.controller	 #giffgaff
   - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
+  - PROCESS-NAME,com.github.libretube	 #LibreTube
   - PROCESS-NAME,com.github.nrfr	 #Nrfr
   - PROCESS-NAME,com.glip.mobile	 #RingCentral
   - PROCESS-NAME,com.google.android.GoogleCamera	 #相机
@@ -38,11 +43,8 @@ payload: # CreatedTime：2026-09-21 07:42:43
   - PROCESS-NAME,com.google.android.apps.docs.editors.docs	 #文档
   - PROCESS-NAME,com.google.android.apps.docs.editors.sheets	 #表格
   - PROCESS-NAME,com.google.android.apps.maps	 #地图
-  - PROCESS-NAME,com.google.android.apps.nbu.paisa.user	 #GPay
-  - PROCESS-NAME,com.google.android.apps.photosgo	 #图库
   - PROCESS-NAME,com.google.android.apps.translate	 #翻译
   - PROCESS-NAME,com.google.android.apps.walletnfcrel	 #Google 钱包
-  - PROCESS-NAME,com.google.android.calendar	 #日历
   - PROCESS-NAME,com.google.android.contactkeys	 #Android System Key Verifier
   - PROCESS-NAME,com.google.android.googlequicksearchbox	 #Google
   - PROCESS-NAME,com.google.android.keep	 #Keep 记事
@@ -56,10 +58,13 @@ payload: # CreatedTime：2026-09-21 07:42:43
   - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
+  - PROCESS-NAME,com.jonathanpuckey.radiogarden	 #Radio Garden
+  - PROCESS-NAME,com.kiloo.subwaysurf	 #Subway Surf
   - PROCESS-NAME,com.larus.wolf	 #Dola
   - PROCESS-NAME,com.levelinfinite.sgameGlobal	 #Honor of Kings
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
   - PROCESS-NAME,com.machipopo.media17	 #17LIVE
+  - PROCESS-NAME,com.maximo.painelled	 #数字LED显示牌
   - PROCESS-NAME,com.microsoft.rdc.androidx	 #Windows App
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
@@ -68,21 +73,27 @@ payload: # CreatedTime：2026-09-21 07:42:43
   - PROCESS-NAME,com.niksoftware.snapseed	 #Snapseed
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
+  - PROCESS-NAME,com.openlanguage.kaiyan	 #开言英语
   - PROCESS-NAME,com.patreon.android	 #Patreon
   - PROCESS-NAME,com.paypal.android.p2pmobile	 #PayPal
+  - PROCESS-NAME,com.perflyst.twire	 #Twire
+  - PROCESS-NAME,com.phantom	 #Phantom
   - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
   - PROCESS-NAME,com.pinterest	 #Pinterest
   - PROCESS-NAME,com.poki.playground	 #Poki
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
+  - PROCESS-NAME,com.shanga.walli	 #Walli 4K
   - PROCESS-NAME,com.spotify.music	 #Spotify
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.stardesk	 #StarDesk
+  - PROCESS-NAME,com.sunfire.ledscroller.ledbanner	 #手持弹幕
   - PROCESS-NAME,com.surfshark.vpnclient.android	 #Surfshark
   - PROCESS-NAME,com.tencent.gamehelper.smoba	 #王者营地
   - PROCESS-NAME,com.tencent.voov	 #VooV
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.wetalkapp	 #WeTalk
+  - PROCESS-NAME,com.xapp.ledscroller	 #LED Scroller
   - PROCESS-NAME,com.yokia.app.pdf	 #PDF合成和分离工具
   - PROCESS-NAME,com.yokia.app.videodownloader	 #VidKeeper
   - PROCESS-NAME,com.yokia.app.xdownloader	 #X下载
@@ -90,8 +101,10 @@ payload: # CreatedTime：2026-09-21 07:42:43
   - PROCESS-NAME,deckers.thibault.aves	 #Aves
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
+  - PROCESS-NAME,fmradio.radiostation.livefm.musicradio	 #FM Radio
   - PROCESS-NAME,im.crisp.app	 #脆
   - PROCESS-NAME,jp.naver.line.android	 #LINE
+  - PROCESS-NAME,ledscroller.led.scroller.ledbanner	 #LED手持弹幕
   - PROCESS-NAME,md.obsidian	 #Obsidian
   - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
   - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
@@ -115,10 +128,12 @@ payload: # CreatedTime：2026-09-21 07:42:43
   - PROCESS-NAME,org.chromium.webapk.afcb5766245ffb50e_v2	 #DNS Leak Test - BrowserLeaks
   - PROCESS-NAME,org.ikuuu.vpn	 #iKuuuVPN
   - PROCESS-NAME,org.proninyaroslav.libretorrent	 #LibreTorrent
+  - PROCESS-NAME,org.schabi.newpipe	 #NewPipe
   - PROCESS-NAME,org.telegram.messenger	 #Telegram
   - PROCESS-NAME,org.videolan.vlc	 #VLC
   - PROCESS-NAME,pure.lite.browser	 #Pure浏览器
   - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
+  - PROCESS-NAME,tunein.player	 #TuneIn Radio
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch
   - PROCESS-NAME,us.zoom.videomeetings	 #Zoom
   - PROCESS-NAME,ws.stash.app	 #Stash
