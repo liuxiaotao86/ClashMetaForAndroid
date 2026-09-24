@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-09-25 05:35:03
+payload: # CreatedTime：2026-09-25 05:36:21
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -97,7 +97,6 @@ payload: # CreatedTime：2026-09-25 05:35:03
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.wetalkapp	 #WeTalk
   - PROCESS-NAME,com.x.aniimos	 #Aniimo
-  - PROCESS-NAME,com.x.yimoo.cloud	 #云·伊莫
   - PROCESS-NAME,com.xapp.ledscroller	 #LED Scroller
   - PROCESS-NAME,com.yokia.app.pdf	 #PDF合成和分离工具
   - PROCESS-NAME,com.yokia.app.videodownloader	 #VidKeeper

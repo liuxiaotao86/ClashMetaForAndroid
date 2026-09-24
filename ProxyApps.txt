@@ -96,7 +96,6 @@ com.tencent.voov
 com.twitter.android
 com.wetalkapp
 com.x.aniimos
-com.x.yimoo.cloud
 com.xapp.ledscroller
 com.yokia.app.pdf
 com.yokia.app.videodownloader
