@@ -27,6 +27,7 @@ com.droidcity.cpuzprox
 com.facebook.katana
 com.facebook.orca
 com.farmerbb.notepad
+com.game.tombbusters
 com.giffgaffmobile.controller
 com.github.keeganwitt.applist
 com.github.libretube
@@ -54,7 +55,9 @@ com.google.android.youtube
 com.google.ar.core
 com.google.ar.lens
 com.gotokeep.keep.intl
+com.hottagames.nte
 com.ilivedata.viitor
+com.imangi.templerun
 com.instagram.android
 com.instagram.barcelona
 com.jonathanpuckey.radiogarden
@@ -92,6 +95,8 @@ com.tencent.gamehelper.smoba
 com.tencent.voov
 com.twitter.android
 com.wetalkapp
+com.x.aniimos
+com.x.yimoo.cloud
 com.xapp.ledscroller
 com.yokia.app.pdf
 com.yokia.app.videodownloader

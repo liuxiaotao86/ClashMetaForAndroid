@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-09-23 01:14:38
+payload: # CreatedTime：2026-09-25 05:35:03
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -28,6 +28,7 @@ payload: # CreatedTime：2026-09-23 01:14:38
   - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.facebook.orca	 #Messenger
   - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
+  - PROCESS-NAME,com.game.tombbusters	 #超自然行動組
   - PROCESS-NAME,com.giffgaffmobile.controller	 #giffgaff
   - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
   - PROCESS-NAME,com.github.libretube	 #LibreTube
@@ -55,7 +56,9 @@ payload: # CreatedTime：2026-09-23 01:14:38
   - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
   - PROCESS-NAME,com.google.ar.lens	 #智能镜头
   - PROCESS-NAME,com.gotokeep.keep.intl	 #KeepTrainer
+  - PROCESS-NAME,com.hottagames.nte	 #异环
   - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
+  - PROCESS-NAME,com.imangi.templerun	 #TempleRun
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
   - PROCESS-NAME,com.jonathanpuckey.radiogarden	 #Radio Garden
@@ -93,6 +96,8 @@ payload: # CreatedTime：2026-09-23 01:14:38
   - PROCESS-NAME,com.tencent.voov	 #VooV
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.wetalkapp	 #WeTalk
+  - PROCESS-NAME,com.x.aniimos	 #Aniimo
+  - PROCESS-NAME,com.x.yimoo.cloud	 #云·伊莫
   - PROCESS-NAME,com.xapp.ledscroller	 #LED Scroller
   - PROCESS-NAME,com.yokia.app.pdf	 #PDF合成和分离工具
   - PROCESS-NAME,com.yokia.app.videodownloader	 #VidKeeper
