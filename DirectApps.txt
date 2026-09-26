@@ -1,3 +1,4 @@
+com.wandoujia.phoenix2
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
