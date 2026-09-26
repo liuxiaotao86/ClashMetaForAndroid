@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-09-25 05:36:21
+payload: # CreatedTime：2026-09-26 11:29:41
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -55,6 +55,7 @@ payload: # CreatedTime：2026-09-25 05:36:21
   - PROCESS-NAME,com.termux	 #Termux
   - PROCESS-NAME,com.tocoding.neutral	 #极视云
   - PROCESS-NAME,com.v2cross.proxy	 #Shadowrocket
+  - PROCESS-NAME,com.wandoujia.phoenix2
   - PROCESS-NAME,com.weather.mjweather	 #MojiWeather
   - PROCESS-NAME,com.weico.international	 #微博轻享版
   - PROCESS-NAME,com.x.yimoo.cloud	 #云·伊莫

@@ -1,4 +1,3 @@
-com.wandoujia.phoenix2
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -55,6 +54,7 @@ com.tencent.tmgp.speedmobile
 com.termux
 com.tocoding.neutral
 com.v2cross.proxy
+com.wandoujia.phoenix2
 com.weather.mjweather
 com.weico.international
 com.x.yimoo.cloud
