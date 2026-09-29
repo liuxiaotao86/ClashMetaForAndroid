@@ -7,7 +7,6 @@ com.abs.cpu_z_advance
 com.absinthe.libchecker
 com.alibaba.aliexpresshd
 com.amazon.mShop.android.shopping
-com.android.bankabc
 com.anthropic.claude
 com.apkpure.aegon
 com.athena.athena
@@ -26,7 +25,6 @@ com.droidcity.cpuzprox
 com.facebook.katana
 com.facebook.orca
 com.farmerbb.notepad
-com.fiberhome.terminal
 com.game.tombbusters
 com.giffgaffmobile.controller
 com.github.keeganwitt.applist
@@ -78,7 +76,6 @@ com.openai.chatgpt
 com.openlanguage.kaiyan
 com.patreon.android
 com.paypal.android.p2pmobile
-com.phantom
 com.phonewalls.stockwallpapers
 com.pinterest
 com.poki.playground
@@ -87,7 +84,6 @@ com.realvnc.viewer.android
 com.reddit.frontpage
 com.sdu.didi.psnger
 com.shanga.walli
-com.simpleweather.app
 com.speedsoftware.explorer
 com.spotify.music
 com.ss.android.ugc.trill
@@ -112,7 +108,6 @@ exa.free.linuxbox
 exa.lnx.a
 flar2.devcheck
 fmradio.radiostation.livefm.musicradio
-hk.alipay.wallet
 im.crisp.app
 jp.naver.line.android
 ledscroller.led.scroller.ledbanner

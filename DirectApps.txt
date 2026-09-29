@@ -1,16 +1,9 @@
-
-com.simpleweather.app
-hk.alipay.wallet
-com.fiberhome.terminal
-com.phantom
-com.android.bankabc
-com.quark.browser
-
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
 com.HoYoverse.cloudgames.Nap
 com.ImageStitch.lxt
+com.android.bankabc
 com.android.wallpapers
 com.autonavi.minimap
 com.baidu.drive.app
@@ -26,6 +19,7 @@ com.duokan.phone.remotecontroller
 com.duolingo
 com.duowan.mobile
 com.eg.android.AlipayGphone
+com.fiberhome.terminal
 com.github.metacubex.clash.meta
 com.heweather.weatherapp
 com.hoyoverse.cloudgames.GenshinImpact
@@ -45,7 +39,10 @@ com.mubu.app
 com.netease.dwrgminicg
 com.netease.micro.yysls
 com.netease.yyslscn
+com.phantom
+com.quark.browser
 com.ruivop.realweather
+com.simpleweather.app
 com.ss.android.ugc.aweme
 com.ss.android.ugc.aweme.hubble
 com.ss.android.ugc.aweme.mobile
@@ -73,6 +70,7 @@ com.xingin.xhs
 com.yokia.app.doudownloader
 com.yokia.app.kuaidownloader
 com.yokia.app.reddownloader
+hk.alipay.wallet
 mihomo
 org.localsend.localsend_app
 org.mozilla.firefox

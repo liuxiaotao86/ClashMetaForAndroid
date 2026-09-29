@@ -1,9 +1,10 @@
-payload: # CreatedTime：2026-09-26 11:32:44
+payload: # CreatedTime：2026-09-29 19:31:07
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
   - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
+  - PROCESS-NAME,com.android.bankabc	 #中国农业银行
   - PROCESS-NAME,com.android.wallpapers	 #安卓壁纸
   - PROCESS-NAME,com.autonavi.minimap	 #高德地图
   - PROCESS-NAME,com.baidu.drive.app	 #百度网盘
@@ -19,6 +20,7 @@ payload: # CreatedTime：2026-09-26 11:32:44
   - PROCESS-NAME,com.duolingo	 #多邻国
   - PROCESS-NAME,com.duowan.mobile	 #YY
   - PROCESS-NAME,com.eg.android.AlipayGphone	 #支付宝
+  - PROCESS-NAME,com.fiberhome.terminal	 #烽火终端
   - PROCESS-NAME,com.github.metacubex.clash.meta	 #Clash Meta for Android
   - PROCESS-NAME,com.heweather.weatherapp	 #和风天气
   - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
@@ -38,7 +40,10 @@ payload: # CreatedTime：2026-09-26 11:32:44
   - PROCESS-NAME,com.netease.dwrgminicg	 #第五人格
   - PROCESS-NAME,com.netease.micro.yysls	 #云·燕云十六声
   - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
+  - PROCESS-NAME,com.phantom	 #Phantom
+  - PROCESS-NAME,com.quark.browser
   - PROCESS-NAME,com.ruivop.realweather	 #天气
+  - PROCESS-NAME,com.simpleweather.app	 #简洁天气
   - PROCESS-NAME,com.ss.android.ugc.aweme	 #抖音
   - PROCESS-NAME,com.ss.android.ugc.aweme.hubble	 #AI抖音
   - PROCESS-NAME,com.ss.android.ugc.aweme.mobile
@@ -66,6 +71,7 @@ payload: # CreatedTime：2026-09-26 11:32:44
   - PROCESS-NAME,com.yokia.app.doudownloader	 #抖下载
   - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载
   - PROCESS-NAME,com.yokia.app.reddownloader	 #红下载
+  - PROCESS-NAME,hk.alipay.wallet	 #AlipayHK
   - PROCESS-NAME,mihomo	 #mihomo内核
   - PROCESS-NAME,org.localsend.localsend_app	 #LocalSend
   - PROCESS-NAME,org.mozilla.firefox	 #Firefox

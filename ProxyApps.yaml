@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-09-28 20:32:14
+payload: # CreatedTime：2026-09-29 19:31:07
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -8,7 +8,6 @@ payload: # CreatedTime：2026-09-28 20:32:14
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.alibaba.aliexpresshd	 #AliExpress
   - PROCESS-NAME,com.amazon.mShop.android.shopping	 #亚马逊购物
-  - PROCESS-NAME,com.android.bankabc	 #中国农业银行
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.apkpure.aegon	 #APKPure
   - PROCESS-NAME,com.athena.athena	 #一元加速.com
@@ -27,7 +26,6 @@ payload: # CreatedTime：2026-09-28 20:32:14
   - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.facebook.orca	 #Messenger
   - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
-  - PROCESS-NAME,com.fiberhome.terminal	 #烽火终端
   - PROCESS-NAME,com.game.tombbusters	 #超自然行動組
   - PROCESS-NAME,com.giffgaffmobile.controller	 #giffgaff
   - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
@@ -79,7 +77,6 @@ payload: # CreatedTime：2026-09-28 20:32:14
   - PROCESS-NAME,com.openlanguage.kaiyan	 #开言英语
   - PROCESS-NAME,com.patreon.android	 #Patreon
   - PROCESS-NAME,com.paypal.android.p2pmobile	 #PayPal
-  - PROCESS-NAME,com.phantom	 #Phantom
   - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
   - PROCESS-NAME,com.pinterest	 #Pinterest
   - PROCESS-NAME,com.poki.playground	 #Poki
@@ -88,7 +85,6 @@ payload: # CreatedTime：2026-09-28 20:32:14
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
   - PROCESS-NAME,com.sdu.didi.psnger	 #滴滴
   - PROCESS-NAME,com.shanga.walli	 #Walli 4K
-  - PROCESS-NAME,com.simpleweather.app	 #简洁天气
   - PROCESS-NAME,com.speedsoftware.explorer	 #Explorer
   - PROCESS-NAME,com.spotify.music	 #Spotify
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
@@ -113,7 +109,6 @@ payload: # CreatedTime：2026-09-28 20:32:14
   - PROCESS-NAME,exa.lnx.a	 #AnLinux
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
   - PROCESS-NAME,fmradio.radiostation.livefm.musicradio	 #FM Radio
-  - PROCESS-NAME,hk.alipay.wallet	 #AlipayHK
   - PROCESS-NAME,im.crisp.app	 #脆
   - PROCESS-NAME,jp.naver.line.android	 #LINE
   - PROCESS-NAME,ledscroller.led.scroller.ledbanner	 #LED手持弹幕
