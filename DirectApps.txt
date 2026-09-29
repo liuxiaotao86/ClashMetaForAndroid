@@ -1,3 +1,11 @@
+
+com.simpleweather.app
+hk.alipay.wallet
+com.fiberhome.terminal
+com.phantom
+com.android.bankabc
+com.quark.browser
+
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
