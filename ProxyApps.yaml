@@ -1,6 +1,10 @@
-payload: # CreatedTime：2026-09-29 19:31:07
+payload: # CreatedTime：2026-10-05 00:44:42
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
+  - PROCESS-NAME,cmb.pb	 #招商银行
+  - PROCESS-NAME,cn.com.cmbc.newmbank	 #民生银行
+  - PROCESS-NAME,cn.com.shbank.mper	 #上海银行
+  - PROCESS-NAME,cn.com.spdb.mobilebank.per	 #浦发银行
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
   - PROCESS-NAME,cn.wps.moffice_eng	 #WPS Office
   - PROCESS-NAME,com.abjlvcha.main	 #绿茶VPN
@@ -10,19 +14,26 @@ payload: # CreatedTime：2026-09-29 19:31:07
   - PROCESS-NAME,com.amazon.mShop.android.shopping	 #亚马逊购物
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.apkpure.aegon	 #APKPure
+  - PROCESS-NAME,com.apple.android.music	 #Apple Music
   - PROCESS-NAME,com.athena.athena	 #一元加速.com
+  - PROCESS-NAME,com.bankcomm.Bankcomm	 #交通银行
   - PROCESS-NAME,com.binary.hyperdroid	 #超级机器人
   - PROCESS-NAME,com.bitcomet.android	 #BitComet
   - PROCESS-NAME,com.booking	 #Booking.com缤客
   - PROCESS-NAME,com.camerasideas.trimmer	 #YouCut视频编辑
+  - PROCESS-NAME,com.cebbank.mobile.cemb	 #光大银行
+  - PROCESS-NAME,com.cgbchina.xpt	 #广发银行
   - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
+  - PROCESS-NAME,com.chinamworld.bocmbci	 #中国银行
   - PROCESS-NAME,com.crazygames.crazygamesapp	 #CrazyGames
   - PROCESS-NAME,com.deepseek.chat	 #DeepSeek
   - PROCESS-NAME,com.dewmobile.kuaiya.play	 #快牙
+  - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.doggygo.vpn	 #狗狗加速
   - PROCESS-NAME,com.dogygo.sfa	 #狗狗加速
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
+  - PROCESS-NAME,com.ecitic.bank.mobile	 #中信银行
   - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.facebook.orca	 #Messenger
   - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
@@ -54,10 +65,13 @@ payload: # CreatedTime：2026-09-29 19:31:07
   - PROCESS-NAME,com.google.ar.lens	 #智能镜头
   - PROCESS-NAME,com.gotokeep.keep.intl	 #KeepTrainer
   - PROCESS-NAME,com.hottagames.nte	 #异环
+  - PROCESS-NAME,com.icbc	 #中国工商银行
   - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
   - PROCESS-NAME,com.imangi.templerun	 #TempleRun
+  - PROCESS-NAME,com.inotesapp.inotes	 #备忘录
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
+  - PROCESS-NAME,com.iqiyi.i18n	 #iQIYI
   - PROCESS-NAME,com.jonathanpuckey.radiogarden	 #Radio Garden
   - PROCESS-NAME,com.kiloo.subwaysurf	 #Subway Surf
   - PROCESS-NAME,com.larus.wolf	 #Dola
@@ -75,11 +89,13 @@ payload: # CreatedTime：2026-09-29 19:31:07
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
   - PROCESS-NAME,com.openlanguage.kaiyan	 #开言英语
+  - PROCESS-NAME,com.oplus.games	 #游戏助手
   - PROCESS-NAME,com.patreon.android	 #Patreon
   - PROCESS-NAME,com.paypal.android.p2pmobile	 #PayPal
   - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
   - PROCESS-NAME,com.pinterest	 #Pinterest
   - PROCESS-NAME,com.poki.playground	 #Poki
+  - PROCESS-NAME,com.qqgame.hlddzhw	 #欢乐斗地主
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.realvnc.viewer.android	 #RVNC Viewer
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
@@ -92,16 +108,22 @@ payload: # CreatedTime：2026-09-29 19:31:07
   - PROCESS-NAME,com.sunfire.ledscroller.ledbanner	 #手持弹幕
   - PROCESS-NAME,com.surfshark.vpnclient.android	 #Surfshark
   - PROCESS-NAME,com.tencent.gamehelper.smoba	 #王者营地
+  - PROCESS-NAME,com.tencent.qqlivei18n	 #WeTV
+  - PROCESS-NAME,com.tencent.stc.cfl	 #Crossfire: Legends
   - PROCESS-NAME,com.tencent.voov	 #VooV
   - PROCESS-NAME,com.tomclaw.appsend	 #Appteka
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.wetalkapp	 #WeTalk
   - PROCESS-NAME,com.x.aniimos	 #Aniimo
   - PROCESS-NAME,com.xapp.ledscroller	 #LED Scroller
+  - PROCESS-NAME,com.xm.mfdjqkd	 #免费短剧全看多
+  - PROCESS-NAME,com.yitong.mbank.psbc	 #邮储银行
   - PROCESS-NAME,com.yokia.app.pdf	 #PDF合成和分离工具
   - PROCESS-NAME,com.yokia.app.videodownloader	 #VidKeeper
   - PROCESS-NAME,com.yokia.app.xdownloader	 #X下载
+  - PROCESS-NAME,com.youku.international.phone	 #YOUKU
   - PROCESS-NAME,com.zeptolab.ctr.ads	 #Cut the Rope
+  - PROCESS-NAME,com.zeptolab.ctr2.f2p.google	 #Cut the Rope 2
   - PROCESS-NAME,com.zhiliaoapp.musically	 #TikTok
   - PROCESS-NAME,deckers.thibault.aves	 #Aves
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist

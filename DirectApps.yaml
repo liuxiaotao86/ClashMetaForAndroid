@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-09-29 19:31:07
+payload: # CreatedTime：2026-10-05 00:44:42
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -41,7 +41,7 @@ payload: # CreatedTime：2026-09-29 19:31:07
   - PROCESS-NAME,com.netease.micro.yysls	 #云·燕云十六声
   - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
   - PROCESS-NAME,com.phantom	 #Phantom
-  - PROCESS-NAME,com.quark.browser
+  - PROCESS-NAME,com.quark.browser	 #夸克
   - PROCESS-NAME,com.ruivop.realweather	 #天气
   - PROCESS-NAME,com.simpleweather.app	 #简洁天气
   - PROCESS-NAME,com.ss.android.ugc.aweme	 #抖音
