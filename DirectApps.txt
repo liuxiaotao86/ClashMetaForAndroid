@@ -1,5 +1,3 @@
-mark.via
-com.mmbox.xbrowser
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -73,6 +71,7 @@ com.yokia.app.doudownloader
 com.yokia.app.kuaidownloader
 com.yokia.app.reddownloader
 hk.alipay.wallet
+mark.via
 mihomo
 org.localsend.localsend_app
 org.mozilla.firefox

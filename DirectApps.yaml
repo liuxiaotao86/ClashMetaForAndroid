@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-05 00:44:42
+payload: # CreatedTime：2026-10-05 03:10:20
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -72,6 +72,7 @@ payload: # CreatedTime：2026-10-05 00:44:42
   - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载
   - PROCESS-NAME,com.yokia.app.reddownloader	 #红下载
   - PROCESS-NAME,hk.alipay.wallet	 #AlipayHK
+  - PROCESS-NAME,mark.via
   - PROCESS-NAME,mihomo	 #mihomo内核
   - PROCESS-NAME,org.localsend.localsend_app	 #LocalSend
   - PROCESS-NAME,org.mozilla.firefox	 #Firefox
