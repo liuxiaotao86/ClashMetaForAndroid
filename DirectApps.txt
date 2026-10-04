@@ -1,3 +1,16 @@
+com.cgbchina.xpt
+com.bankcomm.Bankcomm
+cn.com.cmbc.newmbank
+cn.com.spdb.mobilebank.per
+cn.com.shbank.mper
+com.yitong.mbank.psbc
+cmb.pb
+com.icbc
+com.chinamworld.main
+com.android.bankabc
+com.chinamworld.bocmbci
+com.ecitic.bank.mobile
+
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
