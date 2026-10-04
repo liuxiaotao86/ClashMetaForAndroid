@@ -1,7 +1,11 @@
-payload: # CreatedTime：2026-10-05 03:31:59
+payload: # CreatedTime：2026-10-05 03:35:31
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
+  - PROCESS-NAME,cmb.pb	 #招商银行
+  - PROCESS-NAME,cn.com.cmbc.newmbank	 #民生银行
+  - PROCESS-NAME,cn.com.shbank.mper	 #上海银行
+  - PROCESS-NAME,cn.com.spdb.mobilebank.per	 #浦发银行
   - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.android.bankabc	 #中国农业银行
@@ -10,8 +14,11 @@ payload: # CreatedTime：2026-10-05 03:31:59
   - PROCESS-NAME,com.baidu.drive.app	 #百度网盘
   - PROCESS-NAME,com.baidu.netdisk	 #百度网盘
   - PROCESS-NAME,com.baidu.youavideo	 #一刻相册
+  - PROCESS-NAME,com.bankcomm.Bankcomm	 #交通银行
   - PROCESS-NAME,com.bbk.appstore	 #应用商店
   - PROCESS-NAME,com.bilibili.app.in	 #bilibili
+  - PROCESS-NAME,com.cgbchina.xpt	 #广发银行
+  - PROCESS-NAME,com.chinamworld.bocmbci	 #中国银行
   - PROCESS-NAME,com.chinamworld.main	 #中国建设银行
   - PROCESS-NAME,com.colorfulclouds.lite	 #ColorfulClouds Weather
   - PROCESS-NAME,com.coolapk.market	 #酷安
@@ -19,12 +26,14 @@ payload: # CreatedTime：2026-10-05 03:31:59
   - PROCESS-NAME,com.duokan.phone.remotecontroller	 #万能遥控
   - PROCESS-NAME,com.duolingo	 #多邻国
   - PROCESS-NAME,com.duowan.mobile	 #YY
+  - PROCESS-NAME,com.ecitic.bank.mobile	 #中信银行
   - PROCESS-NAME,com.eg.android.AlipayGphone	 #支付宝
   - PROCESS-NAME,com.fiberhome.terminal	 #烽火终端
   - PROCESS-NAME,com.github.metacubex.clash.meta	 #Clash Meta for Android
   - PROCESS-NAME,com.heweather.weatherapp	 #和风天气
   - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
   - PROCESS-NAME,com.huya.kiwi	 #虎牙直播
+  - PROCESS-NAME,com.icbc	 #中国工商银行
   - PROCESS-NAME,com.jingdong.app.mall	 #京东
   - PROCESS-NAME,com.kugou.android	 #酷狗音乐
   - PROCESS-NAME,com.larus.nova	 #豆包
@@ -68,6 +77,7 @@ payload: # CreatedTime：2026-10-05 03:31:59
   - PROCESS-NAME,com.xiaomi.router	 #小米WiFi
   - PROCESS-NAME,com.xiaomi.shop	 #小米商城
   - PROCESS-NAME,com.xingin.xhs	 #小红书
+  - PROCESS-NAME,com.yitong.mbank.psbc	 #邮储银行
   - PROCESS-NAME,com.ym.xysz.mhxh
   - PROCESS-NAME,com.yokia.app.doudownloader	 #抖下载
   - PROCESS-NAME,com.yokia.app.kuaidownloader	 #快下载

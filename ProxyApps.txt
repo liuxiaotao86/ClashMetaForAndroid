@@ -1,9 +1,5 @@
 ai.x.grok
 app.nicegram
-cmb.pb
-cn.com.cmbc.newmbank
-cn.com.shbank.mper
-cn.com.spdb.mobilebank.per
 cn.gavinliu.snapmod
 cn.wps.moffice_eng
 com.abjlvcha.main
@@ -15,15 +11,12 @@ com.anthropic.claude
 com.apkpure.aegon
 com.apple.android.music
 com.athena.athena
-com.bankcomm.Bankcomm
 com.binary.hyperdroid
 com.bitcomet.android
 com.booking
 com.camerasideas.trimmer
 com.cebbank.mobile.cemb
-com.cgbchina.xpt
 com.chartcross.gpstest
-com.chinamworld.bocmbci
 com.crazygames.crazygamesapp
 com.deepseek.chat
 com.dewmobile.kuaiya.play
@@ -32,7 +25,6 @@ com.discord
 com.doggygo.vpn
 com.dogygo.sfa
 com.droidcity.cpuzprox
-com.ecitic.bank.mobile
 com.facebook.katana
 com.facebook.orca
 com.farmerbb.notepad
@@ -64,7 +56,6 @@ com.google.ar.core
 com.google.ar.lens
 com.gotokeep.keep.intl
 com.hottagames.nte
-com.icbc
 com.ilivedata.viitor
 com.imangi.templerun
 com.inotesapp.inotes
@@ -116,7 +107,6 @@ com.wetalkapp
 com.x.aniimos
 com.xapp.ledscroller
 com.xm.mfdjqkd
-com.yitong.mbank.psbc
 com.yokia.app.pdf
 com.yokia.app.videodownloader
 com.yokia.app.xdownloader
