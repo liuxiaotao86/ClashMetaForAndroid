@@ -89,7 +89,6 @@ com.qqgame.hlddzhw
 com.quora.android
 com.realvnc.viewer.android
 com.reddit.frontpage
-com.sdu.didi.psnger
 com.shanga.walli
 com.speedsoftware.explorer
 com.spotify.music
