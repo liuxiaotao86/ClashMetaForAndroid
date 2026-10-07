@@ -1,8 +1,12 @@
-payload: # CreatedTime：2026-10-05 17:34:30
+payload: # CreatedTime：2026-10-07 08:11:15
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
+  - PROCESS-NAME,cn.trinea.android.developertools	 #开发助手
   - PROCESS-NAME,cn.wps.moffice_eng	 #WPS Office
+  - PROCESS-NAME,cn.wps.moffice_i18n	 #WPS Office Lite
+  - PROCESS-NAME,cn.wps.pdf	 #WPS PDF
+  - PROCESS-NAME,com.Bureau81.OPERATOR	 #The Operator
   - PROCESS-NAME,com.abjlvcha.main	 #绿茶VPN
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
@@ -21,6 +25,7 @@ payload: # CreatedTime：2026-10-05 17:34:30
   - PROCESS-NAME,com.crazygames.crazygamesapp	 #CrazyGames
   - PROCESS-NAME,com.deepseek.chat	 #DeepSeek
   - PROCESS-NAME,com.dewmobile.kuaiya.play	 #快牙
+  - PROCESS-NAME,com.didiglobal.passenger	 #滴滴国际版
   - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.doggygo.vpn	 #狗狗加速
@@ -57,6 +62,7 @@ payload: # CreatedTime：2026-10-05 17:34:30
   - PROCESS-NAME,com.google.ar.lens	 #智能镜头
   - PROCESS-NAME,com.gotokeep.keep.intl	 #KeepTrainer
   - PROCESS-NAME,com.hottagames.nte	 #异环
+  - PROCESS-NAME,com.hunantv.imgo.activity.inter	 #MangoTV
   - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
   - PROCESS-NAME,com.imangi.templerun	 #TempleRun
   - PROCESS-NAME,com.inotesapp.inotes	 #备忘录
@@ -86,24 +92,30 @@ payload: # CreatedTime：2026-10-05 17:34:30
   - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
   - PROCESS-NAME,com.pinterest	 #Pinterest
   - PROCESS-NAME,com.poki.playground	 #Poki
+  - PROCESS-NAME,com.qq.qcloud	 #腾讯微云
   - PROCESS-NAME,com.qqgame.hlddzhw	 #欢乐斗地主
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.realvnc.viewer.android	 #RVNC Viewer
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
+  - PROCESS-NAME,com.ruguoapp.jike	 #即刻
   - PROCESS-NAME,com.shanga.walli	 #Walli 4K
   - PROCESS-NAME,com.speedsoftware.explorer	 #Explorer
   - PROCESS-NAME,com.spotify.music	 #Spotify
+  - PROCESS-NAME,com.ss.android.article.video.phone	 #西瓜视频
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.stardesk	 #StarDesk
   - PROCESS-NAME,com.sunfire.ledscroller.ledbanner	 #手持弹幕
   - PROCESS-NAME,com.surfshark.vpnclient.android	 #Surfshark
   - PROCESS-NAME,com.tencent.gamehelper.smoba	 #王者营地
   - PROCESS-NAME,com.tencent.qqlivei18n	 #WeTV
+  - PROCESS-NAME,com.tencent.qqlivei18n.us	 #Tencent Video
   - PROCESS-NAME,com.tencent.stc.cfl	 #Crossfire: Legends
   - PROCESS-NAME,com.tencent.voov	 #VooV
   - PROCESS-NAME,com.tomclaw.appsend	 #Appteka
   - PROCESS-NAME,com.twitter.android	 #X
   - PROCESS-NAME,com.wetalkapp	 #WeTalk
+  - PROCESS-NAME,com.whatsapp	 #WhatsApp
+  - PROCESS-NAME,com.wrongchao.v2vpn	 #V2VPN
   - PROCESS-NAME,com.x.aniimos	 #Aniimo
   - PROCESS-NAME,com.xapp.ledscroller	 #LED Scroller
   - PROCESS-NAME,com.xm.mfdjqkd	 #免费短剧全看多
@@ -116,10 +128,12 @@ payload: # CreatedTime：2026-10-05 17:34:30
   - PROCESS-NAME,com.zhiliaoapp.musically	 #TikTok
   - PROCESS-NAME,deckers.thibault.aves	 #Aves
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
+  - PROCESS-NAME,eu.darken.sdmse	 #SD Maid SE
   - PROCESS-NAME,exa.free.linuxbox	 #LinuxBox
   - PROCESS-NAME,exa.lnx.a	 #AnLinux
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
   - PROCESS-NAME,fmradio.radiostation.livefm.musicradio	 #FM Radio
+  - PROCESS-NAME,gr.nikolasspyr.integritycheck	 #Play Integrity API Checker
   - PROCESS-NAME,im.crisp.app	 #脆
   - PROCESS-NAME,jp.naver.line.android	 #LINE
   - PROCESS-NAME,ledscroller.led.scroller.ledbanner	 #LED手持弹幕
@@ -146,6 +160,9 @@ payload: # CreatedTime：2026-10-05 17:34:30
   - PROCESS-NAME,org.chromium.webapk.af14002c5f7ca8d33_v2	 #好猫
   - PROCESS-NAME,org.chromium.webapk.afcb5766245ffb50e_v2	 #DNS Leak Test - BrowserLeaks
   - PROCESS-NAME,org.fedorahosted.freeotp	 #FreeOTP
+  - PROCESS-NAME,org.fossify.contacts	 #联系人
+  - PROCESS-NAME,org.fossify.messages	 #信息
+  - PROCESS-NAME,org.fossify.phone	 #电话
   - PROCESS-NAME,org.ikuuu.vpn	 #iKuuuVPN
   - PROCESS-NAME,org.proninyaroslav.libretorrent	 #LibreTorrent
   - PROCESS-NAME,org.telegram.messenger	 #Telegram
