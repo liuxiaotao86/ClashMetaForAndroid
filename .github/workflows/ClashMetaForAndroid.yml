@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'DirectApps.txt'
+      - 'RejectApps.txt'
       - 'app-list.csv'
       - 'SystemApps.txt'
   workflow_dispatch: # 支持手动触发
@@ -32,7 +33,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
           # 提交维护文件（可能已被排序去重）以及所有新生成的文件
-          git add DirectApps.txt SystemApps.txt ProxyApps.txt PackageNames.json DirectApps.yaml ProxyApps.yaml SystemApps.yaml
+          git add DirectApps.txt RejectApps.txt SystemApps.txt ProxyApps.txt PackageNames.json DirectApps.yaml RejectApps.yaml ProxyApps.yaml SystemApps.yaml
           
           if git diff --staged --quiet; then
             echo "没有任何文件发生变动，跳过提交"
