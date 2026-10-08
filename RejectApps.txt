@@ -1,0 +1,13 @@
+com.farmerbb.notepad
+deckers.thibault.aves
+com.google.android.apps.photos
+com.google.android.apps.photosgo
+moe.shizuku.privileged.api
+com.github.nrfr
+com.google.ar.lens
+com.google.android.apps.bard
+com.duokan.phone.remotecontroller
+com.ImageStitch.lxt
+com.topjohnwu.magisk
+com.lockscreen.round
+com.lockscreen.square
