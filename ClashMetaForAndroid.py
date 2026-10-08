@@ -5,6 +5,7 @@ from datetime import datetime, timezone, timedelta
 
 # 输入文件（手动维护）
 DIRECT_TXT = "DirectApps.txt"
+REJECT_TXT = "RejectApps.txt"
 SYSTEM_TXT = "SystemApps.txt"
 APP_LIST_CSV = "app-list.csv"
 
@@ -13,6 +14,7 @@ DB_JSON = "PackageNames.json"
 PROXY_TXT = "ProxyApps.txt"
 
 DIRECT_YAML = "DirectApps.yaml"
+REJECT_YAML = "RejectApps.yaml"
 PROXY_YAML = "ProxyApps.yaml"
 SYSTEM_YAML = "SystemApps.yaml"
 
@@ -130,20 +132,22 @@ if __name__ == "__main__":
     time_str = get_bj_time_str()
     print(f"🕒 当前批次处理时间: {time_str}")
 
-    # 步骤 0: 预处理，对 DirectApps.txt 和 SystemApps.txt 原地去重并按包名排序
+    # 步骤 0: 预处理，对 DirectApps.txt、RejectApps.txt 和 SystemApps.txt 原地去重并按包名排序
     direct_pkgs = clean_and_sort_file(DIRECT_TXT)
+    reject_pkgs = clean_and_sort_file(REJECT_TXT)
     system_pkgs = clean_and_sort_file(SYSTEM_TXT)
-    print(f"🧹 [0/4] 预处理完成: DirectApps ({len(direct_pkgs)} 条), SystemApps ({len(system_pkgs)} 条)")
+    print(f"🧹 [0/4] 预处理完成: DirectApps ({len(direct_pkgs)} 条), RejectApps ({len(reject_pkgs)} 条), SystemApps ({len(system_pkgs)} 条)")
 
     # 步骤 1: 读取 app-list.csv 更新 PackageNames.json
     db, csv_app_pkgs = update_package_names_db()
 
-    # 步骤 2: 生成 DirectApps.yaml
+    # 步骤 2: 生成 DirectApps.yaml 与 RejectApps.yaml
     generate_yaml(DIRECT_TXT, DIRECT_YAML, db, time_str)
+    generate_yaml(REJECT_TXT, REJECT_YAML, db, time_str)
 
-    # 步骤 3: 提取 ProxyApps.txt (从 app-list.csv 剔除 SystemApps 和 DirectApps)
+    # 步骤 3: 提取 ProxyApps.txt (从 app-list.csv 剔除 SystemApps、DirectApps 和 RejectApps)
     csv_all_pkgs = set(csv_app_pkgs.keys())
-    proxy_pkgs = csv_all_pkgs - system_pkgs - direct_pkgs
+    proxy_pkgs = csv_all_pkgs - system_pkgs - direct_pkgs - reject_pkgs
     sorted_proxy_pkgs = sorted(list(proxy_pkgs))
 
     # 写回 ProxyApps.txt (保持去重与包名排序)
