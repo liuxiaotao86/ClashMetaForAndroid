@@ -252,3 +252,5 @@ App Name,Package Name,APK_SIZE,ARCHIVED,ENABLED,EXISTS_IN_APP_STORE,FIRST_INSTAL
 "YY","com.duowan.mobile","68570579","false","true","","2026年7月17日 22:49:04","40","2026年7月17日 22:56:50","20","Unknown (com.android.packageinstaller)","55","","28","999"
 "Zoom","us.zoom.videomeetings","155671923","false","true","true","2026年6月7日 07:04:48","35","2026年9月16日 18:58:20","28","Google Play","56","https://play.google.com/store/apps/details?id=us.zoom.videomeetings","36","7.1.8.42948"
 "치지직","com.navercorp.game.android.community","77399743","false","true","true","2026年9月20日 14:44:14","18","2026年10月2日 09:41:27","32","Google Play","26","https://play.google.com/store/apps/details?id=com.navercorp.game.android.community","36","3.14.0"
+"Magisk面具","com.topjohnwu.magisk"
+"锁屏","com.lockscreen.square"
