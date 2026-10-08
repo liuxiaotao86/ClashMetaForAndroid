@@ -32,16 +32,13 @@ com.dogygo.sfa
 com.droidcity.cpuzprox
 com.facebook.katana
 com.facebook.orca
-com.farmerbb.notepad
 com.game.tombbusters
 com.giffgaffmobile.controller
 com.github.keeganwitt.applist
-com.github.nrfr
 com.glip.mobile
 com.google.android.GoogleCamera
 com.google.android.apps.adm
 com.google.android.apps.authenticator2
-com.google.android.apps.bard
 com.google.android.apps.books
 com.google.android.apps.credentialmanager
 com.google.android.apps.docs
@@ -58,7 +55,6 @@ com.google.android.safetycore
 com.google.android.verifier
 com.google.android.youtube
 com.google.ar.core
-com.google.ar.lens
 com.gotokeep.keep.intl
 com.hottagames.nte
 com.hunantv.imgo.activity.inter
@@ -125,7 +121,6 @@ com.youku.international.phone
 com.zeptolab.ctr.ads
 com.zeptolab.ctr2.f2p.google
 com.zhiliaoapp.musically
-deckers.thibault.aves
 dk.riax.droidgist
 eu.darken.sdmse
 exa.free.linuxbox
@@ -137,7 +132,6 @@ im.crisp.app
 jp.naver.line.android
 ledscroller.led.scroller.ledbanner
 md.obsidian
-moe.shizuku.privileged.api
 myradio.radio.fmradio.liveradio.radiostation
 oms.mmc.app.almanac.copy.gm.wnl
 oms.mmc.fortunetelling.gmpay.almanac2

@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-07 08:11:15
+payload: # CreatedTime：2026-10-08 23:28:13
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -33,16 +33,13 @@ payload: # CreatedTime：2026-10-07 08:11:15
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
   - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.facebook.orca	 #Messenger
-  - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
   - PROCESS-NAME,com.game.tombbusters	 #超自然行動組
   - PROCESS-NAME,com.giffgaffmobile.controller	 #giffgaff
   - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
-  - PROCESS-NAME,com.github.nrfr	 #Nrfr
   - PROCESS-NAME,com.glip.mobile	 #RingCentral
   - PROCESS-NAME,com.google.android.GoogleCamera	 #相机
   - PROCESS-NAME,com.google.android.apps.adm	 #查找中心
   - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
-  - PROCESS-NAME,com.google.android.apps.bard	 #Gemini
   - PROCESS-NAME,com.google.android.apps.books	 #Google Play 图书
   - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
   - PROCESS-NAME,com.google.android.apps.docs	 #云端硬盘
@@ -59,7 +56,6 @@ payload: # CreatedTime：2026-10-07 08:11:15
   - PROCESS-NAME,com.google.android.verifier	 #Android 开发者身份验证工具
   - PROCESS-NAME,com.google.android.youtube	 #YouTube
   - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
-  - PROCESS-NAME,com.google.ar.lens	 #智能镜头
   - PROCESS-NAME,com.gotokeep.keep.intl	 #KeepTrainer
   - PROCESS-NAME,com.hottagames.nte	 #异环
   - PROCESS-NAME,com.hunantv.imgo.activity.inter	 #MangoTV
@@ -126,7 +122,6 @@ payload: # CreatedTime：2026-10-07 08:11:15
   - PROCESS-NAME,com.zeptolab.ctr.ads	 #Cut the Rope
   - PROCESS-NAME,com.zeptolab.ctr2.f2p.google	 #Cut the Rope 2
   - PROCESS-NAME,com.zhiliaoapp.musically	 #TikTok
-  - PROCESS-NAME,deckers.thibault.aves	 #Aves
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
   - PROCESS-NAME,eu.darken.sdmse	 #SD Maid SE
   - PROCESS-NAME,exa.free.linuxbox	 #LinuxBox
@@ -138,7 +133,6 @@ payload: # CreatedTime：2026-10-07 08:11:15
   - PROCESS-NAME,jp.naver.line.android	 #LINE
   - PROCESS-NAME,ledscroller.led.scroller.ledbanner	 #LED手持弹幕
   - PROCESS-NAME,md.obsidian	 #Obsidian
-  - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
   - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
   - PROCESS-NAME,oms.mmc.app.almanac.copy.gm.wnl	 #万年历
   - PROCESS-NAME,oms.mmc.fortunetelling.gmpay.almanac2	 #顺历

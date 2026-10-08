@@ -1,0 +1,14 @@
+payload: # CreatedTime：2026-10-08 23:28:13
+  - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
+  - PROCESS-NAME,com.duokan.phone.remotecontroller	 #万能遥控
+  - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
+  - PROCESS-NAME,com.github.nrfr	 #Nrfr
+  - PROCESS-NAME,com.google.android.apps.bard	 #Gemini
+  - PROCESS-NAME,com.google.android.apps.photos	 #相册
+  - PROCESS-NAME,com.google.android.apps.photosgo	 #图库
+  - PROCESS-NAME,com.google.ar.lens	 #智能镜头
+  - PROCESS-NAME,com.lockscreen.round	 #锁屏
+  - PROCESS-NAME,com.lockscreen.square
+  - PROCESS-NAME,com.topjohnwu.magisk
+  - PROCESS-NAME,deckers.thibault.aves	 #Aves
+  - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
