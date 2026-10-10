@@ -91,11 +91,9 @@ com.qqgame.hlddzhw
 com.quora.android
 com.realvnc.viewer.android
 com.reddit.frontpage
-com.ruguoapp.jike
 com.shanga.walli
 com.speedsoftware.explorer
 com.spotify.music
-com.ss.android.article.video.phone
 com.ss.android.ugc.trill
 com.stardesk
 com.sunfire.ledscroller.ledbanner

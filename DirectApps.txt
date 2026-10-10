@@ -1,7 +1,3 @@
-com.ruguoapp.jike
-hk.alipay.wallet
-com.ss.android.article.video.phone
-com.ruguoapp.jike
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -54,9 +50,11 @@ com.netease.micro.yysls
 com.netease.yyslscn
 com.phantom
 com.quark.browser
+com.ruguoapp.jike
 com.ruivop.realweather
 com.sdu.didi.psnger
 com.simpleweather.app
+com.ss.android.article.video.phone
 com.ss.android.ugc.aweme
 com.ss.android.ugc.aweme.hubble
 com.ss.android.ugc.aweme.mobile

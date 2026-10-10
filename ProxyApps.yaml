@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-10 11:36:26
+payload: # CreatedTime：2026-10-10 16:27:29
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -92,11 +92,9 @@ payload: # CreatedTime：2026-10-10 11:36:26
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.realvnc.viewer.android	 #RVNC Viewer
   - PROCESS-NAME,com.reddit.frontpage	 #Reddit
-  - PROCESS-NAME,com.ruguoapp.jike	 #即刻
   - PROCESS-NAME,com.shanga.walli	 #Walli 4K
   - PROCESS-NAME,com.speedsoftware.explorer	 #Explorer
   - PROCESS-NAME,com.spotify.music	 #Spotify
-  - PROCESS-NAME,com.ss.android.article.video.phone	 #西瓜视频
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.stardesk	 #StarDesk
   - PROCESS-NAME,com.sunfire.ledscroller.ledbanner	 #手持弹幕
