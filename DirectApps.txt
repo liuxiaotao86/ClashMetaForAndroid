@@ -1,3 +1,7 @@
+com.ruguoapp.jike
+hk.alipay.wallet
+com.ss.android.article.video.phone
+com.ruguoapp.jike
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
