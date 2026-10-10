@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-10 16:27:29
+payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -80,7 +80,6 @@ payload: # CreatedTime：2026-10-10 16:27:29
   - PROCESS-NAME,com.niksoftware.snapseed	 #Snapseed
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
-  - PROCESS-NAME,com.openlanguage.kaiyan	 #开言英语
   - PROCESS-NAME,com.oplus.games	 #游戏助手
   - PROCESS-NAME,com.patreon.android	 #Patreon
   - PROCESS-NAME,com.paypal.android.p2pmobile	 #PayPal

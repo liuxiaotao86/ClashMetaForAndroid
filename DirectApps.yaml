@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-10 16:27:29
+payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -49,6 +49,7 @@ payload: # CreatedTime：2026-10-10 16:27:29
   - PROCESS-NAME,com.netease.dwrgminicg	 #第五人格
   - PROCESS-NAME,com.netease.micro.yysls	 #云·燕云十六声
   - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
+  - PROCESS-NAME,com.openlanguage.kaiyan	 #开言英语
   - PROCESS-NAME,com.phantom	 #Phantom
   - PROCESS-NAME,com.quark.browser	 #夸克
   - PROCESS-NAME,com.ruguoapp.jike	 #即刻

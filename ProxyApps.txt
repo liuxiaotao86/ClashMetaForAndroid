@@ -79,7 +79,6 @@ com.netease.idv.googleplay
 com.niksoftware.snapseed
 com.one.vpnapp
 com.openai.chatgpt
-com.openlanguage.kaiyan
 com.oplus.games
 com.patreon.android
 com.paypal.android.p2pmobile

@@ -1,4 +1,3 @@
-com.openlanguage.kaiyan
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -49,6 +48,7 @@ com.mubu.app
 com.netease.dwrgminicg
 com.netease.micro.yysls
 com.netease.yyslscn
+com.openlanguage.kaiyan
 com.phantom
 com.quark.browser
 com.ruguoapp.jike
