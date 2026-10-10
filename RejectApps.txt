@@ -1,6 +1,7 @@
 com.ImageStitch.lxt
 com.duokan.phone.remotecontroller
 com.farmerbb.notepad
+com.github.keeganwitt.applist
 com.github.nrfr
 com.google.android.apps.bard
 com.google.android.apps.photos
@@ -11,4 +12,3 @@ com.lockscreen.square
 com.topjohnwu.magisk
 deckers.thibault.aves
 moe.shizuku.privileged.api
-com.github.keeganwitt.applist

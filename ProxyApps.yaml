@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-08 23:28:13
+payload: # CreatedTime：2026-10-10 11:36:26
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -35,7 +35,6 @@ payload: # CreatedTime：2026-10-08 23:28:13
   - PROCESS-NAME,com.facebook.orca	 #Messenger
   - PROCESS-NAME,com.game.tombbusters	 #超自然行動組
   - PROCESS-NAME,com.giffgaffmobile.controller	 #giffgaff
-  - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
   - PROCESS-NAME,com.glip.mobile	 #RingCentral
   - PROCESS-NAME,com.google.android.GoogleCamera	 #相机
   - PROCESS-NAME,com.google.android.apps.adm	 #查找中心

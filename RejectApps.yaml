@@ -1,7 +1,8 @@
-payload: # CreatedTime：2026-10-08 23:31:26
+payload: # CreatedTime：2026-10-10 11:36:26
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.duokan.phone.remotecontroller	 #万能遥控
   - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
+  - PROCESS-NAME,com.github.keeganwitt.applist	 #App List
   - PROCESS-NAME,com.github.nrfr	 #Nrfr
   - PROCESS-NAME,com.google.android.apps.bard	 #Gemini
   - PROCESS-NAME,com.google.android.apps.photos	 #相册

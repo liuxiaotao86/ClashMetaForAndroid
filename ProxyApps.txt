@@ -34,7 +34,6 @@ com.facebook.katana
 com.facebook.orca
 com.game.tombbusters
 com.giffgaffmobile.controller
-com.github.keeganwitt.applist
 com.glip.mobile
 com.google.android.GoogleCamera
 com.google.android.apps.adm
