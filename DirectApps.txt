@@ -1,6 +1,3 @@
-
-com.tencent.weread
-com.sina.weibo
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -59,6 +56,7 @@ com.ruivop.realweather
 com.sankuai.meituan
 com.sdu.didi.psnger
 com.simpleweather.app
+com.sina.weibo
 com.ss.android.article.video.phone
 com.ss.android.ugc.aweme
 com.ss.android.ugc.aweme.hubble
@@ -74,6 +72,7 @@ com.tencent.tim
 com.tencent.tmgp.pubgmhd
 com.tencent.tmgp.sgame
 com.tencent.tmgp.speedmobile
+com.tencent.weread
 com.termux
 com.tocoding.neutral
 com.v2cross.proxy
