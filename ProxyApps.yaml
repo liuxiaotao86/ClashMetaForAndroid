@@ -1,6 +1,7 @@
-payload: # CreatedTime：2026-10-14 00:19:23
+payload: # CreatedTime：2026-10-14 05:01:56
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.discord	 #Discord
+  - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
   - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
   - PROCESS-NAME,com.google.android.youtube	 #YouTube
@@ -16,5 +17,7 @@ payload: # CreatedTime：2026-10-14 00:19:23
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
   - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
   - PROCESS-NAME,org.chromium.webapk.a4256939910205ee0_v2	 #GitHub
+  - PROCESS-NAME,org.chromium.webapk.aa15984e4e5e3b593_v2	 #本来日历
+  - PROCESS-NAME,org.chromium.webapk.ad160c4a1c4cae6f2_v2	 #Gists
   - PROCESS-NAME,org.telegram.messenger	 #Telegram
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch

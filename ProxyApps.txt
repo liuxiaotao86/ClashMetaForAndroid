@@ -1,5 +1,6 @@
 com.anthropic.claude
 com.discord
+com.facebook.katana
 com.google.android.apps.authenticator2
 com.google.android.apps.credentialmanager
 com.google.android.youtube
@@ -15,5 +16,7 @@ com.zhiliaoapp.musically
 flar2.devcheck
 myradio.radio.fmradio.liveradio.radiostation
 org.chromium.webapk.a4256939910205ee0_v2
+org.chromium.webapk.aa15984e4e5e3b593_v2
+org.chromium.webapk.ad160c4a1c4cae6f2_v2
 org.telegram.messenger
 tv.twitch.android.app
