@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-11 02:35:42
+payload: # CreatedTime：2026-10-14 00:17:10
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -59,7 +59,7 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,com.ss.android.article.video.phone	 #西瓜视频
   - PROCESS-NAME,com.ss.android.ugc.aweme	 #抖音
   - PROCESS-NAME,com.ss.android.ugc.aweme.hubble	 #AI抖音
-  - PROCESS-NAME,com.ss.android.ugc.aweme.mobile
+  - PROCESS-NAME,com.ss.android.ugc.aweme.mobile	 #抖音
   - PROCESS-NAME,com.ss.android.yumme.video	 #抖音精选
   - PROCESS-NAME,com.tencent.androidqqmail	 #QQ邮箱
   - PROCESS-NAME,com.tencent.gamematrix.pubgmhd	 #和平精英云游戏
