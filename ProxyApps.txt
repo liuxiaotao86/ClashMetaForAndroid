@@ -30,6 +30,7 @@ com.discord
 com.doggygo.vpn
 com.dogygo.sfa
 com.droidcity.cpuzprox
+com.ea.game.pvzfree_row
 com.facebook.katana
 com.facebook.orca
 com.game.tombbusters
@@ -64,6 +65,7 @@ com.instagram.android
 com.instagram.barcelona
 com.iqiyi.i18n
 com.jonathanpuckey.radiogarden
+com.kick.streaming
 com.kiloo.subwaysurf
 com.larus.wolf
 com.levelinfinite.sgameGlobal
@@ -77,6 +79,7 @@ com.moonshot.kimichat
 com.navercorp.game.android.community
 com.netease.idv.googleplay
 com.niksoftware.snapseed
+com.omartechs.anarvpn
 com.one.vpnapp
 com.openai.chatgpt
 com.oplus.games
@@ -85,7 +88,6 @@ com.paypal.android.p2pmobile
 com.phonewalls.stockwallpapers
 com.pinterest
 com.poki.playground
-com.qq.qcloud
 com.qqgame.hlddzhw
 com.quora.android
 com.realvnc.viewer.android
@@ -117,6 +119,7 @@ com.youku.international.phone
 com.zeptolab.ctr.ads
 com.zeptolab.ctr2.f2p.google
 com.zhiliaoapp.musically
+com.zhiliaoapp.musically.go
 dk.riax.droidgist
 eu.darken.sdmse
 exa.free.linuxbox
@@ -125,7 +128,8 @@ flar2.devcheck
 fmradio.radiostation.livefm.musicradio
 gr.nikolasspyr.integritycheck
 im.crisp.app
-jp.naver.line.android
+io.chaldeaprjkt.gamespace
+kr.co.nowcom.mobile.afreeca
 ledscroller.led.scroller.ledbanner
 md.obsidian
 myradio.radio.fmradio.liveradio.radiostation
@@ -136,6 +140,7 @@ org.chromium.webapk.a026efccf7a7108c1_v2
 org.chromium.webapk.a1afc061f9e41fba0_v2
 org.chromium.webapk.a2498a9ff5e11f569_v2
 org.chromium.webapk.a30eaa000fe2e7989_v2
+org.chromium.webapk.a3ac243009d851ae8_v2
 org.chromium.webapk.a3f3e308f685c6a33_v2
 org.chromium.webapk.a4462ff9675772b76_v2
 org.chromium.webapk.a6573bd761d233d4f_v2

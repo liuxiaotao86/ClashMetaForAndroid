@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-11 02:35:42
+payload: # CreatedTime：2026-10-13 09:11:18
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,app.nicegram	 #Nicegram
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -31,6 +31,7 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,com.doggygo.vpn	 #狗狗加速
   - PROCESS-NAME,com.dogygo.sfa	 #狗狗加速
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
+  - PROCESS-NAME,com.ea.game.pvzfree_row	 #Plants vs. Zombies FREE
   - PROCESS-NAME,com.facebook.katana	 #Facebook
   - PROCESS-NAME,com.facebook.orca	 #Messenger
   - PROCESS-NAME,com.game.tombbusters	 #超自然行動組
@@ -65,6 +66,7 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
   - PROCESS-NAME,com.iqiyi.i18n	 #iQIYI
   - PROCESS-NAME,com.jonathanpuckey.radiogarden	 #Radio Garden
+  - PROCESS-NAME,com.kick.streaming	 #Kick - 直播
   - PROCESS-NAME,com.kiloo.subwaysurf	 #Subway Surf
   - PROCESS-NAME,com.larus.wolf	 #Dola
   - PROCESS-NAME,com.levelinfinite.sgameGlobal	 #Honor of Kings
@@ -78,6 +80,7 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,com.navercorp.game.android.community	 #치지직
   - PROCESS-NAME,com.netease.idv.googleplay	 #Identity V
   - PROCESS-NAME,com.niksoftware.snapseed	 #Snapseed
+  - PROCESS-NAME,com.omartechs.anarvpn	 #Anar VPN
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
   - PROCESS-NAME,com.oplus.games	 #游戏助手
@@ -86,7 +89,6 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
   - PROCESS-NAME,com.pinterest	 #Pinterest
   - PROCESS-NAME,com.poki.playground	 #Poki
-  - PROCESS-NAME,com.qq.qcloud	 #腾讯微云
   - PROCESS-NAME,com.qqgame.hlddzhw	 #欢乐斗地主
   - PROCESS-NAME,com.quora.android	 #Quora
   - PROCESS-NAME,com.realvnc.viewer.android	 #RVNC Viewer
@@ -118,6 +120,7 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,com.zeptolab.ctr.ads	 #Cut the Rope
   - PROCESS-NAME,com.zeptolab.ctr2.f2p.google	 #Cut the Rope 2
   - PROCESS-NAME,com.zhiliaoapp.musically	 #TikTok
+  - PROCESS-NAME,com.zhiliaoapp.musically.go	 #TikTok Lite
   - PROCESS-NAME,dk.riax.droidgist	 #DroidGist
   - PROCESS-NAME,eu.darken.sdmse	 #SD Maid SE
   - PROCESS-NAME,exa.free.linuxbox	 #LinuxBox
@@ -126,7 +129,8 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,fmradio.radiostation.livefm.musicradio	 #FM Radio
   - PROCESS-NAME,gr.nikolasspyr.integritycheck	 #Play Integrity API Checker
   - PROCESS-NAME,im.crisp.app	 #脆
-  - PROCESS-NAME,jp.naver.line.android	 #LINE
+  - PROCESS-NAME,io.chaldeaprjkt.gamespace	 #游戏空间
+  - PROCESS-NAME,kr.co.nowcom.mobile.afreeca	 #SOOP
   - PROCESS-NAME,ledscroller.led.scroller.ledbanner	 #LED手持弹幕
   - PROCESS-NAME,md.obsidian	 #Obsidian
   - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
@@ -137,6 +141,7 @@ payload: # CreatedTime：2026-10-11 02:35:42
   - PROCESS-NAME,org.chromium.webapk.a1afc061f9e41fba0_v2	 #GitHub
   - PROCESS-NAME,org.chromium.webapk.a2498a9ff5e11f569_v2	 #Gists
   - PROCESS-NAME,org.chromium.webapk.a30eaa000fe2e7989_v2	 #ipleak.net
+  - PROCESS-NAME,org.chromium.webapk.a3ac243009d851ae8_v2	 #Apple App Store
   - PROCESS-NAME,org.chromium.webapk.a3f3e308f685c6a33_v2	 #ip.skk.moe
   - PROCESS-NAME,org.chromium.webapk.a4462ff9675772b76_v2	 #Stripchat
   - PROCESS-NAME,org.chromium.webapk.a6573bd761d233d4f_v2	 #Resend
