@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-14 00:17:10
+payload: # CreatedTime：2026-10-14 00:19:23
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
@@ -10,7 +10,6 @@ payload: # CreatedTime：2026-10-14 00:17:10
   - PROCESS-NAME,com.larus.wolf	 #Dola
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
-  - PROCESS-NAME,com.sankuai.meituan	 #美团
   - PROCESS-NAME,com.spotify.music	 #Spotify
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
   - PROCESS-NAME,com.zhiliaoapp.musically	 #TikTok

@@ -9,7 +9,6 @@ com.instagram.barcelona
 com.larus.wolf
 com.one.vpnapp
 com.openai.chatgpt
-com.sankuai.meituan
 com.spotify.music
 com.whatsapp
 com.zhiliaoapp.musically
