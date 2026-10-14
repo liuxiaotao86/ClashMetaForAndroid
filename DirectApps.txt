@@ -1,3 +1,4 @@
+com.xunmeng.pinduoduo
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
