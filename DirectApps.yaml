@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-14 05:01:56
+payload: # CreatedTime：2026-10-15 05:42:21
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -84,6 +84,7 @@ payload: # CreatedTime：2026-10-14 05:01:56
   - PROCESS-NAME,com.xiaomi.router	 #小米WiFi
   - PROCESS-NAME,com.xiaomi.shop	 #小米商城
   - PROCESS-NAME,com.xingin.xhs	 #小红书
+  - PROCESS-NAME,com.xunmeng.pinduoduo
   - PROCESS-NAME,com.yitong.mbank.psbc	 #邮储银行
   - PROCESS-NAME,com.ym.xysz.mhxh
   - PROCESS-NAME,com.yokia.app.doudownloader	 #抖下载
