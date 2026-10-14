@@ -12,7 +12,4 @@ com.lockscreen.square
 com.topjohnwu.magisk
 deckers.thibault.aves
 moe.shizuku.privileged.api
-com.github.keeganwitt.applist
-com.google.ar.lens
-com.google.android.apps.photosgo
 org.videolan.vlc

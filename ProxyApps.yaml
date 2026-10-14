@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-14 12:44:06
+payload: # CreatedTime：2026-10-14 12:49:18
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
@@ -31,5 +31,4 @@ payload: # CreatedTime：2026-10-14 12:44:06
   - PROCESS-NAME,org.chromium.webapk.aa15984e4e5e3b593_v2	 #本来日历
   - PROCESS-NAME,org.chromium.webapk.ad160c4a1c4cae6f2_v2	 #Gists
   - PROCESS-NAME,org.telegram.messenger	 #Telegram
-  - PROCESS-NAME,org.videolan.vlc	 #VLC
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch

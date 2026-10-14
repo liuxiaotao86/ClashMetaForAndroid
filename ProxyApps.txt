@@ -30,5 +30,4 @@ org.chromium.webapk.a4256939910205ee0_v2
 org.chromium.webapk.aa15984e4e5e3b593_v2
 org.chromium.webapk.ad160c4a1c4cae6f2_v2
 org.telegram.messenger
-org.videolan.vlc
 tv.twitch.android.app
