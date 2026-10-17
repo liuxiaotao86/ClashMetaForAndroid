@@ -1,8 +1,7 @@
-payload: # CreatedTime：2026-10-17 19:59:46
+payload: # CreatedTime：2026-10-17 20:00:41
   - PROCESS-NAME,ai.x.grok	 #Grok
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
-  - PROCESS-NAME,com.cmi.jegotrip	 #无忧行
   - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.facebook.katana	 #Facebook

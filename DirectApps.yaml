@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-15 05:42:21
+payload: # CreatedTime：2026-10-17 20:00:41
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -20,6 +20,7 @@ payload: # CreatedTime：2026-10-15 05:42:21
   - PROCESS-NAME,com.cgbchina.xpt	 #广发银行
   - PROCESS-NAME,com.chinamworld.bocmbci	 #中国银行
   - PROCESS-NAME,com.chinamworld.main	 #中国建设银行
+  - PROCESS-NAME,com.cmi.jegotrip	 #无忧行
   - PROCESS-NAME,com.colorfulclouds.lite	 #ColorfulClouds Weather
   - PROCESS-NAME,com.coolapk.market	 #酷安
   - PROCESS-NAME,com.ct.client	 #中国电信
