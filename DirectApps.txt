@@ -1,4 +1,3 @@
-com.chinamobile.mcloud
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -18,6 +17,7 @@ com.bankcomm.Bankcomm
 com.bbk.appstore
 com.bilibili.app.in
 com.cgbchina.xpt
+com.chinamobile.mcloud
 com.chinamworld.bocmbci
 com.chinamworld.main
 com.cmi.jegotrip
