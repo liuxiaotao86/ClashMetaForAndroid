@@ -1,6 +1,7 @@
 ai.x.grok
 com.anthropic.claude
 com.chartcross.gpstest
+com.chinamobile.mcloud
 com.digibites.accubattery
 com.discord
 com.facebook.katana
