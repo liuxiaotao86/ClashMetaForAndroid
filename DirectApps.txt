@@ -1,3 +1,4 @@
+com.chinamobile.mcloud
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
