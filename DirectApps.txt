@@ -1,4 +1,3 @@
-com.mihoyo.hyperion
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
