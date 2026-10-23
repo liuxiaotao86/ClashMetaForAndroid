@@ -1,2 +1,1 @@
-com.hunantv.imgo.activity
 com.levelinfinite.sgameGlobal.midaspay

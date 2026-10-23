@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-17 20:22:35
+payload: # CreatedTime：2026-10-23 08:53:30
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -34,6 +34,7 @@ payload: # CreatedTime：2026-10-17 20:22:35
   - PROCESS-NAME,com.github.metacubex.clash.meta	 #Clash Meta for Android
   - PROCESS-NAME,com.heweather.weatherapp	 #和风天气
   - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
+  - PROCESS-NAME,com.hunantv.imgo.activity	 #芒果TV
   - PROCESS-NAME,com.huya.kiwi	 #虎牙直播
   - PROCESS-NAME,com.icbc	 #中国工商银行
   - PROCESS-NAME,com.jingdong.app.mall	 #京东

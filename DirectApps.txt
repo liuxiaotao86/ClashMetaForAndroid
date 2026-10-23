@@ -1,5 +1,4 @@
 app.alextran.immich
-com.hunantv.imgo.activity
 bin.mt.plus
 bin.mt.termex
 cmb.pb
@@ -34,6 +33,7 @@ com.fiberhome.terminal
 com.github.metacubex.clash.meta
 com.heweather.weatherapp
 com.hoyoverse.cloudgames.GenshinImpact
+com.hunantv.imgo.activity
 com.huya.kiwi
 com.icbc
 com.jingdong.app.mall
