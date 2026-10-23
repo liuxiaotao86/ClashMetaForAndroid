@@ -1,17 +1,28 @@
-payload: # CreatedTime：2026-10-23 13:53:56
+payload: # CreatedTime：2026-10-23 13:58:54
+  - PROCESS-NAME,cn.kuwo.player	 #酷我音乐
+  - PROCESS-NAME,cn.wenyu.bodian	 #波点音乐
   - PROCESS-NAME,com.aitutor.hippo	 #豆包爱学
   - PROCESS-NAME,com.aliyun.tongyi	 #千问
   - PROCESS-NAME,com.bilibili.app.blue	 #哔哩哔哩概念
+  - PROCESS-NAME,com.dragon.read	 #番茄免费小说
   - PROCESS-NAME,com.gzss.wdfd.vivo	 #我的飞刀
+  - PROCESS-NAME,com.hiby.music	 #海贝音乐
+  - PROCESS-NAME,com.kmxs.reader	 #七猫免费小说
   - PROCESS-NAME,com.kuaishou.nebula	 #快手极速版
+  - PROCESS-NAME,com.kugou.android.elder	 #酷狗免费版
+  - PROCESS-NAME,com.kugou.android.lite	 #酷狗概念版
   - PROCESS-NAME,com.kuro.cloudgame	 #云•鸣潮
   - PROCESS-NAME,com.kylin.read	 #红果免费漫剧
   - PROCESS-NAME,com.le123.ysdq	 #影视大全
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.midaspay	 #Honor of Kings
+  - PROCESS-NAME,com.netease.cloudmusic	 #网易云音乐
   - PROCESS-NAME,com.phoenix.read	 #红果免费短剧
+  - PROCESS-NAME,com.qidian.QDReader	 #起点读书
   - PROCESS-NAME,com.qiyi.video	 #爱奇艺
   - PROCESS-NAME,com.qiyi.video.lite	 #爱奇艺极速版
+  - PROCESS-NAME,com.shuqi.controller	 #书旗小说
+  - PROCESS-NAME,com.sing.client	 #5sing音乐
   - PROCESS-NAME,com.smile.gifmaker	 #快手
   - PROCESS-NAME,com.sohu.sohuvideo	 #搜狐视频
   - PROCESS-NAME,com.ss.android.article.news	 #今日头条
@@ -21,6 +32,7 @@ payload: # CreatedTime：2026-10-23 13:53:56
   - PROCESS-NAME,com.ss.android.ugc.livelite	 #抖音商城
   - PROCESS-NAME,com.storm.smart	 #暴风影音
   - PROCESS-NAME,com.tencent.qqlive	 #腾讯视频
+  - PROCESS-NAME,com.tencent.qqmusic	 #QQ音乐
   - PROCESS-NAME,com.tencent.weishi	 #腾讯微视
   - PROCESS-NAME,com.tencent.wemeet.app	 #腾讯会议
   - PROCESS-NAME,com.xplaygame.yixingangqin.vivo	 #一心钢琴
