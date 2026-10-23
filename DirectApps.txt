@@ -1,6 +1,3 @@
-
-com.mmbox.xbrowser
-mark.via
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
