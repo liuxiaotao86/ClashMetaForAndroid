@@ -1,7 +1,5 @@
 app.alextran.immich
 bin.mt.plus
-
-com.pwrd.cloud.yh.laohu
 bin.mt.termex
 cmb.pb
 cn.com.cmbc.newmbank
@@ -55,6 +53,7 @@ com.netease.micro.yysls
 com.netease.yyslscn
 com.openlanguage.kaiyan
 com.phantom
+com.pwrd.cloud.yh.laohu
 com.quark.browser
 com.ruguoapp.jike
 com.ruivop.realweather
