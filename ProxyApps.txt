@@ -1,1 +1,5 @@
+com.gzss.wdfd.vivo
+com.kuro.cloudgame
+com.levelinfinite.sgameGlobal.cloud
 com.levelinfinite.sgameGlobal.midaspay
+com.xplaygame.yixingangqin.vivo
