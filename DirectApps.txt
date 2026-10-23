@@ -1,5 +1,7 @@
 app.alextran.immich
 bin.mt.plus
+
+com.pwrd.cloud.yh.laohu
 bin.mt.termex
 cmb.pb
 cn.com.cmbc.newmbank
