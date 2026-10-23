@@ -1,34 +1,3 @@
-payload: # CreatedTime：2026-10-17 20:22:35
-  - PROCESS-NAME,ai.x.grok	 #Grok
-  - PROCESS-NAME,com.anthropic.claude	 #Claude
-  - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
-  - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
-  - PROCESS-NAME,com.discord	 #Discord
-  - PROCESS-NAME,com.facebook.katana	 #Facebook
-  - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
-  - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
-  - PROCESS-NAME,com.google.android.apps.maps	 #地图
-  - PROCESS-NAME,com.google.android.contactkeys	 #Android System Key Verifier
-  - PROCESS-NAME,com.google.android.googlequicksearchbox	 #Google
-  - PROCESS-NAME,com.google.android.safetycore	 #Android System SafetyCore
-  - PROCESS-NAME,com.google.android.verifier	 #Android 开发者身份验证工具
-  - PROCESS-NAME,com.google.android.youtube	 #YouTube
-  - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
-  - PROCESS-NAME,com.instagram.android	 #Instagram
-  - PROCESS-NAME,com.instagram.barcelona	 #Threads
-  - PROCESS-NAME,com.larus.wolf	 #Dola
-  - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
-  - PROCESS-NAME,com.one.vpnapp	 #1VPN
-  - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
-  - PROCESS-NAME,com.patreon.android	 #Patreon
-  - PROCESS-NAME,com.spotify.music	 #Spotify
-  - PROCESS-NAME,com.twitter.android	 #X
-  - PROCESS-NAME,com.whatsapp	 #WhatsApp
-  - PROCESS-NAME,com.zhiliaoapp.musically	 #TikTok
-  - PROCESS-NAME,flar2.devcheck	 #DevCheck
-  - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
-  - PROCESS-NAME,org.chromium.webapk.a4256939910205ee0_v2	 #GitHub
-  - PROCESS-NAME,org.chromium.webapk.aa15984e4e5e3b593_v2	 #本来日历
-  - PROCESS-NAME,org.chromium.webapk.ad160c4a1c4cae6f2_v2	 #Gists
-  - PROCESS-NAME,org.telegram.messenger	 #Telegram
-  - PROCESS-NAME,tv.twitch.android.app	 #Twitch
+payload: # CreatedTime：2026-10-23 08:51:39
+  - PROCESS-NAME,com.hunantv.imgo.activity	 #芒果TV
+  - PROCESS-NAME,com.levelinfinite.sgameGlobal.midaspay	 #Honor of Kings
