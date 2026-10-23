@@ -1,4 +1,5 @@
 app.alextran.immich
+com.hunantv.imgo.activity
 bin.mt.plus
 bin.mt.termex
 cmb.pb
