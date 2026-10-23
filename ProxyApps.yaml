@@ -1,6 +1,30 @@
-payload: # CreatedTime：2026-10-23 13:27:27
+payload: # CreatedTime：2026-10-23 13:53:56
+  - PROCESS-NAME,com.aitutor.hippo	 #豆包爱学
+  - PROCESS-NAME,com.aliyun.tongyi	 #千问
+  - PROCESS-NAME,com.bilibili.app.blue	 #哔哩哔哩概念
   - PROCESS-NAME,com.gzss.wdfd.vivo	 #我的飞刀
+  - PROCESS-NAME,com.kuaishou.nebula	 #快手极速版
   - PROCESS-NAME,com.kuro.cloudgame	 #云•鸣潮
+  - PROCESS-NAME,com.kylin.read	 #红果免费漫剧
+  - PROCESS-NAME,com.le123.ysdq	 #影视大全
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.midaspay	 #Honor of Kings
+  - PROCESS-NAME,com.phoenix.read	 #红果免费短剧
+  - PROCESS-NAME,com.qiyi.video	 #爱奇艺
+  - PROCESS-NAME,com.qiyi.video.lite	 #爱奇艺极速版
+  - PROCESS-NAME,com.smile.gifmaker	 #快手
+  - PROCESS-NAME,com.sohu.sohuvideo	 #搜狐视频
+  - PROCESS-NAME,com.ss.android.article.news	 #今日头条
+  - PROCESS-NAME,com.ss.android.article.video	 #西瓜视频
+  - PROCESS-NAME,com.ss.android.ugc.aweme.lite	 #抖音极速版
+  - PROCESS-NAME,com.ss.android.ugc.live	 #抖音火山版
+  - PROCESS-NAME,com.ss.android.ugc.livelite	 #抖音商城
+  - PROCESS-NAME,com.storm.smart	 #暴风影音
+  - PROCESS-NAME,com.tencent.qqlive	 #腾讯视频
+  - PROCESS-NAME,com.tencent.weishi	 #腾讯微视
+  - PROCESS-NAME,com.tencent.wemeet.app	 #腾讯会议
   - PROCESS-NAME,com.xplaygame.yixingangqin.vivo	 #一心钢琴
+  - PROCESS-NAME,com.xs.fm	 #番茄畅听
+  - PROCESS-NAME,com.xs.fm.lite	 #番茄音乐（原畅听音乐）
+  - PROCESS-NAME,com.youku.phone	 #优酷视频
+  - PROCESS-NAME,tv.danmaku.bili	 #哔哩哔哩
