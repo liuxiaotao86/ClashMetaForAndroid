@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-10-14 12:49:18
+payload: # CreatedTime：2026-11-02 02:20:49
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
   - PROCESS-NAME,com.duokan.phone.remotecontroller	 #万能遥控
   - PROCESS-NAME,com.farmerbb.notepad	 #Notepad
@@ -11,6 +11,7 @@ payload: # CreatedTime：2026-10-14 12:49:18
   - PROCESS-NAME,com.lockscreen.round	 #锁屏
   - PROCESS-NAME,com.lockscreen.square	 #锁屏
   - PROCESS-NAME,com.topjohnwu.magisk	 #Magisk面具
+  - PROCESS-NAME,com.vincentlee.compass
   - PROCESS-NAME,deckers.thibault.aves	 #Aves
   - PROCESS-NAME,moe.shizuku.privileged.api	 #Shizuku
   - PROCESS-NAME,org.videolan.vlc	 #VLC

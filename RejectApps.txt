@@ -1,5 +1,3 @@
-
-com.vincentlee.compass
 com.ImageStitch.lxt
 com.duokan.phone.remotecontroller
 com.farmerbb.notepad
@@ -12,6 +10,7 @@ com.google.ar.lens
 com.lockscreen.round
 com.lockscreen.square
 com.topjohnwu.magisk
+com.vincentlee.compass
 deckers.thibault.aves
 moe.shizuku.privileged.api
 org.videolan.vlc
