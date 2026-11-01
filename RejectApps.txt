@@ -1,3 +1,5 @@
+
+com.vincentlee.compass
 com.ImageStitch.lxt
 com.duokan.phone.remotecontroller
 com.farmerbb.notepad
