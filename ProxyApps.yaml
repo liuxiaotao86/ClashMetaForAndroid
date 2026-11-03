@@ -1,42 +1,28 @@
-payload: # CreatedTime：2026-10-23 13:58:54
-  - PROCESS-NAME,cn.kuwo.player	 #酷我音乐
-  - PROCESS-NAME,cn.wenyu.bodian	 #波点音乐
-  - PROCESS-NAME,com.aitutor.hippo	 #豆包爱学
-  - PROCESS-NAME,com.aliyun.tongyi	 #千问
-  - PROCESS-NAME,com.bilibili.app.blue	 #哔哩哔哩概念
-  - PROCESS-NAME,com.dragon.read	 #番茄免费小说
-  - PROCESS-NAME,com.gzss.wdfd.vivo	 #我的飞刀
-  - PROCESS-NAME,com.hiby.music	 #海贝音乐
-  - PROCESS-NAME,com.kmxs.reader	 #七猫免费小说
-  - PROCESS-NAME,com.kuaishou.nebula	 #快手极速版
-  - PROCESS-NAME,com.kugou.android.elder	 #酷狗免费版
-  - PROCESS-NAME,com.kugou.android.lite	 #酷狗概念版
-  - PROCESS-NAME,com.kuro.cloudgame	 #云•鸣潮
-  - PROCESS-NAME,com.kylin.read	 #红果免费漫剧
-  - PROCESS-NAME,com.le123.ysdq	 #影视大全
-  - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
-  - PROCESS-NAME,com.levelinfinite.sgameGlobal.midaspay	 #Honor of Kings
-  - PROCESS-NAME,com.netease.cloudmusic	 #网易云音乐
-  - PROCESS-NAME,com.phoenix.read	 #红果免费短剧
-  - PROCESS-NAME,com.qidian.QDReader	 #起点读书
-  - PROCESS-NAME,com.qiyi.video	 #爱奇艺
-  - PROCESS-NAME,com.qiyi.video.lite	 #爱奇艺极速版
-  - PROCESS-NAME,com.shuqi.controller	 #书旗小说
-  - PROCESS-NAME,com.sing.client	 #5sing音乐
-  - PROCESS-NAME,com.smile.gifmaker	 #快手
-  - PROCESS-NAME,com.sohu.sohuvideo	 #搜狐视频
-  - PROCESS-NAME,com.ss.android.article.news	 #今日头条
-  - PROCESS-NAME,com.ss.android.article.video	 #西瓜视频
-  - PROCESS-NAME,com.ss.android.ugc.aweme.lite	 #抖音极速版
-  - PROCESS-NAME,com.ss.android.ugc.live	 #抖音火山版
-  - PROCESS-NAME,com.ss.android.ugc.livelite	 #抖音商城
-  - PROCESS-NAME,com.storm.smart	 #暴风影音
-  - PROCESS-NAME,com.tencent.qqlive	 #腾讯视频
-  - PROCESS-NAME,com.tencent.qqmusic	 #QQ音乐
-  - PROCESS-NAME,com.tencent.weishi	 #腾讯微视
-  - PROCESS-NAME,com.tencent.wemeet.app	 #腾讯会议
-  - PROCESS-NAME,com.xplaygame.yixingangqin.vivo	 #一心钢琴
-  - PROCESS-NAME,com.xs.fm	 #番茄畅听
-  - PROCESS-NAME,com.xs.fm.lite	 #番茄音乐（原畅听音乐）
-  - PROCESS-NAME,com.youku.phone	 #优酷视频
-  - PROCESS-NAME,tv.danmaku.bili	 #哔哩哔哩
+payload: # CreatedTime：2026-11-03 18:58:07
+  - PROCESS-NAME,com.anthropic.claude	 #Claude
+  - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
+  - PROCESS-NAME,com.discord	 #Discord
+  - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
+  - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
+  - PROCESS-NAME,com.google.android.apps.translate	 #翻译
+  - PROCESS-NAME,com.google.android.contactkeys	 #Android System Key Verifier
+  - PROCESS-NAME,com.google.android.googlequicksearchbox	 #Google
+  - PROCESS-NAME,com.google.android.keep	 #Keep 记事
+  - PROCESS-NAME,com.google.android.safetycore	 #Android System SafetyCore
+  - PROCESS-NAME,com.google.android.verifier	 #Android 开发者身份验证工具
+  - PROCESS-NAME,com.google.android.youtube	 #YouTube
+  - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
+  - PROCESS-NAME,com.instagram.android	 #Instagram
+  - PROCESS-NAME,com.instagram.barcelona	 #Threads
+  - PROCESS-NAME,com.larus.wolf	 #Dola
+  - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
+  - PROCESS-NAME,com.patreon.android	 #Patreon
+  - PROCESS-NAME,com.spotify.music	 #Spotify
+  - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
+  - PROCESS-NAME,com.whatsapp	 #WhatsApp
+  - PROCESS-NAME,flar2.devcheck	 #DevCheck
+  - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
+  - PROCESS-NAME,org.chromium.webapk.a547e3ac9b646d93a_v2	 #GitHub
+  - PROCESS-NAME,org.telegram.messenger	 #Telegram
+  - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
+  - PROCESS-NAME,tv.twitch.android.app	 #Twitch
