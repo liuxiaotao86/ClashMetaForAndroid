@@ -44,3 +44,8 @@ App Name,Package Name,APK_SIZE,ARCHIVED,ENABLED,EXISTS_IN_APP_STORE,FIRST_INSTAL
 "Twitch","tv.twitch.android.app","122526650","false","true","","2026年10月29日 20:58:53","15","2026年10月29日 20:58:53","32","Google Play","20","https://play.google.com/store/apps/details?id=tv.twitch.android.app","36","31.8.0"
 "WhatsApp","com.whatsapp","141664385","false","true","","2026年11月1日 19:44:33","47","2026年11月1日 19:44:33","23","Google Play","88","https://play.google.com/store/apps/details?id=com.whatsapp","36","2.26.42.74"
 "YouTube","com.google.android.youtube","65722602","false","true","","2026年10月29日 21:03:19","29","2026年10月29日 21:03:19","32","Google Play","51","https://play.google.com/store/apps/details?id=com.google.android.youtube","37","21.43.523"
+中国广电,com.ai.obc.cbn.app
+中国联通,com.sinovatech.unicom.ui
+中国移动,com.greenpoint.android.mc10086.activity
+中国农业银行,com.android.bankabc
+中国建设银行,com.chinamworld.main
