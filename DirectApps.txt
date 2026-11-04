@@ -1,3 +1,8 @@
+com.ai.obc.cbn.app
+com.sinovatech.unicom.ui
+com.greenpoint.android.mc10086.activity
+com.android.bankabc
+com.chinamworld.main
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
