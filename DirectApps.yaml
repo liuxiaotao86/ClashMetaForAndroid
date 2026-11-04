@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-05 07:44:49
+payload: # CreatedTime：2026-11-05 07:46:55
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -8,7 +8,7 @@ payload: # CreatedTime：2026-11-05 07:44:49
   - PROCESS-NAME,cn.com.spdb.mobilebank.per	 #浦发银行
   - PROCESS-NAME,com.HoYoverse.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.ImageStitch.lxt	 #拼图
-  - PROCESS-NAME,com.ai.obc.cbn.app
+  - PROCESS-NAME,com.ai.obc.cbn.app	 #中国广电
   - PROCESS-NAME,com.android.bankabc	 #中国农业银行
   - PROCESS-NAME,com.android.wallpapers	 #安卓壁纸
   - PROCESS-NAME,com.autonavi.minimap	 #高德地图
@@ -33,7 +33,7 @@ payload: # CreatedTime：2026-11-05 07:44:49
   - PROCESS-NAME,com.eg.android.AlipayGphone	 #支付宝
   - PROCESS-NAME,com.fiberhome.terminal	 #烽火终端
   - PROCESS-NAME,com.github.metacubex.clash.meta	 #Clash Meta for Android
-  - PROCESS-NAME,com.greenpoint.android.mc10086.activity
+  - PROCESS-NAME,com.greenpoint.android.mc10086.activity	 #中国移动
   - PROCESS-NAME,com.heweather.weatherapp	 #和风天气
   - PROCESS-NAME,com.hoyoverse.cloudgames.GenshinImpact	 #云·原神
   - PROCESS-NAME,com.hunantv.imgo.activity	 #芒果TV
@@ -64,7 +64,7 @@ payload: # CreatedTime：2026-11-05 07:44:49
   - PROCESS-NAME,com.sdu.didi.psnger	 #滴滴
   - PROCESS-NAME,com.simpleweather.app	 #简洁天气
   - PROCESS-NAME,com.sina.weibo	 #微博
-  - PROCESS-NAME,com.sinovatech.unicom.ui
+  - PROCESS-NAME,com.sinovatech.unicom.ui	 #中国联通
   - PROCESS-NAME,com.ss.android.article.video.phone	 #西瓜视频
   - PROCESS-NAME,com.ss.android.ugc.aweme	 #抖音
   - PROCESS-NAME,com.ss.android.ugc.aweme.hubble	 #AI抖音
