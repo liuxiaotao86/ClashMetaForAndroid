@@ -1,28 +1,93 @@
-payload: # CreatedTime：2026-11-03 18:58:07
+payload: # CreatedTime：2026-11-15 09:27:51
+  - PROCESS-NAME,ai.x.grok.bot	 #Grok Bot
+  - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
+  - PROCESS-NAME,com.Bureau81.OPERATOR	 #The Operator
+  - PROCESS-NAME,com.HoYoverse.Nap	 #绝区零
+  - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
+  - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.anthropic.claude	 #Claude
+  - PROCESS-NAME,com.authy.authy	 #Authy
+  - PROCESS-NAME,com.baidu.BaiduMap	 #百度地图
+  - PROCESS-NAME,com.bytedance.android.doubaoime	 #豆包输入法
+  - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
+  - PROCESS-NAME,com.deepseek.chat	 #DeepSeek
   - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
   - PROCESS-NAME,com.discord	 #Discord
+  - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
   - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
+  - PROCESS-NAME,com.google.android.apps.books	 #Google Play 图书
   - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
+  - PROCESS-NAME,com.google.android.apps.docs	 #云端硬盘
+  - PROCESS-NAME,com.google.android.apps.googlevoice	 #Voice
+  - PROCESS-NAME,com.google.android.apps.maps	 #地图
   - PROCESS-NAME,com.google.android.apps.translate	 #翻译
+  - PROCESS-NAME,com.google.android.apps.walletnfcrel	 #Google 钱包
+  - PROCESS-NAME,com.google.android.apps.youtube.music	 #YouTube Music
   - PROCESS-NAME,com.google.android.contactkeys	 #Android System Key Verifier
   - PROCESS-NAME,com.google.android.googlequicksearchbox	 #Google
   - PROCESS-NAME,com.google.android.keep	 #Keep 记事
+  - PROCESS-NAME,com.google.android.play.games	 #Google Play 游戏
   - PROCESS-NAME,com.google.android.safetycore	 #Android System SafetyCore
-  - PROCESS-NAME,com.google.android.verifier	 #Android 开发者身份验证工具
   - PROCESS-NAME,com.google.android.youtube	 #YouTube
   - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
+  - PROCESS-NAME,com.hunantv.imgo.activity.inter	 #MangoTV
+  - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
+  - PROCESS-NAME,com.infoldgames.infinitynikkias	 #无限暖暖
+  - PROCESS-NAME,com.inotesapp.inotes	 #备忘录
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
+  - PROCESS-NAME,com.iqiyi.i18n	 #iQIYI
+  - PROCESS-NAME,com.larksuite.suite	 #Lark
   - PROCESS-NAME,com.larus.wolf	 #Dola
+  - PROCESS-NAME,com.levelinfinite.sgameGlobal	 #Honor of Kings
+  - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
+  - PROCESS-NAME,com.mi.android.globalFileexplorer	 #文件管理
+  - PROCESS-NAME,com.mi.globalbrowser	 #小米浏览器
+  - PROCESS-NAME,com.miHoYo.GenshinImpact	 #原神
+  - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
+  - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
+  - PROCESS-NAME,com.mt.mtxx.mtxx	 #美图秀秀
+  - PROCESS-NAME,com.navercorp.game.android.community	 #치지직
+  - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
   - PROCESS-NAME,com.patreon.android	 #Patreon
+  - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
+  - PROCESS-NAME,com.pinterest	 #Pinterest
+  - PROCESS-NAME,com.speedsoftware.explorer	 #Explorer
   - PROCESS-NAME,com.spotify.music	 #Spotify
+  - PROCESS-NAME,com.ss.android.lark	 #飞书
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
+  - PROCESS-NAME,com.starbucks.cn	 #星巴克
+  - PROCESS-NAME,com.stardesk	 #StarDesk
+  - PROCESS-NAME,com.surfshark.vpnclient.android	 #Surfshark
+  - PROCESS-NAME,com.taobao.taobao	 #淘宝
+  - PROCESS-NAME,com.tencent.qqlivei18n.us	 #Tencent Video
+  - PROCESS-NAME,com.tencent.tmgp.codev	 #无畏契约：源能行动
+  - PROCESS-NAME,com.tencent.voov	 #VooV
+  - PROCESS-NAME,com.tencent.wxpai	 #TenPayGo
+  - PROCESS-NAME,com.tgc.sky.android	 #Sky
+  - PROCESS-NAME,com.unionpay	 #云闪付
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
+  - PROCESS-NAME,com.wrongchao.v2vpn	 #V2VPN
+  - PROCESS-NAME,com.x.aniimos	 #Aniimo
+  - PROCESS-NAME,com.xbrowser.play	 #X浏览器
+  - PROCESS-NAME,com.youku.international.phone	 #YOUKU
+  - PROCESS-NAME,eu.darken.sdmse	 #SD Maid SE
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
+  - PROCESS-NAME,gr.nikolasspyr.integritycheck	 #Play Integrity API Checker
+  - PROCESS-NAME,hotspotshield.android.vpn	 #Hotspot Shield VPN
+  - PROCESS-NAME,im.crisp.app	 #脆
+  - PROCESS-NAME,jp.naver.line.android	 #LINE
+  - PROCESS-NAME,kr.co.nowcom.mobile.afreeca	 #SOOP
+  - PROCESS-NAME,md.obsidian	 #Obsidian
   - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
-  - PROCESS-NAME,org.chromium.webapk.a547e3ac9b646d93a_v2	 #GitHub
+  - PROCESS-NAME,org.chromium.webapk.a3f60f24ddc36996e_v2	 #ip.skk.moe
+  - PROCESS-NAME,org.chromium.webapk.aa6e6791ab28bb583_v2	 #GitHub
+  - PROCESS-NAME,org.fossify.message	 #信息
+  - PROCESS-NAME,org.fossify.messages	 #信息
   - PROCESS-NAME,org.telegram.messenger	 #Telegram
-  - PROCESS-NAME,sg.bigo.live	 #BIGO LIVE
+  - PROCESS-NAME,tunein.player	 #TuneIn Radio
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch
+  - PROCESS-NAME,us.zoom.videomeetings	 #Zoom
+  - PROCESS-NAME,world.letsgo.booster.android.pro	 #快连 VPN
+  - PROCESS-NAME,ws.stash.app	 #Stash
