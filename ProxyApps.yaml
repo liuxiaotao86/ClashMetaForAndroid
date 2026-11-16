@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-16 20:14:34
+payload: # CreatedTime：2026-11-16 20:16:06
   - PROCESS-NAME,ai.x.grok.bot	 #Grok Bot
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
   - PROCESS-NAME,com.Bureau81.OPERATOR	 #The Operator
@@ -49,7 +49,6 @@ payload: # CreatedTime：2026-11-16 20:14:34
   - PROCESS-NAME,com.patreon.android	 #Patreon
   - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
   - PROCESS-NAME,com.pinterest	 #Pinterest
-  - PROCESS-NAME,com.speedsoftware.explorer	 #Explorer
   - PROCESS-NAME,com.spotify.music	 #Spotify
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.starbucks.cn	 #星巴克
@@ -73,8 +72,6 @@ payload: # CreatedTime：2026-11-16 20:14:34
   - PROCESS-NAME,md.obsidian	 #Obsidian
   - PROCESS-NAME,org.chromium.webapk.a3f60f24ddc36996e_v2	 #ip.skk.moe
   - PROCESS-NAME,org.chromium.webapk.aa6e6791ab28bb583_v2	 #GitHub
-  - PROCESS-NAME,org.fossify.message	 #信息
-  - PROCESS-NAME,org.fossify.messages	 #信息
   - PROCESS-NAME,org.telegram.messenger	 #Telegram
   - PROCESS-NAME,tunein.player	 #TuneIn Radio
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch

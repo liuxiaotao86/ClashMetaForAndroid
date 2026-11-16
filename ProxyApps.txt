@@ -48,7 +48,6 @@ com.openai.chatgpt
 com.patreon.android
 com.phonewalls.stockwallpapers
 com.pinterest
-com.speedsoftware.explorer
 com.spotify.music
 com.ss.android.ugc.trill
 com.starbucks.cn
@@ -72,8 +71,6 @@ kr.co.nowcom.mobile.afreeca
 md.obsidian
 org.chromium.webapk.a3f60f24ddc36996e_v2
 org.chromium.webapk.aa6e6791ab28bb583_v2
-org.fossify.message
-org.fossify.messages
 org.telegram.messenger
 tunein.player
 tv.twitch.android.app

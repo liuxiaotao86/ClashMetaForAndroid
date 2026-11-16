@@ -1,7 +1,3 @@
-org.fossify.message
-org.fossify.messages
-
-com.speedsoftware.explorer
 com.ImageStitch.lxt
 com.duokan.phone.remotecontroller
 com.farmerbb.notepad
@@ -13,8 +9,11 @@ com.google.android.apps.photosgo
 com.google.ar.lens
 com.lockscreen.round
 com.lockscreen.square
+com.speedsoftware.explorer
 com.topjohnwu.magisk
 com.vincentlee.compass
 deckers.thibault.aves
 moe.shizuku.privileged.api
+org.fossify.message
+org.fossify.messages
 org.videolan.vlc
