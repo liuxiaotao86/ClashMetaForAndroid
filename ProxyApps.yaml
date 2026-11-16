@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-15 09:27:51
+payload: # CreatedTime：2026-11-16 20:14:34
   - PROCESS-NAME,ai.x.grok.bot	 #Grok Bot
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
   - PROCESS-NAME,com.Bureau81.OPERATOR	 #The Operator
@@ -7,8 +7,6 @@ payload: # CreatedTime：2026-11-15 09:27:51
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.authy.authy	 #Authy
-  - PROCESS-NAME,com.baidu.BaiduMap	 #百度地图
-  - PROCESS-NAME,com.bytedance.android.doubaoime	 #豆包输入法
   - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
   - PROCESS-NAME,com.deepseek.chat	 #DeepSeek
   - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
@@ -42,11 +40,9 @@ payload: # CreatedTime：2026-11-15 09:27:51
   - PROCESS-NAME,com.levelinfinite.sgameGlobal	 #Honor of Kings
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
   - PROCESS-NAME,com.mi.android.globalFileexplorer	 #文件管理
-  - PROCESS-NAME,com.mi.globalbrowser	 #小米浏览器
   - PROCESS-NAME,com.miHoYo.GenshinImpact	 #原神
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
-  - PROCESS-NAME,com.mt.mtxx.mtxx	 #美图秀秀
   - PROCESS-NAME,com.navercorp.game.android.community	 #치지직
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
@@ -55,22 +51,17 @@ payload: # CreatedTime：2026-11-15 09:27:51
   - PROCESS-NAME,com.pinterest	 #Pinterest
   - PROCESS-NAME,com.speedsoftware.explorer	 #Explorer
   - PROCESS-NAME,com.spotify.music	 #Spotify
-  - PROCESS-NAME,com.ss.android.lark	 #飞书
   - PROCESS-NAME,com.ss.android.ugc.trill	 #TikTok
   - PROCESS-NAME,com.starbucks.cn	 #星巴克
   - PROCESS-NAME,com.stardesk	 #StarDesk
   - PROCESS-NAME,com.surfshark.vpnclient.android	 #Surfshark
-  - PROCESS-NAME,com.taobao.taobao	 #淘宝
   - PROCESS-NAME,com.tencent.qqlivei18n.us	 #Tencent Video
-  - PROCESS-NAME,com.tencent.tmgp.codev	 #无畏契约：源能行动
   - PROCESS-NAME,com.tencent.voov	 #VooV
   - PROCESS-NAME,com.tencent.wxpai	 #TenPayGo
   - PROCESS-NAME,com.tgc.sky.android	 #Sky
-  - PROCESS-NAME,com.unionpay	 #云闪付
   - PROCESS-NAME,com.whatsapp	 #WhatsApp
   - PROCESS-NAME,com.wrongchao.v2vpn	 #V2VPN
   - PROCESS-NAME,com.x.aniimos	 #Aniimo
-  - PROCESS-NAME,com.xbrowser.play	 #X浏览器
   - PROCESS-NAME,com.youku.international.phone	 #YOUKU
   - PROCESS-NAME,eu.darken.sdmse	 #SD Maid SE
   - PROCESS-NAME,flar2.devcheck	 #DevCheck
@@ -80,7 +71,6 @@ payload: # CreatedTime：2026-11-15 09:27:51
   - PROCESS-NAME,jp.naver.line.android	 #LINE
   - PROCESS-NAME,kr.co.nowcom.mobile.afreeca	 #SOOP
   - PROCESS-NAME,md.obsidian	 #Obsidian
-  - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
   - PROCESS-NAME,org.chromium.webapk.a3f60f24ddc36996e_v2	 #ip.skk.moe
   - PROCESS-NAME,org.chromium.webapk.aa6e6791ab28bb583_v2	 #GitHub
   - PROCESS-NAME,org.fossify.message	 #信息
@@ -89,5 +79,4 @@ payload: # CreatedTime：2026-11-15 09:27:51
   - PROCESS-NAME,tunein.player	 #TuneIn Radio
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch
   - PROCESS-NAME,us.zoom.videomeetings	 #Zoom
-  - PROCESS-NAME,world.letsgo.booster.android.pro	 #快连 VPN
   - PROCESS-NAME,ws.stash.app	 #Stash

@@ -6,8 +6,6 @@ com.abs.cpu_z_advance
 com.absinthe.libchecker
 com.anthropic.claude
 com.authy.authy
-com.baidu.BaiduMap
-com.bytedance.android.doubaoime
 com.chartcross.gpstest
 com.deepseek.chat
 com.digibites.accubattery
@@ -41,11 +39,9 @@ com.larus.wolf
 com.levelinfinite.sgameGlobal
 com.levelinfinite.sgameGlobal.cloud
 com.mi.android.globalFileexplorer
-com.mi.globalbrowser
 com.miHoYo.GenshinImpact
 com.mihoyo.hoyolab
 com.moonshot.kimichat
-com.mt.mtxx.mtxx
 com.navercorp.game.android.community
 com.one.vpnapp
 com.openai.chatgpt
@@ -54,22 +50,17 @@ com.phonewalls.stockwallpapers
 com.pinterest
 com.speedsoftware.explorer
 com.spotify.music
-com.ss.android.lark
 com.ss.android.ugc.trill
 com.starbucks.cn
 com.stardesk
 com.surfshark.vpnclient.android
-com.taobao.taobao
 com.tencent.qqlivei18n.us
-com.tencent.tmgp.codev
 com.tencent.voov
 com.tencent.wxpai
 com.tgc.sky.android
-com.unionpay
 com.whatsapp
 com.wrongchao.v2vpn
 com.x.aniimos
-com.xbrowser.play
 com.youku.international.phone
 eu.darken.sdmse
 flar2.devcheck
@@ -79,7 +70,6 @@ im.crisp.app
 jp.naver.line.android
 kr.co.nowcom.mobile.afreeca
 md.obsidian
-myradio.radio.fmradio.liveradio.radiostation
 org.chromium.webapk.a3f60f24ddc36996e_v2
 org.chromium.webapk.aa6e6791ab28bb583_v2
 org.fossify.message
@@ -88,5 +78,4 @@ org.telegram.messenger
 tunein.player
 tv.twitch.android.app
 us.zoom.videomeetings
-world.letsgo.booster.android.pro
 ws.stash.app
