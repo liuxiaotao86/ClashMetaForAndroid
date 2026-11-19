@@ -1,3 +1,4 @@
+com.kugou.android.elder
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
