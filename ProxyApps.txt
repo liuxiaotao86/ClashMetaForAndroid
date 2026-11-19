@@ -11,6 +11,7 @@ com.deepseek.chat
 com.digibites.accubattery
 com.discord
 com.droidcity.cpuzprox
+com.facebook.aura
 com.google.android.apps.authenticator2
 com.google.android.apps.books
 com.google.android.apps.credentialmanager
@@ -34,6 +35,7 @@ com.inotesapp.inotes
 com.instagram.android
 com.instagram.barcelona
 com.iqiyi.i18n
+com.kugou.android.elder
 com.larksuite.suite
 com.larus.wolf
 com.levelinfinite.sgameGlobal
@@ -43,6 +45,8 @@ com.miHoYo.GenshinImpact
 com.mihoyo.hoyolab
 com.moonshot.kimichat
 com.navercorp.game.android.community
+com.netease.ko
+com.netease.kolite
 com.one.vpnapp
 com.openai.chatgpt
 com.patreon.android

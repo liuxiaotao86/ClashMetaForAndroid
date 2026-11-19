@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-16 20:16:06
+payload: # CreatedTime：2026-11-19 19:47:37
   - PROCESS-NAME,ai.x.grok.bot	 #Grok Bot
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
   - PROCESS-NAME,com.Bureau81.OPERATOR	 #The Operator
@@ -12,6 +12,7 @@ payload: # CreatedTime：2026-11-16 20:16:06
   - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
+  - PROCESS-NAME,com.facebook.aura	 #Muse
   - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
   - PROCESS-NAME,com.google.android.apps.books	 #Google Play 图书
   - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
@@ -35,6 +36,7 @@ payload: # CreatedTime：2026-11-16 20:16:06
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
   - PROCESS-NAME,com.iqiyi.i18n	 #iQIYI
+  - PROCESS-NAME,com.kugou.android.elder	 #酷狗免费版
   - PROCESS-NAME,com.larksuite.suite	 #Lark
   - PROCESS-NAME,com.larus.wolf	 #Dola
   - PROCESS-NAME,com.levelinfinite.sgameGlobal	 #Honor of Kings
@@ -44,6 +46,8 @@ payload: # CreatedTime：2026-11-16 20:16:06
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
   - PROCESS-NAME,com.navercorp.game.android.community	 #치지직
+  - PROCESS-NAME,com.netease.ko	 #荒野行动
+  - PROCESS-NAME,com.netease.kolite	 #荒野行動-AIR
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
   - PROCESS-NAME,com.patreon.android	 #Patreon
