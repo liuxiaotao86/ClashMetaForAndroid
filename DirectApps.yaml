@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-16 20:14:34
+payload: # CreatedTime：2026-11-19 19:48:36
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -43,6 +43,7 @@ payload: # CreatedTime：2026-11-16 20:14:34
   - PROCESS-NAME,com.icbc	 #中国工商银行
   - PROCESS-NAME,com.jingdong.app.mall	 #京东
   - PROCESS-NAME,com.kugou.android	 #酷狗音乐
+  - PROCESS-NAME,com.kugou.android.elder	 #酷狗免费版
   - PROCESS-NAME,com.larus.nova	 #豆包
   - PROCESS-NAME,com.lockscreen.round	 #锁屏
   - PROCESS-NAME,com.luna.music	 #汽水音乐

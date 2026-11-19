@@ -35,7 +35,6 @@ com.inotesapp.inotes
 com.instagram.android
 com.instagram.barcelona
 com.iqiyi.i18n
-com.kugou.android.elder
 com.larksuite.suite
 com.larus.wolf
 com.levelinfinite.sgameGlobal

@@ -1,4 +1,3 @@
-com.kugou.android.elder
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -43,6 +42,7 @@ com.huya.kiwi
 com.icbc
 com.jingdong.app.mall
 com.kugou.android
+com.kugou.android.elder
 com.larus.nova
 com.lockscreen.round
 com.luna.music
