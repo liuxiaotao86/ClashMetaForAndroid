@@ -1,18 +1,24 @@
-payload: # CreatedTime：2026-11-19 19:48:36
+payload: # CreatedTime：2026-11-20 14:13:45
   - PROCESS-NAME,ai.x.grok.bot	 #Grok Bot
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
   - PROCESS-NAME,com.Bureau81.OPERATOR	 #The Operator
   - PROCESS-NAME,com.HoYoverse.Nap	 #绝区零
+  - PROCESS-NAME,com.abjlvcha.main	 #绿茶VPN
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
   - PROCESS-NAME,com.anthropic.claude	 #Claude
   - PROCESS-NAME,com.authy.authy	 #Authy
+  - PROCESS-NAME,com.baidu.input	 #百度输入法
+  - PROCESS-NAME,com.baidu.searchbox	 #百度
+  - PROCESS-NAME,com.bstar.intl	 #BiliBili
   - PROCESS-NAME,com.chartcross.gpstest	 #GPS Test
   - PROCESS-NAME,com.deepseek.chat	 #DeepSeek
+  - PROCESS-NAME,com.didiglobal.passenger	 #滴滴国际版
   - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
   - PROCESS-NAME,com.facebook.aura	 #Muse
+  - PROCESS-NAME,com.fingersoft.hillclimb	 #Hill Climb Racing
   - PROCESS-NAME,com.google.android.apps.authenticator2	 #身份验证器
   - PROCESS-NAME,com.google.android.apps.books	 #Google Play 图书
   - PROCESS-NAME,com.google.android.apps.credentialmanager	 #密码
@@ -30,18 +36,21 @@ payload: # CreatedTime：2026-11-19 19:48:36
   - PROCESS-NAME,com.google.android.youtube	 #YouTube
   - PROCESS-NAME,com.google.ar.core	 #Google Play Services for AR
   - PROCESS-NAME,com.hunantv.imgo.activity.inter	 #MangoTV
+  - PROCESS-NAME,com.icalculatorapp.icalculator	 #计算器
   - PROCESS-NAME,com.ilivedata.viitor	 #ViiTor实时翻译
   - PROCESS-NAME,com.infoldgames.infinitynikkias	 #无限暖暖
-  - PROCESS-NAME,com.inotesapp.inotes	 #备忘录
+  - PROCESS-NAME,com.inotesapp.inotes	 #NoteKit
   - PROCESS-NAME,com.instagram.android	 #Instagram
   - PROCESS-NAME,com.instagram.barcelona	 #Threads
   - PROCESS-NAME,com.iqiyi.i18n	 #iQIYI
+  - PROCESS-NAME,com.jkydt.app	 #驾考一点通
   - PROCESS-NAME,com.larksuite.suite	 #Lark
   - PROCESS-NAME,com.larus.wolf	 #Dola
   - PROCESS-NAME,com.levelinfinite.sgameGlobal	 #Honor of Kings
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
   - PROCESS-NAME,com.mi.android.globalFileexplorer	 #文件管理
   - PROCESS-NAME,com.miHoYo.GenshinImpact	 #原神
+  - PROCESS-NAME,com.microsoft.teams	 #Teams
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
   - PROCESS-NAME,com.navercorp.game.android.community	 #치지직
@@ -58,6 +67,7 @@ payload: # CreatedTime：2026-11-19 19:48:36
   - PROCESS-NAME,com.stardesk	 #StarDesk
   - PROCESS-NAME,com.surfshark.vpnclient.android	 #Surfshark
   - PROCESS-NAME,com.tencent.qqlivei18n.us	 #Tencent Video
+  - PROCESS-NAME,com.tencent.start	 #腾讯START云游戏
   - PROCESS-NAME,com.tencent.voov	 #VooV
   - PROCESS-NAME,com.tencent.wxpai	 #TenPayGo
   - PROCESS-NAME,com.tgc.sky.android	 #Sky
@@ -76,6 +86,7 @@ payload: # CreatedTime：2026-11-19 19:48:36
   - PROCESS-NAME,org.chromium.webapk.a3f60f24ddc36996e_v2	 #ip.skk.moe
   - PROCESS-NAME,org.chromium.webapk.aa6e6791ab28bb583_v2	 #GitHub
   - PROCESS-NAME,org.telegram.messenger	 #Telegram
+  - PROCESS-NAME,photoeditor.layout.collagemaker	 #拼图&图片编辑 - GridArt
   - PROCESS-NAME,tunein.player	 #TuneIn Radio
   - PROCESS-NAME,tv.twitch.android.app	 #Twitch
   - PROCESS-NAME,us.zoom.videomeetings	 #Zoom
