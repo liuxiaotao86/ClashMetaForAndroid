@@ -1,3 +1,15 @@
+com.xbrowser.play
+com.larksuite.suite
+com.ss.android.article.video.phone
+com.tencent.tmgp.codev
+com.tencent.start
+com.taobao.taobao
+com.luna.music
+com.kugou.android.elder
+com.baidu.searchbox
+com.baidu.BaiduMap
+com.baidu.input
+com.microsoft.teams
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
