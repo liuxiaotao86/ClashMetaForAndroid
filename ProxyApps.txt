@@ -7,8 +7,6 @@ com.abs.cpu_z_advance
 com.absinthe.libchecker
 com.anthropic.claude
 com.authy.authy
-com.baidu.input
-com.baidu.searchbox
 com.bstar.intl
 com.chartcross.gpstest
 com.deepseek.chat
@@ -43,13 +41,11 @@ com.instagram.android
 com.instagram.barcelona
 com.iqiyi.i18n
 com.jkydt.app
-com.larksuite.suite
 com.larus.wolf
 com.levelinfinite.sgameGlobal
 com.levelinfinite.sgameGlobal.cloud
 com.mi.android.globalFileexplorer
 com.miHoYo.GenshinImpact
-com.microsoft.teams
 com.mihoyo.hoyolab
 com.moonshot.kimichat
 com.navercorp.game.android.community
@@ -66,7 +62,6 @@ com.starbucks.cn
 com.stardesk
 com.surfshark.vpnclient.android
 com.tencent.qqlivei18n.us
-com.tencent.start
 com.tencent.voov
 com.tencent.wxpai
 com.tgc.sky.android

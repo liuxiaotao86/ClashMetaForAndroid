@@ -1,15 +1,3 @@
-com.xbrowser.play
-com.larksuite.suite
-com.ss.android.article.video.phone
-com.tencent.tmgp.codev
-com.tencent.start
-com.taobao.taobao
-com.luna.music
-com.kugou.android.elder
-com.baidu.searchbox
-com.baidu.BaiduMap
-com.baidu.input
-com.microsoft.teams
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -25,7 +13,9 @@ com.android.wallpapers
 com.autonavi.minimap
 com.baidu.BaiduMap
 com.baidu.drive.app
+com.baidu.input
 com.baidu.netdisk
+com.baidu.searchbox
 com.baidu.youavideo
 com.bankcomm.Bankcomm
 com.bbk.appstore
@@ -55,6 +45,7 @@ com.icbc
 com.jingdong.app.mall
 com.kugou.android
 com.kugou.android.elder
+com.larksuite.suite
 com.larus.nova
 com.lockscreen.round
 com.luna.music
@@ -63,6 +54,7 @@ com.miHoYo.Nap
 com.miHoYo.Yuanshen
 com.miHoYo.cloudgames.Nap
 com.miHoYo.cloudgames.ys
+com.microsoft.teams
 com.mihoyo.hyperion
 com.mmbox.xbrowser
 com.mt.mtxx.mtxx
@@ -94,6 +86,7 @@ com.tencent.gamematrix.speedmobile
 com.tencent.gamematrix.tmgp.sgame
 com.tencent.mm
 com.tencent.mobileqq
+com.tencent.start
 com.tencent.tim
 com.tencent.tmgp.codev
 com.tencent.tmgp.pubgmhd
