@@ -1,8 +1,3 @@
-com.manjuu.promilia.cloud
-com.manjuu.promilia
-com.phoenix.read.oversea.gp
-com.phoenix.read
-com.microsoft.teams
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -54,6 +49,8 @@ com.larksuite.suite
 com.larus.nova
 com.lockscreen.round
 com.luna.music
+com.manjuu.promilia
+com.manjuu.promilia.cloud
 com.mi.globalbrowser
 com.miHoYo.Nap
 com.miHoYo.Yuanshen
@@ -69,6 +66,8 @@ com.netease.micro.yysls
 com.netease.yyslscn
 com.openlanguage.kaiyan
 com.phantom
+com.phoenix.read
+com.phoenix.read.oversea.gp
 com.pwrd.cloud.yh.laohu
 com.quark.browser
 com.ruguoapp.jike

@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-21 22:14:52
+payload: # CreatedTime：2026-11-26 18:54:45
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -50,6 +50,8 @@ payload: # CreatedTime：2026-11-21 22:14:52
   - PROCESS-NAME,com.larus.nova	 #豆包
   - PROCESS-NAME,com.lockscreen.round	 #锁屏
   - PROCESS-NAME,com.luna.music	 #汽水音乐
+  - PROCESS-NAME,com.manjuu.promilia	 #蓝色星原：旅谣
+  - PROCESS-NAME,com.manjuu.promilia.cloud	 #云·蓝色星原：旅谣
   - PROCESS-NAME,com.mi.globalbrowser	 #小米浏览器
   - PROCESS-NAME,com.miHoYo.Nap	 #绝区零
   - PROCESS-NAME,com.miHoYo.Yuanshen	 #原神
@@ -65,6 +67,8 @@ payload: # CreatedTime：2026-11-21 22:14:52
   - PROCESS-NAME,com.netease.yyslscn	 #燕云十六声
   - PROCESS-NAME,com.openlanguage.kaiyan	 #开言英语
   - PROCESS-NAME,com.phantom	 #Phantom
+  - PROCESS-NAME,com.phoenix.read	 #红果免费短剧
+  - PROCESS-NAME,com.phoenix.read.oversea.gp	 #红果短剧
   - PROCESS-NAME,com.pwrd.cloud.yh.laohu	 #云·异环
   - PROCESS-NAME,com.quark.browser	 #夸克
   - PROCESS-NAME,com.ruguoapp.jike	 #即刻
