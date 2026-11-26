@@ -1,8 +1,10 @@
-payload: # CreatedTime：2026-11-21 22:14:52
+payload: # CreatedTime：2026-11-26 18:47:07
   - PROCESS-NAME,ai.x.grok.bot	 #Grok Bot
+  - PROCESS-NAME,chat.hifun.android	 #HiFun嗨翻
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
   - PROCESS-NAME,com.Bureau81.OPERATOR	 #The Operator
   - PROCESS-NAME,com.HoYoverse.Nap	 #绝区零
+  - PROCESS-NAME,com.Yostar.AzurpromiliaJP	 #アズールプロミリア
   - PROCESS-NAME,com.abjlvcha.main	 #绿茶VPN
   - PROCESS-NAME,com.abs.cpu_z_advance	 #CPU X
   - PROCESS-NAME,com.absinthe.libchecker	 #LibChecker
@@ -43,8 +45,9 @@ payload: # CreatedTime：2026-11-21 22:14:52
   - PROCESS-NAME,com.iqiyi.i18n	 #iQIYI
   - PROCESS-NAME,com.jkydt.app	 #驾考一点通
   - PROCESS-NAME,com.larus.wolf	 #Dola
-  - PROCESS-NAME,com.levelinfinite.sgameGlobal	 #Honor of Kings
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.cloud	 #Honor of Kings · Cloud
+  - PROCESS-NAME,com.manjuu.promilia	 #蓝色星原：旅谣
+  - PROCESS-NAME,com.manjuu.promilia.cloud	 #云·蓝色星原：旅谣
   - PROCESS-NAME,com.mi.android.globalFileexplorer	 #文件管理
   - PROCESS-NAME,com.miHoYo.GenshinImpact	 #原神
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
@@ -55,6 +58,8 @@ payload: # CreatedTime：2026-11-21 22:14:52
   - PROCESS-NAME,com.one.vpnapp	 #1VPN
   - PROCESS-NAME,com.openai.chatgpt	 #ChatGPT
   - PROCESS-NAME,com.patreon.android	 #Patreon
+  - PROCESS-NAME,com.phoenix.read	 #红果免费短剧
+  - PROCESS-NAME,com.phoenix.read.oversea.gp	 #红果短剧
   - PROCESS-NAME,com.phonewalls.stockwallpapers	 #PhoneWalls
   - PROCESS-NAME,com.pinterest	 #Pinterest
   - PROCESS-NAME,com.spotify.music	 #Spotify

@@ -1,7 +1,9 @@
 ai.x.grok.bot
+chat.hifun.android
 cn.gavinliu.snapmod
 com.Bureau81.OPERATOR
 com.HoYoverse.Nap
+com.Yostar.AzurpromiliaJP
 com.abjlvcha.main
 com.abs.cpu_z_advance
 com.absinthe.libchecker
@@ -42,8 +44,9 @@ com.instagram.barcelona
 com.iqiyi.i18n
 com.jkydt.app
 com.larus.wolf
-com.levelinfinite.sgameGlobal
 com.levelinfinite.sgameGlobal.cloud
+com.manjuu.promilia
+com.manjuu.promilia.cloud
 com.mi.android.globalFileexplorer
 com.miHoYo.GenshinImpact
 com.mihoyo.hoyolab
@@ -54,6 +57,8 @@ com.netease.kolite
 com.one.vpnapp
 com.openai.chatgpt
 com.patreon.android
+com.phoenix.read
+com.phoenix.read.oversea.gp
 com.phonewalls.stockwallpapers
 com.pinterest
 com.spotify.music
