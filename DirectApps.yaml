@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-26 18:54:45
+payload: # CreatedTime：2026-11-29 00:25:14
   - PROCESS-NAME,app.alextran.immich	 #Immich
   - PROCESS-NAME,bin.mt.plus	 #MT管理器
   - PROCESS-NAME,bin.mt.termex	 #MT终端扩展包
@@ -32,6 +32,7 @@ payload: # CreatedTime：2026-11-26 18:54:45
   - PROCESS-NAME,com.ct.client	 #中国电信
   - PROCESS-NAME,com.duokan.phone.remotecontroller	 #万能遥控
   - PROCESS-NAME,com.duolingo	 #多邻国
+  - PROCESS-NAME,com.duowan.kiwi	 #虎牙直播
   - PROCESS-NAME,com.duowan.mobile	 #YY
   - PROCESS-NAME,com.ecitic.bank.mobile	 #中信银行
   - PROCESS-NAME,com.eg.android.AlipayGphone	 #支付宝
@@ -57,6 +58,7 @@ payload: # CreatedTime：2026-11-26 18:54:45
   - PROCESS-NAME,com.miHoYo.Yuanshen	 #原神
   - PROCESS-NAME,com.miHoYo.cloudgames.Nap	 #云·绝区零
   - PROCESS-NAME,com.miHoYo.cloudgames.ys	 #云·原神
+  - PROCESS-NAME,com.microsoft.emmx	 #Edge
   - PROCESS-NAME,com.microsoft.teams	 #Teams
   - PROCESS-NAME,com.mihoyo.hyperion	 #米游社
   - PROCESS-NAME,com.mmbox.xbrowser	 #X浏览器
@@ -118,6 +120,7 @@ payload: # CreatedTime：2026-11-26 18:54:45
   - PROCESS-NAME,com.yokia.app.reddownloader	 #红下载
   - PROCESS-NAME,hk.alipay.wallet	 #AlipayHK
   - PROCESS-NAME,mark.via	 #Via
+  - PROCESS-NAME,mark.via.gp	 #Via
   - PROCESS-NAME,mihomo	 #mihomo内核
   - PROCESS-NAME,myradio.radio.fmradio.liveradio.radiostation	 #MyRadio
   - PROCESS-NAME,org.localsend.localsend_app	 #LocalSend

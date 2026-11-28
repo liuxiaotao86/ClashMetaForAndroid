@@ -1,13 +1,3 @@
-com.duowan.kiwi
-com.microsoft.emmx
-mark.via
-com.mmbox.xbrowser
-mark.via.gp
-com.xbrowser.play
-
-
-
-
 app.alextran.immich
 bin.mt.plus
 bin.mt.termex
@@ -41,6 +31,7 @@ com.coolapk.market
 com.ct.client
 com.duokan.phone.remotecontroller
 com.duolingo
+com.duowan.kiwi
 com.duowan.mobile
 com.ecitic.bank.mobile
 com.eg.android.AlipayGphone
@@ -66,6 +57,7 @@ com.miHoYo.Nap
 com.miHoYo.Yuanshen
 com.miHoYo.cloudgames.Nap
 com.miHoYo.cloudgames.ys
+com.microsoft.emmx
 com.microsoft.teams
 com.mihoyo.hyperion
 com.mmbox.xbrowser
@@ -127,6 +119,7 @@ com.yokia.app.kuaidownloader
 com.yokia.app.reddownloader
 hk.alipay.wallet
 mark.via
+mark.via.gp
 mihomo
 myradio.radio.fmradio.liveradio.radiostation
 org.localsend.localsend_app

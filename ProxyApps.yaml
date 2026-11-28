@@ -1,4 +1,4 @@
-payload: # CreatedTime：2026-11-29 00:22:34
+payload: # CreatedTime：2026-11-29 00:25:14
   - PROCESS-NAME,ai.x.grok.bot	 #Grok Bot
   - PROCESS-NAME,chat.hifun.android	 #HiFun嗨翻
   - PROCESS-NAME,cn.gavinliu.snapmod	 #Snapmod
@@ -19,7 +19,6 @@ payload: # CreatedTime：2026-11-29 00:22:34
   - PROCESS-NAME,com.digibites.accubattery	 #AccuBattery
   - PROCESS-NAME,com.discord	 #Discord
   - PROCESS-NAME,com.droidcity.cpuzprox	 #CPU Z PRO
-  - PROCESS-NAME,com.duowan.kiwi	 #虎牙直播
   - PROCESS-NAME,com.ea.game.pvzfree_row	 #Plants vs. Zombies FREE
   - PROCESS-NAME,com.facebook.aura	 #Muse
   - PROCESS-NAME,com.fingersoft.hillclimb	 #Hill Climb Racing
@@ -51,7 +50,6 @@ payload: # CreatedTime：2026-11-29 00:22:34
   - PROCESS-NAME,com.larus.wolf	 #Dola
   - PROCESS-NAME,com.mi.android.globalFileexplorer	 #文件管理
   - PROCESS-NAME,com.miHoYo.GenshinImpact	 #原神
-  - PROCESS-NAME,com.microsoft.emmx	 #Edge
   - PROCESS-NAME,com.mihoyo.hoyolab	 #HoYoLAB
   - PROCESS-NAME,com.moonshot.kimichat	 #Kimi
   - PROCESS-NAME,com.navercorp.game.android.community	 #치지직
@@ -83,7 +81,6 @@ payload: # CreatedTime：2026-11-29 00:22:34
   - PROCESS-NAME,im.crisp.app	 #脆
   - PROCESS-NAME,jp.naver.line.android	 #LINE
   - PROCESS-NAME,kr.co.nowcom.mobile.afreeca	 #SOOP
-  - PROCESS-NAME,mark.via.gp	 #Via
   - PROCESS-NAME,md.obsidian	 #Obsidian
   - PROCESS-NAME,org.chromium.webapk.a3f60f24ddc36996e_v2	 #ip.skk.moe
   - PROCESS-NAME,org.chromium.webapk.aa6e6791ab28bb583_v2	 #GitHub

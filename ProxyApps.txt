@@ -18,7 +18,6 @@ com.didiglobal.passenger
 com.digibites.accubattery
 com.discord
 com.droidcity.cpuzprox
-com.duowan.kiwi
 com.ea.game.pvzfree_row
 com.facebook.aura
 com.fingersoft.hillclimb
@@ -50,7 +49,6 @@ com.jkydt.app
 com.larus.wolf
 com.mi.android.globalFileexplorer
 com.miHoYo.GenshinImpact
-com.microsoft.emmx
 com.mihoyo.hoyolab
 com.moonshot.kimichat
 com.navercorp.game.android.community
@@ -82,7 +80,6 @@ hotspotshield.android.vpn
 im.crisp.app
 jp.naver.line.android
 kr.co.nowcom.mobile.afreeca
-mark.via.gp
 md.obsidian
 org.chromium.webapk.a3f60f24ddc36996e_v2
 org.chromium.webapk.aa6e6791ab28bb583_v2
